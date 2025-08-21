@@ -1,0 +1,17 @@
+<wildcard:SwarmWC/color> choker
+anchor choker
+<wildcard:SwarmWC/color> bow choker
+cross choker
+<wildcard:SwarmWC/color> frilled choker
+fur choker
+gold choker
+heart choker
+<wildcard:SwarmWC/color> lace choker
+<wildcard:SwarmWC/color> lace-trimmed choker
+o-ring choker
+pendant choker
+spiked choker
+star choker
+<wildcard:SwarmWC/color> striped choker
+studded choker
+<wildcard:SwarmWC/color> ribbon choker

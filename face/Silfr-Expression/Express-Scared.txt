@@ -1,0 +1,12 @@
+scared, embarrassed, open mouth, large mouth, peanut mouth, {|shaded face}
+scared, wide-eyed, constricted pupils, closed mouth, frown, {|shaded face}
+scared, (raised inner eyebrows), wide-eyed, nervous, {open mouth, clenched teeth|open mouth, frown}
+scared, gloom \(expression\), dilated pupils, empty eyes, {light smile|frown|closed mouth, wavy mouth}
+scared, rasied eyebrows, dilated pupils, empty eyes, parted lips
+(scared), ((raised inner eyebrows)),{>_<, tightly closed eyes|closed eyes}, large mouth, open mouth, wavy mouth
+scared, worried, ((raised inner eyebrows)), large eyes, wide-eyed, @_@, open mouth, wavy mouth
+worried, black stare, expressionless, raised eyebrows, wide-eyed, constricted pupils, {frown|closed mouth, wavy mouth}
+scared, shaded face, large eyes, wide-eyed, dilated pupils, tiny iris, frown, clenched teeth
+large eyes, wide-eyed, {blank eyes|squiggle eyes}, tearing up, shaded face, tiny mouth, triangle mouth
+scared, (worried:1.2), raised inner eyebrows, closed eyes, nervous smile, open mouth
+scared, (raised inner eyebrows), wide-eyed, tearing up, open mouth, yelling

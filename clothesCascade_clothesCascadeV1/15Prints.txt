@@ -1,0 +1,29 @@
+abstract
+batik
+camouflage
+checkered
+cheetah
+chevron
+cow
+crocodile
+dalmatian
+damask
+floral
+geometric
+gingham
+giraffe
+ikat
+leopard
+paisley
+peacock feather
+plaid
+polka dots
+shibori
+snake skin
+strawberry
+stripes
+tartan
+tie-dye
+tiger stripe
+toile de jouy
+zebra

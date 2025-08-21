@@ -1,0 +1,21 @@
+__accessory/tattoo-arm__
+__accessory/tattoo-full__
+__accessory/tattoo-hand__
+__accessory/tattoo-leg__
+__accessory/tattoo-neckface__
+__accessory/tattoo-specific__
+__accessory/tattoo-torso__
+__color__ __accessory/tattoo-arm__
+__color__ __accessory/tattoo-full__
+__color__ __accessory/tattoo-hand__
+__color__ __accessory/tattoo-leg__
+__color__ __accessory/tattoo-neckface__
+__color__ __accessory/tattoo-specific__
+__color__ __accessory/tattoo-torso__
+__color__ __accessory/tattoo-arm__ __accessory/tattoo-specific__
+__color__ __accessory/tattoo-full__ __accessory/tattoo-specific__
+__color__ __accessory/tattoo-hand__ __accessory/tattoo-specific__
+__color__ __accessory/tattoo-leg__ __accessory/tattoo-specific__
+__color__ __accessory/tattoo-neckface__ __accessory/tattoo-specific__
+__color__ __accessory/tattoo-specific__
+__color__ __accessory/tattoo-torso__ __accessory/tattoo-specific__

@@ -1,0 +1,101 @@
+fox ears, fox tail
+fennec ears, fennec tail
+raccoon ears, raccoon tail
+cat ears, cat tail
+wolf ears, wolf tail
+rabbit ears, rabbit tail
+tiger ears, tiger tail
+horse ears, horse tail
+dragon horns, dragon tail
+bird crest, bird tail
+reindeer horns, reindeer ears, reindeer tail
+bear ears, bear tail
+squirrel ears, squirrel tail
+lion mane, lion ears, lion tail
+mouse ears, mouse tail
+animal ears, animal tail
+panda ears, panda tail
+peafowl tail
+seal ears,seal tail
+badger ears,badger tail
+armadillo ears,armadillo tail
+weasel ears,weasel tail
+wild boar ears,wild boar tail
+wombat ears,wombat tail
+bull ears,bull tail,bull horns
+hippopotamus ears,hippopotamus tail,hippopotamus eyes
+capibara eras, capibara tail
+serow ears, serow tail
+platypus ears, platypus tail, crow
+otter ears, otter tail
+kangaroo ears, kangaroo tail
+giraffe ears, giraffe tail
+kudu ears, kudu tail
+bear ears, bear tail
+polar bear ears, polar bear tail
+koala ears, koala tail
+panther ears, panther tail
+bat ears, bat tail, bat wing
+coyote ears, coyote tail
+gorilla ears, gorilla tail
+serval ears, serval tail
+monkey ears, monkey tail
+specter lemur ears, specter lemur tail
+gibbon ears, gibbon tail
+deer ears, deer tail
+zebra ears, zebra tail
+jaguar ears, jaguar tail
+killer whale tail
+jackal ears, jackal tail
+water buffalo ears, water buffalo tail
+skunk ears, skunk tail
+springbok ears, springbok tail
+walrus ears, walrus tail
+elephant ears, elephant tail
+raccoon dog ears, raccoon dog tail
+cheetah ears, cheetah tail
+dingo ears, dingo tail
+degu ears, degu tail
+marten ears, marten tail
+sea lion ears, sea lion tail
+tiger ears, tiger tail
+tigress ears, tigress tail
+sloth ears, sloth tail
+gnu ears, gnu tail
+coypus ears, coypus tail
+hyena ears, hyena tail
+bison ears, bison tail
+paca ears, paca tail
+tapir ears, tapir tail
+palm civet cat ears, palm civet cat tail
+hamster ears, hamster tail
+echidna ears, echidna tail
+beaver ears, beaver tail
+bighorn ears, bighorn tail
+sheep ears, sheep tail, wool
+baboon ears, baboon tail
+puma ears, puma tail
+leopard ears, leopard tail
+pig ears, pig tail
+prairie dog ears, prairie dog tail
+pony ears, pony tail
+mongoose ears, mongoose tail
+meerkat ears, meerkat tail
+mink ears, mink tail
+flying squirrel ears, flying squirrel tail
+mole ears, mole tail
+guinea pig ears, guinea pig tail
+goat ears, goat tail
+yak ears, yak tail
+porcupine ears, porcupine tail
+wildcat ears, wildcat tail
+lioness ears, lioness tail
+camel ears, camel tail
+sea otter ears, sea otter tail
+mule ears, mule tail
+lama ears, lama tail
+chipmunk ears, chipmunk tail
+lesser panda ears, lesser panda tail
+donkey ears, donkey tail
+wallaby ears, wallaby tail
+penguin ears, penguin tail, penguin wings

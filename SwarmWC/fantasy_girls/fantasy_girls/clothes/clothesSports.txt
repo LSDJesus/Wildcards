@@ -1,0 +1,13 @@
+soccer_uniform
+Training pants, Running shirt
+tennis_uniform
+volleyball_uniform
+Gym shorts, T-shirt
+baseball_uniform
+Yoga pants, sports bra
+basketball_uniform
+Jersey
+track_uniform, Tank top
+Badminton wear, Leggings
+Golf wear
+Cycling wear, Cycling shoes

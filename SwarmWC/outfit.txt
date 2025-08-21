@@ -1,0 +1,74 @@
+nude
+nude
+nude
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-panties>, <wildcard:SwarmWC/clothing/bot-panties-actions>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/outfit-athletic>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/outfit-bathroom>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/outfit-bottomless>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/outfit-dress>, <wildcard:SwarmWC/clothing/footwear-heels>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/outfit-lingerie>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/outfit-sleepwear>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/outfit-suit>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/outfit-suit-fictional>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/outfit-swimwear>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/outfit-swimwear>, <wildcard:SwarmWC/clothing/footwear-sandals>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/outfit-topless>
+<wildcard:SwarmWC/clothing/prefix-expose> <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/outfit-athletic>
+<wildcard:SwarmWC/clothing/prefix-expose> <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/outfit-bathroom>
+<wildcard:SwarmWC/clothing/prefix-expose> <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/outfit-bottomless>
+<wildcard:SwarmWC/clothing/prefix-expose> <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/outfit-dress>
+<wildcard:SwarmWC/clothing/prefix-expose> <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/outfit-lingerie>
+<wildcard:SwarmWC/clothing/prefix-expose> <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/outfit-sleepwear>
+<wildcard:SwarmWC/clothing/prefix-expose> <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/outfit-suit>
+<wildcard:SwarmWC/clothing/prefix-expose> <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/outfit-suit-fictional>
+<wildcard:SwarmWC/clothing/prefix-expose> <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/outfit-swimwear>
+<wildcard:SwarmWC/clothing/prefix-expose> <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/outfit-topless>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-panties>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-corset>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-panties>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-outer>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-panties>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-shirt>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-panties>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-sweater>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-panties>, <wildcard:SwarmWC/clothing/bot-panties-actions>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-leggings>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-bra>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-leggings>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-corset>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-leggings>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-outer>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-leggings>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-shirt>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-leggings>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-sweater>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-pants>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-bra>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-pants>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-corset>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-pants>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-outer>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-pants>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-shirt>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-pants>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-sweater>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-shorts>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-bra>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-shorts>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-corset>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-shorts>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-outer>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-shorts>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-shirt>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-shorts>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-sweater>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-skirt>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-bra>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-skirt>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-corset>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-skirt>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-outer>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-skirt>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-shirt>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-skirt>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-sweater>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-tights>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-bra>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-tights>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-corset>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-tights>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-outer>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-tights>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-shirt>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-tights>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-sweater>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-bra>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-leggings> 
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-bra>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-panties>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-bra>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-pants>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-bra>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-shorts>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-bra>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-skirt>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-bra>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-tights>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-corset>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-leggings> 
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-corset>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-panties>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-corset>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-pants>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-corset>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-shorts>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-corset>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-skirt>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-corset>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-tights>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-shirt>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-leggings> 
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-shirt>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-panties>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-shirt>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-pants>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-shirt>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-shorts>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-shirt>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-skirt>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-shirt>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-tights>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/outfits>

@@ -1,0 +1,110 @@
+Akihabara(City) Traffic signals Street lights Neon signs Decorative signs building
+Las Vegas
+Shinjuku Kabukicho
+Disney land
+<random: car | motercycle >, Highway
+<random: car | motercycle >, Tunnel
+<random: car | motercycle >, Bridge
+<random: car | motercycle >, Sidewalk
+<random: car | motercycle >, Road
+<random: car | motercycle >, Station
+<random: car | motercycle >, Airport
+<random: car | motercycle >, Bus Stop
+<random: car | motercycle >, Port
+<random: car | motercycle >, Taxi Stand
+<random: car | motercycle >, Bypass
+Skyscraper
+Convenience store
+Police station
+School
+Karaoke Box
+Arcade
+Casino
+Theme Park
+Circus
+Aquarium
+Fast Food Restaurant
+Ramen Shop
+Steakhouse
+Pet Shop
+Drugstore
+Fish market
+Night market
+Park
+Restaurant
+Parking lot
+Hotel
+Railway
+Tunnel
+Park
+Bus Stop
+Train Station
+Zoo
+Hot Spring Facility
+Port
+Ferris Wheel
+Royal Palace
+Church
+Tower
+Fortress
+Citadel
+Pyramid
+Stele
+Arena
+Ruins
+Castle with Towers
+Open Plaza
+Office
+Studio
+Tower
+Warehouse
+Theater
+Hospital
+Bridge
+Library
+Gymnasium
+Campus
+Pool
+Church
+Hair salon
+Electronics store
+Flower shop
+Bakery
+Gym
+Gas station
+Outlet mall
+Theater
+Bar
+Dance Club
+Billiard Hall
+Nightclub
+Art Gallery
+Opera House
+Haunted House
+Cafe
+Sushi Bar
+Italian Restaurant
+Japanese Restaurant
+Korean BBQ
+Pizzeria
+Tea Room
+Brewery
+Wine Bar
+Supermarket
+Electronics Store
+Clothing Store
+Toy Store
+Souvenir Shop
+Music Store
+Jewelry Store
+Wine Shop
+Tea Shop
+Art Festival
+Graffiti Wall
+Water Installation
+Outdoor Theater
+Dance Space
+Fireworks Stage
+Coffee vendor
+Art stall
+Drink stand

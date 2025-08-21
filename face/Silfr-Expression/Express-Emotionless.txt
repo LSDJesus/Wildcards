@@ -1,0 +1,19 @@
+emotionless
+expressionless, big eyes, drowsy eyes
+expressionless, drooping eyes
+
+kuudere, expressionless, gloom \(expression\), empty eyes
+
+(tareme:1.2), expressionless, {half-closed eyes|empty eyes}
+
+raised eyebrows, expressionless, small mouth, :o
+
+expressionless, sad, closed mouth, frown
+
+raised eyebrows, (expressionless:1.2), half-closed eyes, pout
+
+bored, expressionless, empty eyes
+
+jitome, expressionless, {|empty eyes}
+
+expressionless, half-closed eyes, closed mouth, {|frown}

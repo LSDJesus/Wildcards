@@ -1,0 +1,84 @@
+central european with pale skin
+central european with tanned skin
+northern european with pale skin
+northern european with tanned skin
+southern european with pale skin
+southern european with tanned skin
+eastern european with pale skin
+eastern european with tanned skin
+ashkenazi jewish with pale skin
+ashkenazi jewish with tanned skin
+levantine with pale skin
+levantine with tanned skin
+arabian peninsula with pale skin
+arabian peninsula with tanned skin
+north african with pale skin
+north african with tanned skin
+sub-saharan west african with pale skin
+sub-saharan west african with tanned skin
+sub-saharan east african with pale skin
+sub-saharan east african with tanned skin
+central african with pale skin
+central african with tanned skin
+southern african with pale skin
+southern african with tanned skin
+horn of africa with pale skin
+horn of africa with tanned skin
+african diasporic with pale skin
+african diasporic with tanned skin
+afro-caribbean with pale skin
+afro-caribbean with tanned skin
+black american with pale skin
+black american with tanned skin
+australian aboriginal with pale skin
+australian aboriginal with tanned skin
+melanesian with pale skin
+melanesian with tanned skin
+polynesian with pale skin
+polynesian with tanned skin
+micronesian with pale skin
+micronesian with tanned skin
+japanese with pale skin
+japanese with tanned skin
+korean with pale skin
+korean with tanned skin
+han chinese with pale skin
+han chinese with tanned skin
+southeast asian with pale skin
+southeast asian with tanned skin
+mongolian with pale skin
+mongolian with tanned skin
+central asian with pale skin
+central asian with tanned skin
+tibetan with pale skin
+tibetan with tanned skin
+northern indian with pale skin
+northern indian with tanned skin
+southern indian with pale skin
+southern indian with tanned skin
+pakistani with pale skin
+pakistani with tanned skin
+bangladeshi with pale skin
+bangladeshi with tanned skin
+nepali with pale skin
+nepali with tanned skin
+indigenous north american with pale skin
+indigenous north american with tanned skin
+mestizo latin american with pale skin
+mestizo latin american with tanned skin
+indigenous south american with pale skin
+indigenous south american with tanned skin
+european-latin with pale skin
+european-latin with tanned skin
+afro-latin with pale skin
+afro-latin with tanned skin
+filipino with pale skin
+filipino with tanned skin
+multiracial with pale skin
+multiracial with tanned skin
+alaskan native with pale skin
+alaskan native with tanned skin
+inuits and yupik with pale skin
+inuits and yupik with tanned skin
+romani with pale skin
+romani with tanned skin

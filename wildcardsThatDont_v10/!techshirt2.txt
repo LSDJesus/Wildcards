@@ -1,0 +1,87 @@
+short-sleeved button-up, unbuttoned, loose fit, __materials__
+short-sleeved button-up, slim fit, tucked in, __materials__
+long-sleeved button-up, rolled-up sleeves, casual wear, __materials__
+long-sleeved button-up, crisp and pressed, corporate style, __materials__
+deep-V button-up, collar popped, cyber-sleek, __materials__
+high-collared button-up, asymmetrical cut, one side longer than the other, __materials__
+oversized button-up, hanging off one shoulder, barely covering chest, __materials__
+cropped button-up, cut just below the ribs, snug fit, __materials__
+dual-layer button-up, inner layer tight, outer layer loose and open, __materials__
+ultra-thin button-up, semi-translucent, clings to the body, __materials__
+button-up vest, sleeveless, reinforced shoulders, __materials__
+button-up with glowing seams, reactive to motion, __materials__
+button-up with one side torn, barely held together, __materials__
+frayed button-up, sleeves ripped off, raw cyber-grunge aesthetic, __materials__
+double-breasted button-up, wide lapels, military style, __materials__
+button-up with reinforced plating over chest, subtly armored, __materials__
+split-color button-up, one side darker than the other, __materials__
+button-up with vertical zipper instead of buttons, high-tech finish, __materials__
+button-up with hidden magnetic fasteners, seamless design, __materials__
+oversized button-up, worn open over another layer, draping casually, __materials__
+asymmetrical button-up, fastened only on one side, avant-garde styling, __materials__
+button-up with integrated flex-fiber wiring, low-level luminescence, __materials__
+button-up with animated holographic accents, shifting patterns, __materials__
+wrinkled button-up, collar slightly bent, worn-in streetwear, __materials__
+classic flannel, sleeves rolled up, mid-weight fabric, __materials__
+flannel shirt, oversized, worn like a jacket over a tank top, __materials__
+cropped flannel, bottom edge unevenly cut, loose threads, __materials__
+long flannel coat, extra-length back, duster-like silhouette, __materials__
+sheer flannel, ultra-thin, revealing what's underneath, __materials__
+dual-layer flannel, thick inner lining, cozy cyber-lumber aesthetic, __materials__
+flannel with cut-out shoulders, exposing arms but leaving long sleeves, __materials__
+sleeveless flannel vest, frayed armholes, street-fighter aesthetic, __materials__
+asymmetrical flannel, one side tucked, the other side loose, __materials__
+flannel wrapped and tied around the waist, functional accessory, __materials__
+flannel with built-in pockets, cyber-hiker fashion, __materials__
+flannel with reinforced elbow pads, light armor elements, __materials__
+hacked-up flannel, torn into strips and reassembled with metal clasps, __materials__
+flannel with micro-fiber threading, integrated AR interface panels, __materials__
+flannel with heated inner lining, temperature-controlled streetwear, __materials__
+flannel made from, __materials__, augmented for durability
+high-tech flannel, woven with reflective threading, faintly glowing grid, __materials__
+flannel with haptic-feedback nodes, vibrating along seams, __materials__
+flannel with cybernetic interface ports on sleeves, wearable tech, __materials__
+tight-fitting sweater, ribbed texture, breathable, __materials__
+oversized sweater, sleeves extending past hands, draping loosely, __materials__
+cropped sweater, exposing midriff, snug around arms, __materials__
+deep-V sweater, plunging neckline, loose fit, __materials__
+sweater with reinforced shoulders, structured silhouette, __materials__
+sweater with zippers along sides, adjustable fit, __materials__
+sheer knit sweater, ultra-thin, barely obscuring the body, __materials__
+asymmetrical sweater, one sleeve missing, cut for a cyber-sleek look, __materials__
+off-the-shoulder sweater, exposing collarbone and upper chest, __materials__
+layered sweater, external bands crossing over the torso, __materials__
+sweater with thumbholes, tightly fitted to arms, __materials__
+holo-fiber sweater, shifting designs across fabric, interactive display, __materials__
+sweater with built-in wiring, emitting soft pulses of light, __materials__
+tattered sweater, full of holes, deliberate distressing, __materials__
+oversized sweater with extra-long sleeves, bunching at wrists, __materials__
+split-hem sweater, asymmetric bottom edge, stylish uneven cut, __materials__
+layered sweater with reinforced chest padding, protective fashion, __materials__
+knit sweater embedded with circuitry, integrated AR elements, __materials__
+haptic sweater, responds to touch with temperature changes, __materials__
+compressed-fabric sweater, ultra-sleek, second-skin fit, __materials__
+hybrid shirt-sweater, thick torso, thin sleeves, mixed materials, __materials__
+one-piece wraparound sweater-shirt, fastened at the waist, __materials__
+dual-textured shirt, matte fabric on one half, glossy on the other, __materials__
+half-constructed button-up, one side finished, the other open structure, __materials__
+high-tech weave sweater, stretch-reactive material, shifting fit, __materials__
+translucent plastic sweater, sheer and futuristic, __materials__
+synthetic muscle-fiber shirt, mimicking human tissue, __materials__
+skin-tight compression pullover, cyber-athlete aesthetic, __materials__
+sweater with exposed skeletal structure, pseudo-bio-organic design, __materials__
+integrated wiring mesh sweater, semi-rigid, reacts to heat, __materials__
+dual-purpose pullover, wearable either as a shirt or scarf-wrap, __materials__
+open-back sweater, fully exposing spine, secured by minimal straps, __materials__
+segmented-panel sweater, modular sections connected by magnetic seams, __materials__
+holographic-projection sweater, displays shifting textures and imagery, __materials__
+reactive sweater, stiffens when touched, softens at rest, __materials__
+woven carbon-thread pullover, ultra-light but impact resistant, __materials__
+bio-fabricated sweater, grown rather than stitched, organic-mechanical hybrid, __materials__
+sweater with soft-flex armor plating, stylish yet protective, __materials__
+torn-apart sweater, reassembled with cybernetic mesh stitching, __materials__
+sweater with glowing pulse-lines, integrated into knit patterns, __materials__
+sweater with an embedded interface, displays HUD elements on the chest, __materials__
+patchwork sweater, mismatched panels of fabric and synthetic leather, __materials__
+haptic feedback sweater, reacts to sounds with subtle vibrations, __materials__
+data-fiber infused sweater, capable of storing and transmitting information, __materials__

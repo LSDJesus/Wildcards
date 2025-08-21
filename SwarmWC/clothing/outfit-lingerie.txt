@@ -1,0 +1,13 @@
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/lingerie>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-panties>, <wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/top-bra>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-panties>, <wildcard:SwarmWC/color>  <wildcard:SwarmWC/clothing/top-corset>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-panties> and <wildcard:SwarmWC/clothing/top-bra>
+<wildcard:SwarmWC/color> <wildcard:SwarmWC/clothing/bot-panties> and  <wildcard:SwarmWC/clothing/top-corset>
+
+
+
+
+
+
+
+

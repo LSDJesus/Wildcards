@@ -1,0 +1,119 @@
+Cinema
+Concert Hall
+Karaoke Box
+Arcade
+Sports Bar
+Bowling Alley
+Theme Park
+Live Music Venue
+Museum
+Circus
+VR Center
+Shopping Mall
+Magic Show
+Aquarium
+Theater
+Bar
+Dance Club
+Billiard Hall
+Nightclub
+Jazz Club
+Skating Rink
+Exhibition Hall
+Art Gallery
+Opera House
+Comedy Club
+Board Game Cafe
+Ice Cream Parlor
+Haunted House
+Rope Course
+Restaurant
+Fast Food Restaurant
+Ramen Shop
+Bar
+Bistro
+Bakery
+Tapas Bar
+Buffet
+Diner
+Steakhouse
+Seafood Restaurant
+Coffee Shop
+Gourmet Market
+Dessert Cafe
+Cafe
+Sushi Bar
+Izakaya
+Italian Restaurant
+Japanese Restaurant
+French Restaurant
+Korean BBQ
+Pizzeria
+Tea Room
+Vegan Restaurant
+Brewery
+Wine Bar
+Juice Bar
+Greek Restaurant
+Sandwich Shop
+Department Store
+Boutique
+Bookstore
+Shoe Store
+Jewelry Store
+Cosmetics Store
+Florist
+Pet Shop
+Bakery
+Drugstore
+Cafe
+Mobile Phone Store
+Organic Store
+Candy Store
+Hardware Store
+Supermarket
+Electronics Store
+Clothing Store
+Furniture Store
+Toy Store
+Sports Equipment Store
+Souvenir Shop
+Music Store
+Butcher
+Outlet Mall
+Jewelry Store
+Wine Shop
+Discount Store
+Beauty Supply Store
+Tea Shop
+Food court
+Shopping area
+Vegetable stall
+Fish market
+Florist
+Souvenir shop
+Street food
+Toy vendor
+Farmers market
+Flea market
+Open-air market
+Night market
+Tea stall
+Handmade items
+Bead stall
+Fresh produce
+Fruit stand
+Meat vendor
+Bread stall
+Clothing stall
+Jewelry stall
+Shoe stall
+Antique vendor
+Book stall
+Candy stall
+Spice vendor
+Coffee vendor
+Art stall
+Music vendor
+Drink stand
+Local specialties

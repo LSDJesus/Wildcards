@@ -1,0 +1,38 @@
+__colors__ footwear
+__colors__ footwear, boots
+__colors__ footwear, high heels
+__colors__ footwear, sandals
+__colors__ footwear, sneakers
+__colors__ socks
+__colors__ footwear, socks
+cross-laced footwear
+toeless footwear
+{asymmetrical|mismatched} footwear
+bow footwear
+rudder footwear
+pointy footwear
+winged footwear
+socks, no shoes
+ankle socks
+striped socks
+loose socks
+bobby socks
+kneehighs
+thighhighs
+shoes
+footwear
+sneakers
+dress shoes
+leather shoes
+monk strap
+high heels
+stiletto heels
+thigh high boots
+knee high boots
+short boots
+platform footwear, shoes
+platform footwear, sandals
+slippers
+sandals
+socks, sandals
+barefoot

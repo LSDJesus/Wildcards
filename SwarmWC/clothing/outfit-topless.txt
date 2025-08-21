@@ -1,0 +1,15 @@
+topless, <wildcard:SwarmWC/clothing/bdsm-gear>
+topless, <wildcard:SwarmWC/clothing/bot-leggings>
+topless, <wildcard:SwarmWC/clothing/bot-panties>
+topless, <wildcard:SwarmWC/clothing/bot-panties> <wildcard:SwarmWC/clothing/bot-panties-actions>
+topless, <wildcard:SwarmWC/clothing/bot-pants>
+topless, <wildcard:SwarmWC/clothing/bot-shorts>
+topless, <wildcard:SwarmWC/clothing/bot-skirt>
+topless, <wildcard:SwarmWC/clothing/bot-tights>
+topless, <wildcard:SwarmWC/clothing/lingerie>
+topless, <wildcard:SwarmWC/clothing/outfit-athletic>
+topless, <wildcard:SwarmWC/clothing/outfit-dress>
+topless, <wildcard:SwarmWC/clothing/outfit-lingerie>
+topless, <wildcard:SwarmWC/clothing/outfit-suit>
+topless, <wildcard:SwarmWC/clothing/outfit-suit-fictional>
+topless, <wildcard:SwarmWC/clothing/outfit-swimwear>

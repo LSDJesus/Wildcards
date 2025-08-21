@@ -1,0 +1,69 @@
+ambient lighting
+artificial light
+background lighting
+backlight lighting
+bioluminiscent lighting
+bright sunshine lighting
+broad lighting
+butterfly lighting
+cameo lighting
+candle lighting
+cinematic lighting
+daylight
+dense light rays lighting
+Diffuse lighting
+Dim Light
+Directional lighting
+dynamic lighting
+electric sparks lighting
+fireworks lighting
+fill light
+firelight
+flash lighting
+Flat Light
+flood lighting
+fluorescent lighting
+glow in the dark lighting
+glowwave lighting
+golden hour lighting
+Hard Light
+High Light
+high-key lighting
+holographic lighting
+holography lighting
+incandescent lighting
+iridescent lighting
+key lighting
+lens flare
+loop lighting
+Low Light
+low-key lighting
+mood lighting
+moody lighting
+moonlight
+Natural lighting
+neon lights
+neon pastel lights
+normal lighting
+overcast evening
+photoflood lighting
+polarized  lighting
+radiant lighting
+Reflected lighting
+refraction lighting
+rembrandt lighting
+Rim Light
+ring lighting
+short lighting
+Side Light
+sodium discharge street lighting
+soft shaded lighting
+Specular lighting
+split lighting
+stage lighting
+studio environment lighting
+sunlight
+tenebrism lighting
+Three point lighting
+Top Light
+volumetric lighting

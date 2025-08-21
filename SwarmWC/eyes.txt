@@ -1,0 +1,9 @@
+<wildcard:SwarmWC/eyes/color> eyes
+<wildcard:SwarmWC/eyes/color> and <wildcard:SwarmWC/eyes/color> multicolor eyes
+<wildcard:SwarmWC/eyes/color> and <wildcard:SwarmWC/eyes/size> eyes
+<wildcard:SwarmWC/eyes/color> and <wildcard:SwarmWC/eyes/shape> eyes
+<wildcard:SwarmWC/eyes/shape> and <wildcard:SwarmWC/eyes/shape> <wildcard:SwarmWC/eyes/color> eyes
+<wildcard:SwarmWC/eyes/shape> and <wildcard:SwarmWC/eyes/size> <wildcard:SwarmWC/eyes/color> eyes
+<wildcard:SwarmWC/eyes/shape> <wildcard:SwarmWC/eyes/size> <wildcard:SwarmWC/eyes/color> and <wildcard:SwarmWC/eyes/color> multicolor eyes
+<wildcard:SwarmWC/eyes/color> <wildcard:SwarmWC/eyes/shape> <wildcard:SwarmWC/eyes/size> eyes
+<wildcard:SwarmWC/eyes/size> <wildcard:SwarmWC/eyes/size> <wildcard:SwarmWC/eyes/color> eyes

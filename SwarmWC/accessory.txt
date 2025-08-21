@@ -1,0 +1,5 @@
+<wildcard:SwarmWC/accessory/arm>
+<wildcard:SwarmWC/accessory/choker>
+<wildcard:SwarmWC/accessory/earrings>
+<wildcard:SwarmWC/accessory/head>
+<wildcard:SwarmWC/accessory/tattoo>

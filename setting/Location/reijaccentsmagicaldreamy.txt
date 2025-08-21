@@ -1,0 +1,15 @@
+ethereal_aura
+front_sparkles
+twinkling_lights
+bokeh
+glitter_effect
+glowing_particles
+light_rays
+lens_flare
+soft_glow
+backlight
+misty_background
+floating_petals
+soft_pastel_background
+magic_circle
+feather_fall

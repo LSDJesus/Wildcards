@@ -1,0 +1,146 @@
+subject crouching low, one foot flat, other foot on toes, one hand on ground for stability, other arm raised behind, head tilted forward, spine slightly curved  
+subject lunging forward, front leg bent, back leg extended, one arm reaching forward, other arm bent at elbow and pulled back, torso leaning into movement  
+subject standing wide stance, weight evenly distributed, one foot slightly forward, arms bent at elbows in defensive position, shoulders squared, head level  
+subject sprinting, one foot pushing off ground, other leg raised, knee high, arms pumping in sync with stride, torso leaning forward, fingers slightly curled  
+subject mid-air jump, knees bent, one foot kicked forward, other tucked beneath, arms outstretched for balance, torso angled forward, head tilted downward  
+subject high kick, one leg raised, knee bent, other foot planted, arms extended for balance, torso tilting slightly to side to accommodate raised leg  
+subject gripping rope, both hands above head, legs bent at knees and dangling, shoulders tense, core engaged, head tilted slightly upward  
+subject pulling bowstring, one arm extended gripping bow handle, other arm bent drawing string back, wide stance, knees slightly bent, gaze aligned with arrow  
+subject vaulting railing, one hand gripping edge, other outstretched for balance, one leg tucked, other extended to clear obstacle, torso tilting forward  
+subject climbing rope, one hand gripping above other, legs wrapped around for support, torso upright, muscles engaged, head tilting upward  
+subject bracing against force, arms raised, palms pressing outward, feet firmly planted, one foot slightly in front, knees bent, torso leaning forward  
+subject kneeling on one knee, other leg bent, foot flat, one hand resting on raised knee, other hand planted on ground, back straight, head tilted upward  
+subject balancing on one foot, other leg bent and raised, arms extended outward for stability, torso upright, lower back slightly arched  
+subject gripping hammer, both hands on handle, feet planted wide, one foot slightly in front, arms fully extended downward, shoulders twisting with force  
+subject sitting ground, one leg extended, other bent foot flat, one arm propped behind for support, other resting on knee, torso leaning back slightly  
+subject crouching ledge, one knee bent foot flat, other leg dangling, one hand gripping edge for stability, other hand on knee, torso leaning forward  
+subject pressing one foot against wall, knee bent, other leg grounded, one hand pressing surface, fingers spread, other arm bent at elbow, torso twisting  
+subject swinging weapon, arms extended, one leg forward bracing, other leg behind for balance, torso twisting, head aligned with swing  
+subject gripping horizontal bar, arms bent, elbows at sides, legs hanging straight, core engaged, back slightly arched, shoulders tensed  
+subject leaping forward, one foot pushing off ground, other trailing behind, arms extended forward, torso angled downward, fingers spread  
+subject crouched in corner, knees bent, feet flat, back against wall, arms tucked, head tilted downward slightly  
+subject leaning against neon-lit wall, one foot propped up, arms crossed, head tilted downward, cigarette between fingers, smoke trailing upward
+subject crouched on rooftop edge, one knee bent foot flat, other leg dangling over side, one hand resting on knee, other gripping ledge, head tilted forward scanning city below
+subject gripping handlebars of futuristic motorcycle, one foot on ground for balance, other on pedal, back slightly hunched, fingers tight on throttle, head tilted forward
+subject kneeling on metallic floor, one knee down, other bent foot flat, both hands on holographic interface, fingers spread interacting with projected data
+subject perched on fire escape railing, one leg bent, foot resting on bar, other dangling, one hand gripping rail, other adjusting cybernetic eye implant
+subject standing wide stance, weight shifted to one leg, one hand resting on hip, other flipping knife between fingers, head slightly tilted, cybernetic eye glowing
+subject sprinting through rain-soaked alley, one foot pushing off ground, other mid-air, arms pumping in sync, coat trailing behind, neon lights reflecting off wet pavement
+subject hunched over workbench, cybernetic hands gripping microtool, adjusting exposed wiring on robotic limb, head tilted downward, glowing screen illuminating face
+subject sitting on barstool, one elbow propped on counter, fingers tapping glass, other hand scrolling through holographic interface, neon reflections shimmering on skin
+subject leaning against streetlight, one knee bent foot resting against pole, arms crossed, hood partially covering face, cybernetic fingers idly flicking lighter open and shut
+subject crouched mid-hack, fingers pressed against exposed panel, cables trailing from wrist to device, one knee on ground, other foot planted for stability
+subject vaulting over metal barricade, one hand gripping edge, other outstretched, legs tucked mid-motion, coat flaring behind, cybernetic joints flexed
+subject adjusting armored gauntlet, one hand gripping wrist, fingers flexing, stance solid, weight evenly distributed, head tilted slightly downward
+subject kneeling behind cover, one knee on ground, other foot planted, gripping modified firearm, one eye narrowed, cybernetic targeting overlay glowing
+subject perched on high-rise balcony, one leg bent resting on railing, other foot planted, arms folded, head tilted slightly downward watching city below
+subject sitting cross-legged on floor, hands resting on knees, cables trailing from back of head into terminal, expression blank, eyes glowing faintly
+subject gripping overhead train handle, one arm raised, other tucked into coat pocket, feet planted firmly, slight lean with train’s motion, neon advertisements flickering nearby
+subject mid-stride crossing rain-slick street, one hand adjusting visor, other gripping bag strap, neon reflections on jacket, boots kicking up water
+subject gripping edge of moving vehicle, one hand braced against door frame, legs bent for stability, coat whipping in wind, cybernetic eye scanning ahead
+subject lounging on industrial couch, one leg stretched out, other bent at knee, arm draped over backrest, cybernetic hand holding drink, neon glow highlighting mechanical joints
+subject pulling data chip from pocket, fingers gripping edge, other hand open in anticipation, shoulders squared, weight slightly shifted forward
+subject walking through marketplace, one hand buried in jacket pocket, other holding glowing wrist display, head slightly tilted, scanning crowd
+subject kneeling over unconscious body, one knee on ground, other foot planted, one hand on subject’s shoulder, other checking cybernetic implants
+subject gripping pistol with both hands, arms fully extended, feet shoulder-width apart, knees slightly bent, weight evenly distributed, head tilted forward focusing on target
+subject hacking into street terminal, one hand gripping edge of console, other interacting with holographic keyboard, back slightly hunched, cables trailing from wrist
+subject leaning against rusted car hood, one boot propped up, arms resting on knee, mechanical fingers idly tapping against metal, smoke rising from street vent nearby
+subject gripping katana, one arm raised, other extended outward for balance, feet spread, knees bent slightly, cybernetic enhancements glowing under streetlights
+subject sitting on rain-soaked curb, elbows resting on knees, head tilted forward, neon reflections in puddles, one hand gripping bottle, cybernetic fingers flexing slightly
+subject perched on motorcycle, hands resting on thighs, one foot on pedal, other on ground, back straight, helmet visor reflecting city lights
+subject crouched in abandoned alley, one knee on ground, other foot planted, gripping shattered visor, glowing circuitry exposed beneath torn clothing
+subject standing inside crowded club, arms folded, leaning slightly back against railing, cybernetic eyes scanning room, neon strobes flashing across metallic implants
+subject perched on ledge of high-rise, one foot resting on edge, other planted behind, fingers tapping against knee, neon skyline stretching below
+subject resting on industrial crate, one knee bent, foot on box edge, arms resting on thigh, cybernetic tail twitching slightly, head tilted toward distant noise
+subject walking through rain, hands in pockets, hood up, coat slightly open, boots kicking up small splashes, neon glow reflecting off fabric
+subject sliding under closing security door, one hand braced against floor, legs extended mid-motion, eyes glowing, cables dragging behind
+subject standing with feet shoulder-width apart, knees slightly bent, gripping katana with both hands, blade held diagonally in front, cybernetic fingers on hilt
+subject mid-swing with katana, one foot forward, other foot planted behind for balance, both hands gripping hilt, blade arcing downward, coat flaring with motion
+subject crouched low, one knee nearly touching ground, opposite leg extended for stability, one hand gripping hilt of sheathed sword, other raised in defensive stance
+subject lunging forward, cybernetic arm extended, wrist blade deployed, opposite foot pushing off ground, body tilted slightly forward, targeting systems engaged
+subject gripping pistol with both hands, arms extended, elbows slightly bent, feet in stable stance, eyes locked on target, cybernetic targeting overlay active
+subject mid-recoil, firearm aimed forward, both hands gripping tightly, elbows flexing to absorb force, one foot slightly back, stance solid
+subject kneeling behind cover, one knee down, other foot planted, gripping rifle with tight stance, barrel aimed forward, scope interface glowing
+subject sprinting forward, submachine gun in one hand, other arm pumping, one foot pushing off ground, coat trailing behind, cybernetic joints adjusting for impact absorption
+subject sliding across wet pavement, one hand gripping pistol, arm extended, opposite hand bracing against ground, knees bent, cybernetic boots sparking against concrete
+subject standing with heavy shotgun, barrel tilted slightly upward, one hand gripping handle, other steadying underbarrel, cybernetic plating reinforcing arms
+subject dual-wielding pistols, arms extended outward, feet shoulder-width apart, weight slightly shifted to one side, cybernetic eyes scanning for multiple threats
+subject gripping massive railgun, one foot forward, back leg braced, both hands gripping stock and trigger, shoulders tensed against potential recoil
+subject crouched with sniper rifle, one knee down, opposite leg bent for stability, weapon resting on thigh, cybernetic optic scanning through scope
+subject gripping long energy blade, held parallel to ground, stance low with knees bent, one arm outstretched for balance, cybernetic plating visible beneath tattered coat
+subject executing spinning kick, one leg fully extended, body slightly tilted mid-motion, opposite foot barely touching ground, arms positioned for balance
+subject dodging sideways, one foot pushing off ground, body angled, one arm raised protectively, opposite hand gripping concealed weapon
+subject perched on ledge, one knee bent, foot resting on edge, sniper rifle stabilized against shoulder, cybernetic eye scanning scope overlay
+subject gripping combat knife in reverse grip, blade pointed downward, stance wide, knees bent, cybernetic tendons tensed for explosive movement
+subject running up vertical surface, cybernetic limbs adjusting for balance, one hand gripping ledge, opposite hand reaching for weapon holstered at hip
+subject ducking behind cover, back pressed against wall, one hand gripping weapon, cybernetic arm bracing against surface, head tilted slightly, scanning surroundings
+subject crouched in dimly lit corridor, one knee down, fingers hovering over holographic lock interface, cybernetic implants glowing faintly
+subject gripping monofilament whip, one arm extended, wrist flicking to send weapon arcing through air, opposite foot braced for counterbalance
+subject deflecting incoming strike with wrist blade, one arm raised, forearm positioned to redirect force, opposite leg sliding back for balance
+subject gripping energy baton, one hand near base, other gripping midshaft, stance low, knees bent, weight shifted forward, crackling electricity illuminating cybernetic tattoos
+subject performing evasive roll, knees tucked, arms close to body, cybernetic spine adjusting trajectory, coat flaring with momentum
+subject sprinting along rooftop edge, one foot pushing off, arms pumping, cybernetic legs absorbing impact, weapon strapped across back
+subject mid-air from wall jump, one leg extended for landing, opposite knee tucked, arms positioned for impact absorption, cybernetic boosters glowing faintly
+subject gripping curved dagger, stance tight, one foot angled outward, blade positioned defensively
+subject vaulting over railing, one hand gripping metal, body arched mid-motion, opposite hand reaching for holstered sidearm
+subject adjusting sniper scope, one eye closed, other augmented optic zooming in, steady breath visible in cold air, cybernetic fingers adjusting focus
+subject bracing against high-tech riot shield, one knee bent, foot planted, cybernetic plating absorbing impact, opposite hand gripping short-range shotgun
+subject crouched in stealth stance, one foot slightly forward, arms positioned for quick movement, cybernetic optics dimmed to reduce glow
+subject hanging from ledge, one hand gripping firmly, other reaching for holstered pistol, legs bent for balance, cybernetic tendons flexing to maintain hold
+subject drawing katana from sheath, one hand gripping hilt, other pulling scabbard away, stance wide
+subject gripping chain whip, one end wrapped around cybernetic arm, other flicking outward, stance solid, feet braced for force recoil
+subject bursting through glass window, arms crossed over face for protection, knees bent mid-air, cybernetic exosuit
+subject locked in mid-backflip, arms extended outward for balance, knees bent, cybernetic limbs
+subject gripping high-frequency combat axe, one foot slightly forward, knees bent, arms coiled for powerful swing, cybernetic muscle fibers tensed
+subject mid-slide under security barrier, one leg extended forward, arms braced against ground, weapon holstered at hip
+subject gripping electrified tonfa, one arm raised in defensive posture, opposite foot slightly back, cybernetic enhancements synchronizing movement efficiency
+subject crouched behind overturned car, one knee bent, rifle propped against edge, cybernetic targeting overlay adjusting for distance
+subject mid-swing with telescopic baton, one arm fully extended, wrist snapping to increase momentum, stance balanced for follow-up strike
+subject perched on streetlamp, one knee bent, foot resting on base, arms braced against pole, cybernetic optics scanning neon-lit streets below
+subject free-falling between towering skyscrapers, arms close to body, legs slightly apart for stability
+subject gripping thermal blade, one arm raised, stance low, opposite hand positioned near midsection for defensive maneuvering, glowing heat trails following blade motion
+subject gripping plasma caster, one foot angled outward, opposite knee slightly bent, weapon charging in hands
+standing, one hip jutted, hand on thigh
+standing, back arched, hands behind head
+standing, one leg bent, hand on hip
+standing, arms crossed under chest, tilting slightly
+standing, one foot resting on elevated surface, leaning forward
+standing, back turned, head looking over shoulder
+standing, chest pushed forward, hands on waist
+standing, fingers hooked in waistband, pulling slightly
+standing, legs crossed, arms raised above head
+standing, back arched, fingers tracing collarbone
+kneeling, thighs spread, hands resting on knees
+kneeling, back arched, hands running through hair
+kneeling, leaning forward, arms crossed under chest
+kneeling, resting on heels, arms draped over thighs
+kneeling, one leg extended, hands on hips
+kneeling, hands behind back, chest pushed forward
+sitting, one leg crossed over the other, hand on knee
+sitting, leaning back on hands, legs bent to one side
+sitting, knees up, arms wrapped around legs
+sitting, one knee bent, arm draped over it, looking sideways
+sitting, legs spread slightly, hands resting between thighs
+sitting, back against wall, knees bent, arms behind head
+sitting, legs crossed, chin resting on hand
+sitting, leaning forward, elbows on knees, playful smirk
+sitting, fingers running through hair, eyes half-lidded
+reclining, on side, head propped on hand, one leg bent
+reclining, on stomach, legs bent upward, chin resting on hands
+reclining, on back, arms above head, legs slightly parted
+reclining, back arched, one knee raised, hand on thigh
+reclining, side-lying, one arm stretched above head, the other on hip
+reclining, one knee bent, hand tracing along stomach
+reclining, hands resting above chest, fingers lightly curled
+laying on stomach, head turned to side, arms crossed under chin
+laying on stomach, propped on elbows, legs kicking slightly
+laying on side, one arm under head, the other draped over hip
+laying on back, legs bent, arms draped to sides
+laying on back, knees raised, one foot resting on the other
+laying on back, arms stretched above head, body slightly twisted
+leaning against wall, arms above head, one knee bent
+leaning against wall, shoulder pressed to surface, arms crossed
+leaning against wall, back pressed against surface, head tilted back
+leaning against table, hands resting on edge, back slightly arched
+leaning against table, one foot resting on chair, arms draped to sides
+leaning over railing, hands gripping edge, hips slightly raised

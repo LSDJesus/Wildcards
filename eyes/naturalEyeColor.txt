@@ -1,0 +1,17 @@
+Brown
+Blue
+Green
+Hazel
+Amber
+Gray
+Violet
+Red 
+Black 
+Blue-Green
+Gray-Blue
+Green-Brown
+Hazel-Blue
+Amber-Green
+Brown-Grey
+Grey-Green
+Violet-Blue

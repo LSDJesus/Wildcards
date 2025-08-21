@@ -1,0 +1,7 @@
+tiny
+small
+average
+large
+huge
+enormous
+gigantic

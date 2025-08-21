@@ -1,0 +1,41 @@
+__colors__ dress
+__colors__ dress, short dress
+__colors__ bikini
+__colors__ pajamas
+__colors__ kimono
+__colors__ tuxedo
+frilled dress
+strapless dress
+off-shoulder dress
+china dress
+sailor dress
+pinafore sress
+fur-trimmed dress
+armored dress
+dress, {sideboob|underboob|boob window}
+dress, {clothing|cleavage|underboob|navel|heart|cat} cutout
+chinese clothes
+japanese clothes
+korean clothes
+strapless bikini
+side-tie bikini
+one-piece swimsuit
+idol clothes
+track suit
+bodysuit, latex
+maid outfit
+nun, habit
+nurse
+waitress
+flight attendant
+tuxedo, bowtie
+wedding dress
+overalls, __colors__ shirt
+school uniform
+gym uniform
+military uniform
+armor
+japanese armor
+toga, greek clothes
+pirate costume
+santa costume
