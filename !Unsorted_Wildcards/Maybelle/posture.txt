@@ -1,0 +1,10 @@
+standing crossed_legs
+standing legs_apart
+standing spread_legs
+standing legs_together
+kneeling
+lying on_back 
+lying on_stomach
+lying on_side
+walking
+sitting

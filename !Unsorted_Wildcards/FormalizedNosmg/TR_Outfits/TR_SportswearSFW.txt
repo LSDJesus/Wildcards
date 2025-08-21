@@ -1,0 +1,1 @@
+sportswear{, sports bra|, crop top|, tank top|, sleeveless shirt}{, (yoga:0.1) pants|, shorts|, leggings|, buruma|, joggers}{, wristband|||||}{(earrings, choker, collar, necklace, jewelry, piercing:-0.8),(eyeshadow, lipstick:-1)||}{, __tr_colors__ sneakers|, sneakers|, high tops|||}

@@ -1,0 +1,36 @@
+Saturation adjustment
+Color correction
+Exposure adjustment
+Panorama stitching
+Color lookup tables
+Dodge and burn
+Cloning
+Contrast adjustment
+Red eye removal
+Presets
+Vibrance adjustment
+Noise reduction
+Textures
+White balance correction
+Spot healing
+Gradients
+Clarity adjustment
+Blend modes
+Shadow recovery
+Channel mixing
+Smart Objects
+Focus stacking
+Lighting effects
+Highlight recovery
+Sharpening
+Layer masking
+Tonal mapping
+Lens distortion correction
+Black and white conversion
+Batch processing
+HDR (High Dynamic Range) blending
+Color grading
+Curve adjustment
+Cropping
+Content-aware fill
+Frequency separation

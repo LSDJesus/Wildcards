@@ -1,0 +1,2178 @@
+fantasy_girls:
+  Randoms:
+    RandomShape:
+      - >-
+        __fantasy_girls/strength__ __fantasy_girls/colors__ eyes {|| odd eyes }, __fantasy_girls/strength__ __fantasy_girls/colors__ hair, { long hair | medium hair | very long hair }, __fantasy_girls/hairs/hairA__ {||| streaked hair | drill hair | wavy hair }, __fantasy_girls/hairs/hairBangs__ {||| sideburns | hair flaps }, {|||| embarrassed, | blush, | nose blush, | blush stickers, } {||||| head tilt }
+    RandomShapeM:
+      - >-
+        __fantasy_girls/strength__ __fantasy_girls/colors__ eyes {|||| odd eyes }, __fantasy_girls/strength__ __fantasy_girls/colors__ hair, { long hair | medium hair }, __fantasy_girls/hairs/hairM__, {||| streaked hair, | big hair, | wavy hair, } __fantasy_girls/hairs/hairBangs__
+    Random1girl:
+      - >-
+         {__fantasy_girls/premadePrompts/1girlElfMagical__|__fantasy_girls/premadePrompts/1girlGalaxyGoddess__|__fantasy_girls/premadePrompts/1girlBloodyDemon__|__fantasy_girls/premadePrompts/1girlAnimal__|__fantasy_girls/premadePrompts/1girlSamuraiMecha__|__fantasy_girls/premadePrompts/1girlDragon__|__fantasy_girls/premadePrompts/1girlCyberpunkOni__}
+    RandomNSFW:
+      - >-
+        {__fantasy_girls/NSFW/pussy__, __fantasy_girls/NSFW/fluids__, __fantasy_girls/NSFW/hairiness__ | __fantasy_girls/NSFW/ass__, __fantasy_girls/NSFW/pussy__}, {__fantasy_girls/NSFW/skin-effect__, |||} __fantasy_girls/NSFW/emotion__
+    RandomSetup:
+      - >-
+        {__fantasy_girls/setups/bad_girl_setup__ | __fantasy_girls/setups/horror_setup__ | __fantasy_girls/setups/highschool_setup__ | __fantasy_girls/setups/japanese_miko_setup__ | __fantasy_girls/setups/cyberpunk_setup__ | __fantasy_girls/setups/ecchi_setup__ | __fantasy_girls/setups/dress_up_setup__ }
+  premadePrompts:
+    1girlElfMagical:
+      - >-
+        __fantasy_girls/n_girls/1girl__, elf, pointy ears, shiny hair gradation gradient hair, very long hair, {eyes visible through hair,|} __fantasy_girls/strength__ __fantasy_girls/colors__ __fantasy_girls/clothes/clothesDress__, __fantasy_girls/scenes/fantasy_scene__ background { __fantasy_girls/effects__, |||| }, __fantasy_girls/lightings/lightingColor__, __fantasy_girls/Randoms/RandomShape__ 
+    1girlGalaxyGoddess:
+      - >-
+        __fantasy_girls/n_girls/1girl__, goddess, __fantasy_girls/hairs/hairM__, __fantasy_girls/colors__ hair, galaxy, cosmos, glowing hair, made of ([__fantasy_girls/colors__ and __fantasy_girls/colors__ and __fantasy_girls/colors__]:1.4) colors, __fantasy_girls/clothes/clothesSEXY__, __fantasy_girls/poses/poses__, { __fantasy_girls/hairs/hairBangs__, ||}  __fantasy_girls/view__, { __fantasy_girls/effects__, |||| } __fantasy_girls/Randoms/RandomShape__, __fantasy_girls/emotions/facial__
+    1girlBloodyDemon:
+      - >-
+        __fantasy_girls/n_girls/1girl__, demon, {pointy ears, || } black hair, __fantasy_girls/hairs/hairM__, mole, horns, sharp teeth, {demon wings, |||} blurry background, dark fantasy, __fantasy_girls/scenes/fantasy_scene__ background, (blood on face), blood on clothes, horror, lycoris, red flower, red petals, black __fantasy_girls/clothes/clothesDress__, __fantasy_girls/view__, __fantasy_girls/NSFW/emotion__
+    1girlAnimal:
+      - >-
+        __fantasy_girls/n_girls/1girl__, (__fantasy_girls/animal_parts__:1.2), __fantasy_girls/Randoms/RandomShapeM__, __fantasy_girls/scenes/scene__, __fantasy_girls/shots__, __fantasy_girls/look__, cute, __fantasy_girls/strength__ __fantasy_girls/colors__ __fantasy_girls/clothes/clothesA__
+    1girlSamuraiMecha:
+      - >-
+        ${baseColor=!{black|white}} __fantasy_girls/n_girls/1girl__, japanese samurai girl, (${baseColor} mechanical legs:1.2), (${baseColor} mechanical arms:1.2), ${baseColor} kimono, __fantasy_girls/Randoms/RandomShapeM__, momiji, red-tinted maple leaves in the fall, autumn leaves, autumn, tree, ((blurry background)), __fantasy_girls/shots__, __fantasy_girls/look__
+    1girlDragon:
+      - >-
+        ${baseColor=!{red|blue|purple|green}} __fantasy_girls/n_girls/1girl__, __fantasy_girls/view__, dragon girl, (dragon horns:1.2), flowing hair, {||angry eyes,} __fantasy_girls/strength__ ${baseColor} eyes {|| odd eyes }, (glowing eyes:1.4), torn clothes, black hair, { long hair | very long hair },__fantasy_girls/hairs/hairBangs__ {||| sideburns | hair flaps }, (burn injury glowing ${baseColor} on her face:0.85), ${baseColor} flaming eye, made of ([${baseColor} and black]:1.3) colors, high contrast, high saturated, vivid deep blacks, (glowing flying ${baseColor} ember on the background:1.3), (simple background:0.85), blurry background
+    1girlCyberpunkOni:
+      - >-
+        __fantasy_girls/n_girls/1girl__, black jacket, night, night city, neon light, cyberpunk, depth of field, glowing, glowing eyes, __fantasy_girls/Randoms/RandomShape__, jacket, jewelry, necklace, neon lights, open clothes, open jacket, rain, oni girl, oni horns, ((mouth mask)), (glowing blue neon tattoo:1.2), __fantasy_girls/view__, __fantasy_girls/poses/posesSitting__
+    1girlEcchiAnimal:
+      - >-
+        __fantasy_girls/n_girls/1girl__, cleavage, navel, bare shoulders, leaning forward, looking down, pov, __fantasy_girls/NSFW/emotion__, blush, __fantasy_girls/animal_parts__
+    1boyOnSuit:
+      - >-
+        1boy, __fantasy_girls/boy_types/mature_boy__, standing, black suit, white shirt, adjusting clothes, __fantasy_girls/poses/poses__, __fantasy_girls/view__, __fantasy_girls/shots__, __fantasy_girls/emotions/facialS__
+  n_girls:
+    1girl:
+      - >-
+        1girl, { __fantasy_girls/girl_types/little_girl__ | __fantasy_girls/girl_types/mature_girl__ }
+    2girls:
+      - >-
+        2girls, { __fantasy_girls/girl_types/little_girl__ | __fantasy_girls/girl_types/mature_girl__ }, { __fantasy_girls/girl_types/little_girl__ | __fantasy_girls/girl_types/mature_girl__ }
+    ngirls:
+      - >-
+        ${n}girls, { __fantasy_girls/girl_types/little_girl__ | __fantasy_girls/girl_types/mature_girl__ }
+  n_boys:
+    1boy:
+      - >-
+        1boy, { __kawaii_boys/boy_types/little_boy__ | __kawaii_boys/boy_types/mature_boy__ }
+    2boys:
+      - >-
+        2boys, { __kawaii_boys/boy_types/little_boy__ | __kawaii_boys/boy_types/mature_boy__ }, { __kawaii_boys/boy_types/little_boy__ | __kawaii_boys/boy_types/mature_boy__ }
+    nboys:
+      - >-
+        ${n}boys, { __fantasy_girls/boy_types/little_boy__ | __fantasy_girls/boy_types/mature_boy__ }
+  girl_types:
+    little_girl:
+      - >-
+        { kid | child | young | teen | blooming }, { flat chest | small breast | medium breasts }
+    mature_girl:
+      - >-
+        { teen | woman | mature woman | older woman }, { big breast | medium breast | flat chest | small breast } { |||||, abs }
+  boy_types:
+    little_boy:
+      - >-
+        { cute kid | petite kid | childish | child | young | teen } { || tall }
+    mature_boy:
+      - >-
+        { teen | mature boy | older boy } { |||, tall |, abs |, muscular }
+  setups:
+    bad_girl_setup:
+      - piercing, blouse, black very long coat, charcoal collar thigh gap, __fantasy_girls/view__, baseball bat, squatting, delinquent, alley
+    horror_setup:
+      - blood on clothes, grin, horror \(theme\), __fantasy_girls/scenes/sceneG__, __fantasy_girls/view__
+    highschool_setup:
+      - school uniform, {miniskirt| long skirt}, {necktie,|ribbon,||||} {cleavage,|||} __fantasy_girls/poses/poses__, __fantasy_girls/NSFW/emotion__, {classroom| school gate| school grand| changing room| pool| back of the school| hallway}, __fantasy_girls/view__
+    japanese_miko_setup:
+      - miko, torii, shrine, cherry blossoms, {sweeping,||||}, __fantasy_girls/NSFW/emotion__,  __fantasy_girls/view__, __fantasy_girls/lightings/lighting__, __fantasy_girls/look__
+    cyberpunk_setup:
+      - black jacket, night, night city, neon light, cyberpunk, science fiction, jacket, jewelry, necklace, neon lights, {open clothes,|} open jacket, {glowing blue neon tattoo,||||}, {mechanical body parts,||} __fantasy_girls/poses/poses__, __fantasy_girls/view__
+    ecchi_setup:
+      - cleavage, revealing clothes, {bare shoulders, ||} {bare legs, ||} __fantasy_girls/scenes/sceneIndoors__, {2::__fantasy_girls/clothes/clothesSEXY__|__fantasy_girls/clothes/clothesSwimsuit__}, __fantasy_girls/poses/poses__, __fantasy_girls/view__, blush, __fantasy_girls/emotions/facialS__
+    dress_up_setup:
+      - __fantasy_girls/clothes/clothesDress__, ballroom, warmlight, __fantasy_girls/look__, __fantasy_girls/shots__, __fantasy_girls/emotions/facialS__
+  hairs:
+    hairA:
+      - hair spread out, drill hair, low twintail
+      - multiple braids, long hair
+      - multiple braids
+      - twin tails hair, slicked back hair
+      - ponytail hair, slicked back hair
+      - straight perm hair
+      - curly hair
+      - low twintails
+      - low twintails, sidelock
+      - braid tails
+      - short twin braid
+      - ponytail
+      - side ponytail
+      - twin ponytails
+      - folded ponytail
+      - side braid
+      - twin braids
+      - french braid
+      - single hair bun
+      - double bun
+      - braided bun
+      - crown braid, french braid
+      - crown braid, long hair
+      - chignon
+      - hair spread out
+      - hair slicked back
+      - retriever hair
+      - spiralcurl
+      - hime cut
+      - bowl cut hair
+      - spiralcurl
+      - double bun and long twin tails
+      - one curl, inner roll
+      - top knot hair
+      - shaggy cut
+      - slicked back hair
+      - faux hawk hair, shaved sidelocks
+    hairBangs:
+      - swept bangs
+      - blunt bangs
+      - hair pulled back
+      - asymmetrical bangs
+      - hair over eyes, covered eyes, blunt bangs
+      - diagonal bangs
+      - hair_pulled_back
+      - hair over one eye
+      - one eye visible through hair
+      - bangs
+      - hair between eyes
+      - crossed bangs 
+    hairM:
+      - short hair
+      - long hair
+      - medium hair
+      - very long hair
+      - ponytail
+      - french braid
+      - single hair bun
+      - hair spread out
+      - hair slicked back
+      - hair over one eye 
+  animal_parts:
+    - fox ears, fox tail
+    - fennec ears, fennec tail
+    - raccoon ears, raccoon tail
+    - cat ears, cat tail
+    - wolf ears, wolf tail
+    - rabbit ears, rabbit tail
+    - tiger ears, tiger tail
+    - horse ears, horse tail
+    - dragon horns, dragon tail
+    - bird crest, bird tail
+    - reindeer horns, reindeer ears, reindeer tail
+    - bear ears, bear tail
+    - squirrel ears, squirrel tail
+    - lion mane, lion ears, lion tail
+    - mouse ears, mouse tail
+    - animal ears, animal tail
+    - panda ears, panda tail
+    - peafowl tail
+    - seal ears,seal tail
+    - badger ears,badger tail
+    - armadillo ears,armadillo tail
+    - weasel ears,weasel tail
+    - wild boar ears,wild boar tail
+    - wombat ears,wombat tail
+    - bull ears,bull tail,bull horns
+    - hippopotamus ears,hippopotamus tail,hippopotamus eyes
+    - capibara eras, capibara tail
+    - serow ears, serow tail
+    - platypus ears, platypus tail, crow
+    - otter ears, otter tail
+    - kangaroo ears, kangaroo tail
+    - giraffe ears, giraffe tail
+    - kudu ears, kudu tail
+    - bear ears, bear tail
+    - polar bear ears, polar bear tail
+    - koala ears, koala tail
+    - panther ears, panther tail
+    - bat ears, bat tail, bat wing
+    - coyote ears, coyote tail
+    - gorilla ears, gorilla tail
+    - serval ears, serval tail
+    - monkey ears, monkey tail
+    - specter lemur ears, specter lemur tail
+    - gibbon ears, gibbon tail
+    - deer ears, deer tail
+    - zebra ears, zebra tail
+    - jaguar ears, jaguar tail
+    - killer whale tail
+    - jackal ears, jackal tail
+    - water buffalo ears, water buffalo tail
+    - skunk ears, skunk tail
+    - springbok ears, springbok tail
+    - walrus ears, walrus tail
+    - elephant ears, elephant tail
+    - raccoon dog ears, raccoon dog tail
+    - cheetah ears, cheetah tail
+    - dingo ears, dingo tail
+    - degu ears, degu tail
+    - marten ears, marten tail
+    - sea lion ears, sea lion tail
+    - tiger ears, tiger tail
+    - tigress ears, tigress tail
+    - sloth ears, sloth tail
+    - gnu ears, gnu tail
+    - coypus ears, coypus tail
+    - hyena ears, hyena tail
+    - bison ears, bison tail
+    - paca ears, paca tail
+    - tapir ears, tapir tail
+    - palm civet cat ears, palm civet cat tail
+    - hamster ears, hamster tail
+    - echidna ears, echidna tail
+    - beaver ears, beaver tail
+    - bighorn ears, bighorn tail
+    - sheep ears, sheep tail, wool
+    - baboon ears, baboon tail
+    - puma ears, puma tail
+    - leopard ears, leopard tail
+    - pig ears, pig tail
+    - prairie dog ears, prairie dog tail
+    - pony ears, pony tail
+    - mongoose ears, mongoose tail
+    - meerkat ears, meerkat tail
+    - mink ears, mink tail
+    - flying squirrel ears, flying squirrel tail
+    - mole ears, mole tail
+    - guinea pig ears, guinea pig tail
+    - goat ears, goat tail
+    - yak ears, yak tail
+    - porcupine ears, porcupine tail
+    - wildcat ears, wildcat tail
+    - lioness ears, lioness tail
+    - camel ears, camel tail
+    - sea otter ears, sea otter tail
+    - mule ears, mule tail
+    - lama ears, lama tail
+    - chipmunk ears, chipmunk tail
+    - lesser panda ears, lesser panda tail
+    - donkey ears, donkey tail
+    - wallaby ears, wallaby tail
+    - penguin ears, penguin tail, penguin wings  
+  clothes:
+    clothesA:
+      - pinafore dress, white blouse
+      - overall, __fantasy_girls/colors__ T-shirt
+      - overall, __fantasy_girls/colors__ tube top
+      - sundress, white blouse
+      - child smock
+      - kigurumi
+      - jumpsuit
+      - jumper dress, white blouse
+      - dirndl, apron, white blouse
+      - maid
+      - classic long maid
+      - formalsuit
+      - bodysuit
+      - track suit
+      - marching band uniform
+      - kids kindergarten uniform
+      - cycle-wear
+      - blazer, school uniform, bowtie
+      - serafuku, __fantasy_girls/colors__ checked pleated_skirtskirt
+      - tuxedo, long pants
+      - tailcoat, long pants
+    clothesB:
+      - tube_top
+      - blouse
+      - hoodie
+      - camisole
+      - camisole, strap slip
+      - polo shirt
+      - strapless
+      - shirt
+      - sweater, heart cutout
+      - smock
+      - sailor shirt, __fantasy_girls/colors__ ribbon
+      - collared_shirt
+      - __fantasy_girls/colors__ shirt, __fantasy_girls/colors__ vest
+      - dress
+      - wide sleeves frilled shirt
+      - wide sleeves frilled shirt, sleeves past wrists
+      - off-shoulder sweater
+      - turtleneck
+      - crop top
+      - sleeveless
+      - collared_shirt, vertical stripes, necktie
+      - striped shirt
+      - border shirt
+      - gingham check collared shirt
+    clothesBottoms:
+      - skirt
+      - long skirt
+      - mini skirt
+      - rolled skirt
+      - pleated skirt
+      - layered skirt
+      - plaid_skirt
+      - pleated plaid_skirt
+      - checked skirt, drawers
+      - denim shorts
+      - hotpants
+      - pants
+      - leather pants
+      - pom-pom pants
+    clothesBottomsM:
+      - denim shorts
+      - denim long pants
+      - denim half pants
+      - hotpants
+      - pants
+      - long pants
+      - leather pants
+      - leather half pants
+      - pom-pom pants
+      - track pants
+      - bike shorts
+      - cropped pants
+      - sweat pants
+    clothesCosplay:
+      - nun Monastic clothes frock
+      - Wedding dress veil church
+      - long_maid puffy long sleeves, white waist, apron frilled white blouse, double-breasted,underbust
+      - punks, hotpants leather jacket tunetop
+      - cyborg. artificial arms artificial legs robot_arms robot_legs amputee,prosthetic legs amputee,prosthetic arms
+      - Slime Human, slimy skin, slimy hair wet, colored skin, monster girl Liquid body enraptured body
+      - mushroom human kigurumi
+      - frogman kigurumi
+      - fantasy Glossy Metallic Engraving Pattern shirt intricate dress armor gladiator
+      - fantasy Glossy Metallic Engraving Pattern shirt intricate bikini armor gladiator
+      - fantasy witch_costume intricate wizard_clork witch_hat holding intricate jem from staff
+      - fantasy,adventurer, huge knapsack, belt pouch, staff, leather long boots, dusty
+      - succubus bat wings daemon tail daemon horns stocking, garter straps, Lace
+      - bunnyGirl enamel playboy_bunny, detached_collar, wrist_cuffs, fishnet_pantyhose, bowtie
+      - cheerleader uniform, skirt, pom_pom_cheerleading in both hands
+      - nurse, nurse cap, latex gloves, stocking
+      - right arm dameged white bandages, wrapping chests in white bandages
+      - Flight Attendant Uniform
+      - Waitress Uniform frilled white blouse, double-breasted,underbust
+      - Bartender Uniform
+      - Gym Uniform
+      - Military Uniform Military Cap Boots
+      - Bus Driver Uniform
+      - Train Conductor Uniform
+      - Factory Worker Uniform
+      - Hotel Staff Uniform
+      - Prison Uniform
+      - Police Uniform
+      - Firefighter Uniform
+      - Cheffs Uniform
+      - Work Overalls
+      - Farmerfs Overalls Rain long boots
+      - Astronautfs Suit
+      - Ninjas
+      - Superheroes mask
+    clothesDress:
+      - One-piece dress
+      - Maxi Dress
+      - Shift Dress
+      - Mini Dress
+      - Wrap Dress
+      - Sundress
+      - Pencil Dress
+      - Cocktail Dress
+      - Halterneck Dress
+      - Empire Dress
+      - frilled intricate long skirt pannier bustier corset crinoline
+      - gothic dress, headdress, frilled, puffy sleeves, hair flower, garter
+    clothesLegsSEXY:
+      - fullbody stocking
+      - fishnet pantyhose
+      - fullbody fishnet_pantyhose
+      - backseam pantyhose
+      - lace knee socks
+      - knee stocking, garter straps
+      - stocking, garter straps
+      - backseam knee stocking, garter straps
+      - backseam stocking, garter straps
+      - flower pattern stocking, garter straps
+      - bat pattern stocking, garter straps
+      - star pattern stocking, garter straps
+      - butterfly pattern stocking, garter straps
+      - flower pattern fullbody stocking
+      - bat pattern fullbody stocking
+      - star pattern fullbody stocking
+      - butterfly pattern fullbody stocking
+      - flower pattern pantyhose
+      - bat pattern pantyhose
+      - star pattern pantyhose
+      - butterfly pattern pantyhose
+      - flower pattern fishnet_stocking, garter straps
+      - bat pattern fishnet_stocking, garter straps
+      - star pattern fishnet_stocking, garter straps
+      - butterfly pattern fishnet_stocking, garter straps
+      - backseam stocking, garter straps
+    clothesM:
+      - dress shirt
+      - dress shirt, vest
+      - hoodie T-shirt
+      - T-shirt
+      - polo shirt
+      - tank top
+      - turtleneck 
+      - notched collar, vest
+      - Peter Pan collar
+      - long-sleeved shirt
+      - tracksuit
+      - Long-sleeved shirt
+      - Short-sleeved shirt
+      - Blouse
+      - Casual shirt
+      - Formal shirt
+      - No-collar shirt
+      - Plain shirt
+      - Patterned shirt
+      - V-neck shirt
+      - Round-necked shirt
+      - Striped shirt
+      - Checked shirt
+      - Crop shirt
+      - Denim shirt
+      - Oversized shirt
+    clothesOuter:
+      - Cardigan
+      - Cropped knit sweater
+      - Chunky knit sweater
+      - Cable knit sweater
+      - Ribbed knit
+      - Knit vest
+      - Jacket
+      - Blazer
+      - Coat
+      - Trench Coat
+      - Pea Coat
+      - Biker Jacket
+      - Hoodie
+      - Denim Jacket
+      - Windbreaker
+      - Bomber Jacket
+      - Chesterfield Coat
+      - Raincoat
+      - Down Jacket
+      - Double-breasted
+      - Field Jacket
+      - Short Coat
+      - Anorak
+      - Vest Jacket
+      - Leather Jacket
+      - Gilet
+      - Duffle Coat
+      - Short Coat
+      - Car Coat
+      - Fleece
+    clothesPajamas:
+      - Tank top pajamas
+      - Knit pajamas
+      - Loungewear
+      - Flannel pajamas
+      - Lingerie pajamas
+      - Leggings pajamas
+      - flower pattern pajamas
+      - animal kigurumi, boa pajamas
+      - fluffy animal kigurumi pajamas, fluffy pajamas, boa pajamas
+      - track jacket, gray sweat pants
+      - babydoll
+      - T-shirt, panties
+      - pompom
+      - camisole, gray sweat pants
+      - camisole, shorts
+      - yukata
+      - Nightgown
+      - pajamas
+    clothesSEXY:
+      - intricate gothic frilled dress, frilled blouse, ribbon-trimmed sleeves
+      - intricate frilled lingerie
+      - heart_cutout enamel tubetop, enamel panties, frill
+      - enamel bodysuit, navel cutout
+      - long frilled dress, lace, thigh
+      - enamel pasties, enamel panties, frill
+    clothesShoes:
+      - Deck shoes
+      - Wedges
+      - Moccasins
+      - Dance shoes
+      - bulb_toe_shoes
+      - shoes
+      - slippers
+      - Gladiator sandals
+      - bare feet
+      - sneakers
+      - trainers
+      - combat boots
+      - short boots
+      - dress shoes
+      - leather shoes
+      - loafer
+      - monk strap
+      - full brogue
+      - thigh high boots
+      - knee high boots
+      - ankle boots
+      - platform shoes
+      - platform sneakers
+      - platform boots
+    clothesSocks:
+      - ankle socks
+      - socks
+      - slouch socks
+      - high socks
+      - thighhighs
+      - loose socks
+      - pantyhose
+      - fishnet tights
+    clothesSports:
+      - soccer_uniform
+      - Training pants, Running shirt
+      - tennis_uniform
+      - volleyball_uniform
+      - Gym shorts, T-shirt
+      - baseball_uniform
+      - Yoga pants, sports bra
+      - basketball_uniform
+      - Jersey
+      - track_uniform, Tank top
+      - Badminton wear, Leggings
+      - Golf wear
+      - Cycling wear, Cycling shoes 
+    clothesSwimsuit:
+      - school swimsuit
+      - one-piece swimsuit
+      - casual one-piece swimsuit
+      - highleg swimsuit
+      - slingshot swimsuit
+      - sling bikini
+      - side-tie bikini
+      - Bikini
+      - micro bikini
+      - High-waisted bikini
+      - Trunks Rashguard
+      - Surf suit
+      - Beach dress
+      - Competition swimsuit swim cap
+  emotions:
+    facial: 
+      - angry 
+      - clenched teeth
+      - serious 
+      - smile
+      - happy
+      - whiskers
+      - kind smile
+      - closed eyes smile
+      - squinting eyes smile
+      - pupils sparkling
+      - smile fang
+      - wavy mouth
+      - wavy mouth smile
+      - embarrassed nose blush smile
+      - Chuckling
+      - Delighted
+      - Excited
+      - smirk
+      - Jubilant
+      - Smiling
+      - Rejoicing
+      - Joyful
+      - Bashful
+      - smug
+      - Elated
+      - Giggling
+      - Blushing
+      - Gleeful
+      - Overjoyed
+      - Buoyant Smile
+      - giggling
+      - evil smile
+      - naughty smile
+      - grin 
+      - open-mouth,wavy mouth 
+      - NSFW staring
+      - gasping
+      - smile, (troubled eyebrows:0.6)
+    facialS:
+      - smile
+      - happy
+      - happy
+      - whiskers
+      - whiskers, half opened mouth
+      - kind smile
+      - closed eyes, smile
+      - squinting eyes, smile
+      - pupils sparkling
+      - smile, fang
+      - wavy mouth
+      - wavy mouth, half opened mouth
+      - wavy mouth, smile
+      - embarrassed nose blush smile
+      - Delighted
+      - smirk
+      - smirk, tongue
+      - Jubilant
+      - Smiling, cover mouth with hands
+      - Rejoicing
+      - Joyful
+      - Bashful
+      - Blushing
+      - Gleeful
+      - Overjoyed
+      - smile, (troubled eyebrows:0.6)
+    facialX:
+      - Constricted pupils, wavy mouth
+      - forced smile, despair
+      - sad smile, tears, Suffering
+      - Shocked
+      - Shocked, wince, grimace
+      - Incredulous
+      - Incredulous, wince, grimace
+      - Disgusted
+      - Nauseated
+      - Nauseated, turn pale, tears
+      - Hating
+      - Discontented, turn pale
+      - grimace, Loathing
+      - Loathing
+      - Scornful
+      - Repulsed, Uncomfortable
+      - Uncomfortable, tears
+      - Fed up, desperation 
+      - Fed up
+      - desperation, Trembling
+      - Trembling, Hating
+      - Trembling, Horrified
+      - Trembling, Horrified, cry, tears
+      - Trembling, Loathing
+      - Hateful, clenched teeth
+      - Hateful, Repulsed
+      - Hateful, Distressed
+      - Hateful, desperation
+      - mind break, desperation, open mouth, Indifferent, exhausted
+      - mind break, desperation, Indifferent, tears
+      - mind break, open mouth, Indifferent, exhausted
+      - Empty eyes, no highlight pupils
+      - Empty eyes, mind break, open mouth, drool
+      - expressionless, lethargy, tears
+      - expressionless, lethargy, non-fucus pupils
+      - scared, moist eyes, resistance, slenched teeth,wavy mouth, full-face blush
+  colors:
+    - red
+    - orange
+    - yellow
+    - green
+    - blue
+    - purple
+    - pink
+    - brown
+    - black
+    - white
+    - gray
+    - silver
+    - gold
+    - beige
+    - turquoise
+    - blond
+    - indigo
+    - multicolored
+    - gadient
+    - rainbow
+  effects:
+    - glowing particles
+    - falling leaves
+    - floating crystals
+    - glowing stones
+    - mystical flowers
+    - magic aura
+    - flame
+    - flash
+    - beam
+    - blaze
+    - ice
+    - spark
+    - droplet
+    - glare
+    - reflection
+    - magic
+    - magic circle
+    - soundwave
+    - rays of light
+    - darkness
+    - sandstorm
+    - glisten
+    - crystal
+    - laser
+    - shadow
+    - moonlight
+    - starlight
+    - silhouette
+    - purple sky
+    - magic dust
+    - ripples
+    - snow
+    - smoke
+    - splash
+    - rain
+    - bubble
+    - fragment
+    - sparkle
+    - sunrise
+    - night sky
+    - fog
+    - frost
+    - tornado
+    - cloud
+    - moonlight
+    - sunlight
+    - atmosphere
+    - water surface
+    - sunset
+    - thunderbolt
+    - musical note
+    - aurora
+    - vacuum
+    - airwave
+    - explosion
+    - stardust
+    - dewdrop
+    - rainbow  
+  lightings:
+    lighitingTime:
+      - daytime, strong light, glare, coming in light, rays light, sparkles, lens flare
+      - daytime, warm light, sunset, rays light, sparkles, lens flare, deep shadows, depth of field, peerless, sentimental
+      - nighttime, night, moon light, sight light, darkness
+    lighting:
+      - Morning sunlight, strong light coming in light rays light sparkles lens flare deep shadows caustics
+      - Sunset, warm light, rays light sparkles lens flare deep shadows, depth of field peerless scenery sentimental
+      - Nightlight, Gaslight, glare, window light, perfect darkness, perfect shadow
+      - glowlight, amber gaslight shadow
+      - Stronglight rays Reflective, sparkling lens flare Dazzle, Shimmer, Shine
+      - Morning sunlight, strong light coming in light rays light sparkles lens flare deep shadows caustics golden hour, backlighting deep shadows
+      - Sunset, warm light, rays light sparkles lens flare deep shadows, depth of field peerless scenery sentimental, backlighting deep shadows
+      - Nightlight, Gaslight, glare, window light, perfect darkness, perfect shadow, backlighting deep shadows
+      - Glowlight, amber gaslight shadow, backlighting deep shadows
+      - Stronglight rays Reflective, sparkling lens flare Dazzle, Shimmer, Shine, backlighting deep shadows
+      - Early morning, morning mist, white sky, dim white light, shimmer, fog, sun hidden by clouds, blurred vision, blur
+      - Dawn, the color of the sky mixed with orange and purple, sunlight shining white and blocked by fog, a hazy moon, light in the haze, light reflecting off wet grass and trees.
+      - Late night, darkness, spotlights in places, deep shadows, perfect darkness, slight neon, car headlights in the distance
+      - Evening, streetlight, sunset, shadow, darkness, electric light, city light, sunset, stretched shadow, small white moon
+      - Evening, streetlight, sunset, shadow, darkness, electric light, city light, sunset, stretched shadow, small white moon, backlighting deep shadows
+      - Sunlight so strong that you can't open your eyes, midsummer, light, flare, shimmer, intense light, white glow, brilliance, shimmer
+      - Sunlight so strong that you can't open your eyes, midsummer, light, flare, shimmer, intense light, white glow, brilliance, shimmer, backlighting deep shadows
+    lightingColor:
+      - Warm Light
+      - Cool Light
+      - Daylight
+      - Tungsten Light
+      - Candlelight
+      - Mixed Lighting
+      - Neon Light
+    lightingSource:
+      - Front Light
+      - Back Light
+      - Side Light
+      - Top Light
+      - Bottom Light
+      - Key Light
+      - Fill Light
+      - Rim Light
+      - Kick Light
+      - Practical Light
+      - Bounce Light
+      - Diffused Light
+      - Hard Light
+      - Soft Light
+      - Three-Point Lighting
+      - High-Key Lighting
+      - Low-Key Lighting
+      - Motivated Light
+      - Catch Light
+      - Ambient Light 
+  look:
+    - looking at viewer
+    - looking up
+    - looking down
+    - looking back
+    - looking to the side
+    - looking away
+    - looking afar
+    - looking ahead
+  poses:
+    poses:
+      - Looking back
+      - Looking back, :P
+      - own hands together
+      - arms behind back
+      - paw pose
+      - claw pose
+      - merowick pose
+      - arm at side
+      - arm at side, head tilt
+      - arms at viwer
+      - Apologies, hands together
+      - index finger raised
+      - index finger on eyes, tougue out
+      - index finger, viwer
+      - leaning forward
+      - fighting stance
+      - leaning back
+      - arched back
+      - balancing pose
+      - handstand
+      - salute
+      - arms behind head
+      - outstretched hand
+      - spread arms
+      - thumbs up
+      - standing on one leg
+      - crossed legs
+      - Covering mouth with hand
+      - arms behind back
+      - Lying down Paw Pose
+      - Making a heart with fingers
+      - sitting in seiza
+      - sitting cross-legged
+      - sitting on stairs, stairs
+      - Kneeling
+      - Placing hand on chest
+      - Covering body with hands
+      - Hiding face with arm
+      - Holding head with both hands
+      - Hands on hips
+      - peace sign of right eye side
+      - arms raised in the air, extend arms straight out
+      - running, wind, floating hair
+      - all fours, ravure pose, full body, doggy style
+      - ibalance standing on one leg leg lift standing split leg Holding leg
+      - closed eyes smile incoming kiss POV
+      - heart hands
+      - kick
+      - punch
+      - jump 
+    posesSitting:
+      - Sitting
+      - head rest on table, Sitting in a chair
+      - Sitting, wariza
+      - Sitting, hugging own legs
+      - Sitting, spreading legs
+      - Sitting, indian style
+      - Sitting, seiza
+      - Sitting, yokozuwari
+      - squatting
+      - Sitting on knee
+      - Sitting on bed
+      - Sitting
+  scenes:
+    scene:
+    - Akihabara(City) Traffic signals Street lights Neon signs Decorative signs building
+    - Las Vegas
+    - Shinjuku Kabukicho
+    - Disney land
+    - >-
+      { car | motercycle }, Highway
+    - >-
+      { car | motercycle }, Tunnel
+    - >-
+      { car | motercycle }, Bridge
+    - >-
+      { car | motercycle }, Sidewalk
+    - >-
+      { car | motercycle }, Road
+    - >-
+      { car | motercycle }, Station
+    - >-
+      { car | motercycle }, Airport
+    - >-
+      { car | motercycle }, Bus Stop
+    - >-
+      { car | motercycle }, Port
+    - >-
+      { car | motercycle }, Taxi Stand
+    - >-
+      { car | motercycle }, Bypass
+    - Skyscraper
+    - Convenience store
+    - Police station
+    - School
+    - Karaoke Box
+    - Arcade
+    - Casino
+    - Theme Park
+    - Circus
+    - Aquarium
+    - Fast Food Restaurant
+    - Ramen Shop
+    - Steakhouse
+    - Pet Shop
+    - Drugstore
+    - Fish market
+    - Night market
+    - Park
+    - Restaurant
+    - Parking lot
+    - Hotel
+    - Railway
+    - Tunnel
+    - Park
+    - Bus Stop
+    - Train Station
+    - Zoo
+    - Hot Spring Facility
+    - Port
+    - Ferris Wheel
+    - Royal Palace
+    - Church
+    - Tower
+    - Fortress
+    - Citadel
+    - Pyramid
+    - Stele
+    - Arena
+    - Ruins
+    - Castle with Towers
+    - Open Plaza
+    - Office
+    - Studio
+    - Tower
+    - Warehouse
+    - Theater
+    - Hospital
+    - Bridge
+    - Library
+    - Gymnasium
+    - Campus
+    - Pool
+    - Church
+    - Hair salon
+    - Electronics store
+    - Flower shop
+    - Bakery
+    - Gym
+    - Gas station
+    - Outlet mall
+    - Theater
+    - Bar
+    - Dance Club
+    - Billiard Hall
+    - Nightclub
+    - Art Gallery
+    - Opera House
+    - Haunted House
+    - Cafe
+    - Sushi Bar
+    - Italian Restaurant
+    - Japanese Restaurant
+    - Korean BBQ
+    - Pizzeria
+    - Tea Room
+    - Brewery
+    - Wine Bar
+    - Supermarket
+    - Electronics Store
+    - Clothing Store
+    - Toy Store
+    - Souvenir Shop
+    - Music Store
+    - Jewelry Store
+    - Wine Shop
+    - Tea Shop
+    - Art Festival
+    - Graffiti Wall
+    - Water Installation
+    - Outdoor Theater
+    - Dance Space
+    - Fireworks Stage
+    - Coffee vendor
+    - Art stall
+    - Drink stand
+    Outdoors:
+      - Rice paddy
+      - Field
+      - Tomato farm
+      - Fodder field
+      - Grain field
+      - Barn
+      - Horse farm
+      - Farmhouse
+      - Flower field
+      - Syrup farm
+      - Tractor
+      - Seed storage
+      - Coffee plantation
+      - Vegetable patch
+      - Hop farm
+      - Ranch
+      - Orchard
+      - Vineyard
+      - Cotton field
+      - Chicken coop
+      - Wool farm
+      - Fish farm
+      - Greenhouse
+      - Beekeeping farm
+      - Dairy farming
+      - Grain silo
+      - Tea plantation
+      - Herb garden
+      - Cattle farm
+      - Cornfield
+      - great wall of china
+      - grand canyon
+      - Niagara Falls
+      - Toujinbou
+      - Fuji Mountain
+      - Forbidden City
+      - Tower of Babel
+      - lantern floating
+      - Venice, Gondola Ride
+      - floating island
+      - Machu Picchu
+      - Stonehenge
+      - ayers rock
+      - Nazca terrestrial painting
+      - pyramid
+      - Sahara Desert
+      - Mont Saint Michel
+      - Forbidden City
+      - Mountains in Morning Mist
+      - Mountain Range
+      - Snowy Mountain
+      - Mountain Lake
+      - Autumn Mountains
+      - Summer Green Hills
+      - View from Mountain Top
+      - Lone Tree on a Hill
+      - Starry Night in the Mountains
+      - Camping in the Mountains
+      - Morning in the Hillside
+      - Mountain Village
+      - Mountain Hot Spring
+      - Sunset at Mountain Peak
+      - Hill with Spring Flowers
+      - Mountain Stream
+      - Mountain Climbers
+      - Mountain Path
+      - Snow-covered Hill
+      - Rocky Mountain
+      - Windy Grassland Hill
+      - Waterfall in the Mountains
+      - Mountains after Rain
+      - Hill in the Fog
+      - Rising Sun at Mountain Peak
+      - Autumn in the Hillside
+      - Tranquil Lake
+      - Mountain Stream
+      - Tropical Beach
+      - Rough Seas
+      - Melting Snow River
+      - Boat on a Lake
+      - Blue Pond
+      - Autumn Riverbank
+      - Lakeside at Sunset
+      - Rocky Shoreline
+      - Urban River View
+      - Riverside Walkway
+      - Stormy Sea
+      - Sunrise over the Ocean
+      - Babbling Brook
+      - Nighttime Lake
+      - River Delta
+      - Waterfall
+      - Moonlit Ocean
+      - Sandy Beach
+      - Wetlands
+      - Hot Springs
+      - Inland Sea
+      - Grand Waterfall
+      - Spring Flowering Forest
+      - Summer Green Forest
+      - Forest Path
+      - Sunlit Forest
+      - Rainforest
+      - Deep Woods
+      - Autumn Foliage Forest
+      - Storm over the Prairie
+      - Forest Lake
+      - Rainy Forest
+      - Burnt Forest
+      - Forest Sunset
+      - Autumn Field
+      - Flower Meadow
+      - Foggy Field
+      - Dawn in the Field
+      - Snow-covered Field
+      - Starlit Field
+      - Picnic in the Meadow
+      - Dusk in the Meadow
+      - Morning in the Meadow
+      - Animals in the Field
+      - Hilltop Meadow
+      - Spring Field 
+    OutdoorsFantasy:
+      - Sunlit Cave
+      - Ancient Tomb
+      - Underground City
+      - Hidden Cave
+      - Underground Arena
+      - Subterranean Maze
+      - Mine Shaft
+      - Collapsed Tunnel
+      - Secret Underground Base
+      - Subterranean River
+      - Rock Strata
+      - Desert Sunset
+      - Sand Dunes
+      - Desert Oasis
+      - Empty Desert
+      - Sandstorm
+      - Desert Caravan
+      - Starry Night in the Desert
+      - Scorching Desert
+      - Desert Ruins
+      - Desert Village
+      - Traveler in the Desert
+      - Ice Cave
+      - Polar Night Sky
+      - Polar Night
+      - Frozen Tundra
+      - Frigid Forest
+      - Iceberg Peak
+      - Frozen River
+      - Snow-covered Ruins
+      - Ice Bridge
+      - Traveler in the Snow
+      - Mountain in a Blizzard
+      - Tropical Rainforest
+      - Tropical Botanical Garden
+      - Mangrove Forest
+      - Jungle Ruins
+      - Tropical Wildlife
+      - Tropical Storm
+      - Tropical Flowers
+      - Jungle Path
+      - Tropical Sunset
+      - Underground Lake
+      - Cave Waterfall
+      - Stalactite Cave
+      - Underground Hot Springs
+      - Cave Dwelling
+      - Cave Temple
+      - Underground Palace
+      - Cave Ecosystem
+      - Treasure-filled Cave
+      - Underground Desert
+      - Ancient Underground Ruins
+      - Barren Land
+      - Abandoned Town
+      - Ruined City
+      - Raining in the Wasteland
+      - Wasteland Night
+      - Wasteland Ruins
+      - Wasteland Ecosystem
+      - Wasteland Creek
+      - Wasteland after a Storm
+      - Wasteland Morning
+      - Blast Zone in the Wasteland
+      - Glacial Valley
+      - Frozen Lake
+      - Ice Castle
+      - Polar Research Station
+      - Snowbound Cabin
+      - Snowy Village
+      - Snow Camping
+      - Hidden World Under Ice
+      - Hot Springs in Cold Regions
+      - Aurora in Polar Regions
+      - Antarctic Landscape
+      - Jungle Waterfall
+      - Tropical Beach
+      - Tropical Night Sky
+      - Tropical Coral Reef
+      - Jungle River
+      - Deep Jungle
+      - Jungle Village
+      - Jungle Cave
+      - Tropical Hot Springs
+      - Fairy Kingdom
+      - Unicorn Valley
+      - Dreaming Pond
+      - Mystical Flower Meadow
+      - Magical Orchard
+      - Fairy Altar
+      - Grand Treehouse
+      - Fairy Theater
+      - Magical Zoo
+      - Lake of Illusion
+      - Fairyfs Secret Cave
+      - Garden of Bliss
+      - Fairy Magic Marketplace
+      - Day-Night Divider Tree
+      - Fairy Herb Garden
+      - Luminescent Fungi Forest
+      - Crystal Trees
+      - Floating Islands
+      - Zero-Gravity Forest
+      - Eternal Spring Forest
+      - Dream Forest
+      - Mirror Lake
+      - Rainbow Waterfalls
+      - Labyrinth in the Mist
+      - Melody Forest
+      - Garden of Magical Fruits
+      - Enchanted Trees
+      - Fairy Concert Hall
+      - Starlit Pathway
+      - Fairy Ballroom
+      - Moonlight Falls
+      - Fountain of Fortune
+      - Fairy Academy
+      - Rainbow Bridge
+      - Timeless Gate
+      - Forest Spirit Temple
+      - Magical Windmill
+      - Dueling Square
+      - Night Sky Observatory
+      - Tree of Wisdom
+      - Angelic Hideaway
+      - Wind-whispering Meadows
+      - Moonlit Garden
+      - Enchanted Spring
+      - Sun Tree
+      - Starry Pond
+      - Tree of Knowledge
+      - Time-traveling River
+      - Moving Stone Garden
+      - Flower Rain Forest
+      - Dragon-inhabited Mountains
+      - Intersection of Shadows and Light
+      - Subterranean Kingdom
+      - Underground Labyrinth
+      - Subterranean Caves
+      - Subterranean River
+      - Underground Forest
+      - Subterranean Paradise
+      - Underground Magical Altar
+      - Secret Subway Station
+      - Underground Research Facility
+      - Subterranean Colosseum
+      - Underground Thievesf Hideout
+      - Secret Underground Garden
+      - Subterranean Adventurersf Inn
+      - Subterranean Sea
+      - Sun Temple
+      - Haunted Pyramid
+      - Crumbling Acropolis
+      - Hidden Underground Tomb
+      - Mystical Stone Monolith
+      - Weathered Statues
+      - Giant Stone Idol
+      - Lost Temple
+      - Ancient Amphitheater
+      - City of the Gods
+      - Dragonfs Peak
+      - Mythical Island
+      - Palace of the Gods
+      - Valley of Dragons
+      - Fairyland
+      - Dragon Slumbering Cave
+      - Cursed Ruins
+      - Shrine of the Dragon God
+      - Starlit Garden
+      - Celestial Castle
+      - Towering Castle
+      - Enchanted Kingdom
+      - Hidden Princefs Retreat
+      - Dragon-guarded Castle
+      - Forbidden Forest
+      - Knightfs Sanctuary
+      - Wizardfs Tower
+      - Kingfs Garden
+      - Fairy-occupied Castle
+      - Fortified Wasteland
+      - Underground Lake
+      - Hidden Underground City
+      - Underground Mines
+      - Subterranean Temple
+      - Subterranean Volcano
+      - Underground Hot Springs
+      - Subterranean Ruins
+      - Subterranean Zoo
+      - Subterranean Marketplace
+      - Subterranean Library
+      - Underground Prison
+      - Subterranean Reservoir
+      - Underground Cemetery
+      - Underground Factory
+      - Stone Colonnade
+      - Ancient City
+      - Underwater Ruins
+      - Desert Fortress
+      - Lost Gardens
+      - Ruins of a Vanished Civilization
+      - Ancient Altar
+      - Magical Ruins
+      - Library of Knowledge
+      - Ruined Palace
+      - Mystical Forest
+      - Dragon Sanctuary
+      - Enchanted Lake
+      - Ancient Temple
+      - Magical Spring
+      - Mythical Land
+      - Spirit Dwelling Mountains
+      - Gateway of Mythology
+      - Sacred Monolith
+      - Dragonfire Desert
+      - Knightsf Training Ground
+      - Walled City
+      - Upside-Down Castle
+      - Tranquil Village
+      - Kingdom on Water
+      - Massive Stone Fortress
+      - Cemetery Castle
+      - Hidden Order of Knightsf Headquarters
+      - Queenfs Secret Chamber
+      - Kingdom of Ancient Ruins
+      - starry map
+      - etherium flower
+      - levitation orb
+      - phoenix feather
+      - dreamcatcher
+      - magical music box
+      - enchanted snowman
+      - magical chant
+      - mystic potion
+      - crystal heart
+      - star-holding jar
+      - magical compass
+      - celestial staircase
+      - enchanted butterfly
+      - wind poem
+      - fairy dust tear
+      - magical lightning
+      - celestial mirror
+      - magical secret key
+      - magical globe
+      - star tear
+      - dragon scale armor
+      - astral pendant
+      - elffs secret book
+      - celestial orb
+      - mystic ring
+      - galactic bracelet
+      - magical bird song
+      - eternal flame
+      - shadow magical wand
+      - silver spring
+      - magical crystal tree
+      - sky-flying magic carpet
+      - enchanted night sky
+      - magical ice castle
+      - golden etherium fruit
+      - stars-singing wind
+      - time hourglass
+      - magical dream droplet
+      - ancient runes
+      - deep-sea magic lantern
+      - mythical beast
+      - mobius ring
+      - bursting star
+      - wind spirit song
+      - winged key
+      - dreaming island
+      - miracle seed
+      - ancient guardian stone
+      - water crystal ring
+      - phantom flame
+      - crystal cloud
+      - moonlight stone
+      - sunset crystal
+      - archangel wing
+      - time-travel gate
+      - shadow moon
+      - eternal wind
+      - magical star rain
+      - wind flute
+      - midnight sun
+      - light fairy dance
+      - rain spirit melody
+      - magical moonlit night
+      - crystal waterfall
+      - starsf song
+      - twilight carpet
+      - mystic aura
+      - golden phoenix
+      - celestial song
+      - mystic ice
+      - phantom moon
+      - magical rain
+      - shadow enchanted fores
+    OutdoorsNature:
+      - rivers,waterfall, green leaves, floating leaves, water sparkles, wet skin
+      - river, waterfall, wet skin
+      - river, waterfall, water sparkles, water splush, wet skin
+      - scattered fallen leaves
+      - wetland bubbles
+      - mossy rock
+      - muddy footprints
+      - shadow on sand
+      - rock crevice
+      - waterfall mist, wet skin
+      - sunset reflection
+      - snow crystals
+      - seabed light
+      - sand whirlwind
+      - nighttime insect sounds
+      - flock of birds
+      - mist over the lake
+      - falling star moment
+      - post-rain aroma
+      - leaf dance
+      - flowing clouds
+      - forest chatter
+      - afterglow at the coast
+      - desert oasis
+      - milky way
+      - clouds on mountain peak
+      - butterflies in flowerbed
+      - mud puddle splash
+      - tree in morning fog
+      - footprints in the snow
+      - forest echo
+      - heatwave
+      - star-filled sky
+      - approaching storm
+      - sunlight through trees
+      - nighttime sea glow
+      - lantern light
+      - sunlit mountain
+      - rainbow over the lake
+      - petals dancing in the wind
+      - dead tree
+      - mirage
+      - purple clouds
+      - starfish shape
+      - wave splash
+      - sandstorm
+      - dew on grass
+      - moon halo
+      - fog-covered forest
+      - wind over the meadow
+      - morning haze
+      - dancing petals
+      - moon between the clouds
+      - tree rustling
+      - dew between the grasses
+      - river murmuring, wet skin
+      - ice crack
+      - sunset sea
+      - snow-covered tree
+      - wind on snowy mountain
+      - break in the clouds
+      - rays of light on the sea
+      - vapor from the marsh
+      - seashells on sandy beach
+      - tropical breeze
+      - leaves dripping with rain
+      - reflection in mountain lake
+      - cave on the shore
+      - tide at the river mouth, wet skin
+      - desert night
+      - wave spray on rocks
+      - flowers on mountain slope
+      - animals in the meadow
+      - animals in the snow
+      - waterfall deep in the forest, wet skin
+      - desert flower
+      - bird nest on the cliff 
+    sceneG:
+      - Vampire Castle
+      - Dark Forest
+      - Altar of the Blood Moon
+      - Town of the Dead
+      - Vampire Palace
+      - Night Market
+      - River of the Dead
+      - Vampire Aristocratfs Mansion
+      - Eternal Darkness
+      - Cursed Dungeon
+      - Gate of the Grim Reaper
+      - Bloodstained Lake
+      - Vampire Academy
+      - Cursed Tower
+      - Hidden Room in Cemetery
+      - Gothic Cathedral
+      - Cursed Garden
+      - Gothic Opera House
+      - Forbidden Library
+      - Gothic Greenhouse
+      - Forest of Curses
+      - Gothic Tower
+      - Temple of Darkness
+      - Gothic Garden
+      - Vampirefs Secret Gathering Place
+      - Gothic Art Gallery
+      - Forbidden Grounds
+      - Gothic Amusement Park
+      - Enchanted Gothic Garden
+      - candlestick, stained glass, intricate gothic architecture
+    sceneIndoors:
+      - library Unique Artistic buckground, lighting melow
+      - washitsu, tatami, syouji, kakejiku, warmlight
+      - curtains, indoors, window, sofa, table, pictue, Vases, houseplants
+      - school, tables, chairs
+      - living room, sofa, Dining table, chairs, carpet, fireplace, ornamental foliage
+      - >-
+        Aristocratic mansion { entrance chandelier, Portrait-on-wall | red carpet, corridors Statue Vase of roses | red carpet, stairwell, stairs chandelier }
+    sceneOutdoors:
+      - shadow dark dim forest, Slight light
+      - meadow, grass, blue sky, clouds
+      - Milky Way, beautiful detailed glow, blink stars
+      - rose garden fantastic strong light wind light coming in, (royal garden rose) many rose, British Garden Rose Arch
+      - wet water drop, lying_on_water, detailed wet clothes, wet hair
+      - many __fantasy_girls/colors__ tulip field, sky, incoming clouds
+      - Peachland, fantastic, (cherry blossoms), park, petals, wind
+      - many sunflowers field, sky, incoming clouds
+      - many flower garden field, sky, incoming clouds
+      - Autumn leaves, maple leaves, fluttering, wind fantastic mackerel sky golden hour
+      - detailed beautiful Snow, Forest with Trees spirit, ((Snowflakes)),floating snow flow
+      - shrine, mysterious, wind, quiet, bamboo grass
+    sceneSF:
+      - Mechanical Forest
+      - Gear Mountain
+      - Robotic River
+      - Renewable Energy City
+      - Hybrid Zoo
+      - Mechanical Flower Field
+      - Robotic Wildlife Reserve
+      - Cyborg Prairie
+      - Solar Panel Beach
+      - Wind Turbine Hills
+      - Automated Oasis
+      - Mechanized Water Source
+      - Mechanical Rainforest
+      - Hybrid Swamp
+      - Ocean of Data
+      - Virtual Cities
+      - Digital Desert
+      - Cloud Mountain Range
+      - Malware Forests
+      - Protocol Rivers
+      - Code Caves
+      - Ruins of Databases
+      - Firewall Fortresses
+      - Social Media Plazas
+      - Privacy Islands
+      - Encryption Forts
+      - Dark Zones of Cyberspace
+      - Data Mining Quarries
+      - Cloud Heaven
+      - Antivirus Temples
+      - Internet Crossroads
+      - Neon Plaza
+      - Virtual Reality District
+      - Skyscraper Rooftop Gardens
+      - Underground Cyber Bars
+      - Electronic Scrap Market
+      - Cyberpunk Shopping Mall
+      - Gambling & Casino Zone
+      - Data Mining Facilities
+      - Drone Port
+      - High-Tech Parks
+      - Megacorporation Headquarters
+      - Illegal Augmentation Clinics
+      - Data Theft Markets
+      - Hybrid Animal Zoos
+      - Steam City
+      - Vintage Railway
+      - Airship Dock
+      - Clock Tower
+      - Steam Factory
+      - Vintage Marketplace
+      - City of Gears and Cogs
+      - Steampunk Palace
+      - Bridge of Steam and Iron
+      - City of Human-Machine Symbiosis
+      - Cyborg Lake
+      - Mechanical Desert
+      - Energy Falls
+      - Biomechanical Ocean
+      - Gear Island
+      - Organic-Mechanical Farm
+      - Hybrid Greenhouse
+      - Mechanical Jungle
+      - Hybrid Springs
+      - Mechanical Glacier
+      - Hybrid Cave
+      - Organic-Mechanical Temple
+      - Cyborg Harbor
+      - Mechanical Volcano
+      - Network Faults
+      - Data Plains
+      - Entertainment Servers
+      - Digital Libraries
+      - Web Mazes
+      - Server Farms
+      - Algorithm Arches
+      - Wikipedia Castle
+      - Debugging Valleys
+      - Simulation Universes
+      - Memory Springs
+      - Sacred Grounds of Backup
+      - Binary Waterfalls
+      - Graphics Gardens
+      - Labyrinths of Email
+      - Offline Ruins
+      - Palace of Databases
+      - Hackerfs Hideout
+      - AI Control Center
+      - Black Market
+      - Marquee Street
+      - Bioengineering Facility
+      - Polluted River
+      - Police Cybersecurity Division
+      - Augmented Gang Territories
+      - High-Speed Monorail
+      - Cyberpunk Theater
+      - Underground Illegal Cyber-Fight Arena
+      - Memory Shops
+      - Electronic Billboard Zones
+      - Future of Art & Music Centers
+      - Floating City
+      - Steampunk Harbor Town
+      - Artificial Island
+      - Underground Steam Power Plant
+      - Mechanical Gardens
+      - Zeppelin
+      - Steam Locomotive Journey
+      - Clockwork Forest
+      - Steampunk Laboratory
+      - Old-fashioned Train Station
+      - Futuristic Skyscraper City
+      - Artificial Planet
+      - Floating City
+      - Next-Generation Space Base
+      - Eco-Friendly Futuristic City
+      - Spaceport
+      - Futuristic Desert City
+      - Alien Planet
+      - Inside a Spaceship
+      - Terraformed Planet
+      - City of Time Travelers
+      - Virtual Reality City
+      - Mirror World
+      - Time Rift
+      - Otherworldly Forest
+      - Underwater City
+      - Ancient Land
+      - Eternal Darkness
+      - Zero Dimension
+      - Spirit Realm
+      - Reversed World
+      - Dark Matter Realm
+      - Endless Desert
+      - City Under a Dome
+      - Space Elevator
+      - Future Underground City
+      - Technology Park
+      - Digital Space City
+      - Cyborg Colony
+      - Future Water City
+      - Human Space Colony
+      - Zero-Gravity City
+      - Space Station
+      - City with Ultra-Fast Transportation Network
+      - Upside-Down City
+      - Parallel Universe
+      - Magical Dimension
+      - Zero Gravity World
+      - Sky Kingdom
+      - Otherworldly City
+      - Phantom Kingdom
+      - Colony in a Parallel Universe
+      - Earth with an Alternate History
+      - World of Eternal Day
+      - World of Eternal Night 
+    Town_amusement:
+      - Casino, poker table, baccarat table
+      - Casino, Roulette table
+      - Baseball field
+      - Basketball court
+      - Swimming pool
+      - Skating rink
+      - Track
+      - Fishing pond
+      - Athletic stadium
+      - Marathon course
+      - Beach volleyball court
+      - Boating dock
+      - Cycling path
+      - Rugby field
+      - Handball court
+      - Cricket ground
+      - Archery range
+      - Music Festival
+      - Food Festival
+      - Art Exhibition
+      - Open-Air Concert
+      - Outdoor Theater
+      - Flea Market
+      - Festival
+      - Exhibition
+      - Contest
+      - Rides
+      - Amusement Park
+      - Roadshow
+      - Marathon
+      - Boat Race
+      - Jazz Festival
+      - Roller coaster
+      - Haunted house
+      - Arcade
+      - Water ride
+      - Carousel
+      - Swing
+      - Tower drop
+      - Mini train
+      - Bumper cars
+      - Horse riding
+      - Pedal boat
+      - Ride simulator
+      - Tunnel ride
+      - Slide
+      - Sculpture Park
+      - Outdoor Gallery
+      - Open-air Museum
+      - Garden Art
+      - Goldfish Art Exhibition
+      - Sand Sculpture
+      - Land Art
+      - Aerial Installation
+      - Floral Art Exhibition
+      - Stone Art
+      - Outdoor Photography Exhibition
+      - Art Trail
+      - Outdoor Film Festival
+      - Landscape Art
+      - Art Road
+      - Soccer field
+      - Tennis court
+      - Gymnasium
+      - Badminton court
+      - Fitness center
+      - Golf course
+      - Riding arena
+      - Bowling alley
+      - Ski slope
+      - Skateboard park
+      - Rock climbing
+      - Table tennis
+      - Yoga studio
+      - Crossfit gym
+      - Boxing gym
+      - Firework Display
+      - Parade
+      - Carnival
+      - Movie Screening
+      - Sports Event
+      - Beer Garden
+      - Lecture
+      - Stadium
+      - Dance Event
+      - Travel Expo
+      - Comic-Con
+      - Workshop
+      - Craft Fair
+      - Wine Tasting
+      - Gardening Show
+      - Merry-go-round
+      - Ferris wheel
+      - Jet coaster
+      - Ghost house
+      - Animal show
+      - 4D cinema
+      - Parade
+      - Live show
+      - Horror zone
+      - Magic show
+      - Mascot
+      - Game booth
+      - Treasure hunt
+      - Observation wheel
+      - Art Festival
+      - Street Corner Mural
+      - Wind Chime Exhibition
+      - Illumination
+      - Graffiti Wall
+      - Water Installation
+      - Outdoor Theater
+      - Outdoor Stage
+      - Dance Space
+      - Jazz Stage
+      - Pop-up Shop
+      - Fireworks Stage
+      - Outdoor Concert
+      - Art Market
+      - Traditional Performance Stage
+    Town_indoors:
+      - Living Room
+      - Kitchen
+      - Bathroom
+      - Entrance Hall
+      - Washroom
+      - Storage Room
+      - Closet
+      - Attic
+      - Guest Room
+      - Porch
+      - Terrace
+      - Home Theater
+      - Window Seat
+      - Entryway
+      - Loft
+      - Bedroom
+      - Dining Room
+      - Toilet
+      - Hallway
+      - Study
+      - Veranda
+      - Garage
+      - Basement
+      - Balcony
+      - Sunroom
+      - Laundry Room
+      - Walk-in Closet
+      - Garden Room
+      - Playroom
+      - Pantry
+      - Office
+      - Conference Room
+      - Cubicle
+      - Shared Office
+      - Workstation
+      - Copy Room
+      - Kitchen
+      - Home Office
+      - Coworking Space
+      - Presentation Room
+      - Lab
+      - Library
+      - Archive
+      - Seminar Room
+      - Lobby
+      - Room
+      - Reception
+      - Open Space
+      - Lounge
+      - Cafeteria
+      - Break Room
+      - Restroom
+      - Entrance
+      - Studio
+      - Balcony
+      - Print Area
+      - Storage
+      - Server Room
+      - Research Room
+      - Elevator Hall
+      - Library
+      - Laboratory
+      - Computer Lab
+      - Music Room
+      - Workshop
+      - Dance Studio
+      - Conference Room
+      - Tutoring Center
+      - Research Institute
+      - Classroom
+      - Lecture Hall
+      - Study Room
+      - Language Lab
+      - Art Room
+      - Gymnasium
+      - Seminar Room
+      - Audio-Visual Room
+      - Reading Room
+      - Atelier
+      - Yoga Studio
+      - Online Classroom
+      - Elementary School
+      - Middle School
+      - Vocational School
+      - Gym
+      - Spa
+      - Beauty Salon
+      - Dental Clinic
+      - Hospital
+      - Swimming Pool
+      - Rehabilitation Center
+      - Wellness Retreat
+      - Healthcare Clinic
+      - Aromatherapy Center
+      - Health Food Store
+      - Holistic Center
+      - Consultation Room
+      - Birthing Center
+      - Personal Training Studio
+      - Karate Dojo
+      - Office
+      - University
+      - High School
+      - Kindergarten
+      - Adult Education Center
+      - Yoga Studio
+      - Massage Salon
+      - Esthetic Salon
+      - Clinic
+      - Fitness Center
+      - Sauna
+      - Psychological Counseling
+      - Meditation Center
+      - Cryotherapy Center
+      - Acupuncture Clinic
+      - Weight Management Clinic
+      - Detox Spa
+      - Maternity Center
+      - Chiropractic Office
+      - casino
+      - mansion
+      - kitchen
+    Town_shopping:
+      - Cinema
+      - Concert Hall
+      - Karaoke Box
+      - Arcade
+      - Sports Bar
+      - Bowling Alley
+      - Theme Park
+      - Live Music Venue
+      - Museum
+      - Circus
+      - VR Center
+      - Shopping Mall
+      - Magic Show
+      - Aquarium
+      - Theater
+      - Bar
+      - Dance Club
+      - Billiard Hall
+      - Nightclub
+      - Jazz Club
+      - Skating Rink
+      - Exhibition Hall
+      - Art Gallery
+      - Opera House
+      - Comedy Club
+      - Board Game Cafe
+      - Ice Cream Parlor
+      - Haunted House
+      - Rope Course
+      - Restaurant
+      - Fast Food Restaurant
+      - Ramen Shop
+      - Bar
+      - Bistro
+      - Bakery
+      - Tapas Bar
+      - Buffet
+      - Diner
+      - Steakhouse
+      - Seafood Restaurant
+      - Coffee Shop
+      - Gourmet Market
+      - Dessert Cafe
+      - Cafe
+      - Sushi Bar
+      - Izakaya
+      - Italian Restaurant
+      - Japanese Restaurant
+      - French Restaurant
+      - Korean BBQ
+      - Pizzeria
+      - Tea Room
+      - Vegan Restaurant
+      - Brewery
+      - Wine Bar
+      - Juice Bar
+      - Greek Restaurant
+      - Sandwich Shop
+      - Department Store
+      - Boutique
+      - Bookstore
+      - Shoe Store
+      - Jewelry Store
+      - Cosmetics Store
+      - Florist
+      - Pet Shop
+      - Bakery
+      - Drugstore
+      - Cafe
+      - Mobile Phone Store
+      - Organic Store
+      - Candy Store
+      - Hardware Store
+      - Supermarket
+      - Electronics Store
+      - Clothing Store
+      - Furniture Store
+      - Toy Store
+      - Sports Equipment Store
+      - Souvenir Shop
+      - Music Store
+      - Butcher
+      - Outlet Mall
+      - Jewelry Store
+      - Wine Shop
+      - Discount Store
+      - Beauty Supply Store
+      - Tea Shop
+      - Food court
+      - Shopping area
+      - Vegetable stall
+      - Fish market
+      - Florist
+      - Souvenir shop
+      - Street food
+      - Toy vendor
+      - Farmers market
+      - Flea market
+      - Open-air market
+      - Night market
+      - Tea stall
+      - Handmade items
+      - Bead stall
+      - Fresh produce
+      - Fruit stand
+      - Meat vendor
+      - Bread stall
+      - Clothing stall
+      - Jewelry stall
+      - Shoe stall
+      - Antique vendor
+      - Book stall
+      - Candy stall
+      - Spice vendor
+      - Coffee vendor
+      - Art stall
+      - Music vendor
+      - Drink stand
+      - Local specialties 
+    fantasy_scene:
+      - Fantasy kingdom at sunset
+      - Enchanted forest at night
+      - Medieval city in moonlight
+      - Magical sunset, glowing trees
+      - Ancient portal, mystical ruins
+      - Moonlit lake, glowing plants
+      - Fantasy city, starry sky
+      - Ominous mountain, dark clouds
+      - Underwater castle
+      - Celestial backdrop, dark sky
+      - Enchanted forest, glowing mushrooms
+      - Mystical valley, sparkling cliffs
+      - Ancient tree, magical energy
+      - Mountain peak, golden sunrise
+      - Crystal cave, glowing crystals
+      - Floating islands, magical waterfalls
+      - Mystic forest, hidden temple
+      - Dragon lair, treasure hoard
+      - Fairy glen, sparkling flowers
+      - Haunted forest, ghostly apparitions
+      - Ancient ruins, overgrown vines
+      - Ice palace, frozen landscape
+      - Magic meadow, glowing plants, night
+      - Starlit sky, flying comets
+      - Mystic lake, thick fog
+      - Celestial garden, blooming stars
+      - Moonlit desert, glowing sands, gold sands
+  NSFW:
+    pussy:
+      - pussy
+      - cameltoe
+      - panties
+      - no panties
+    ass:
+      - ass
+    breast:
+      - cleavage
+      - cutout
+      - covered nipples
+      - nipples
+    fluids:
+        - pussy juice
+        - pussy, cum dripping
+        - saliva
+    hairiness:
+        - hairy pussy
+        - smooth pussy
+    skin-effect:
+        - blush
+        - sweating profusely
+    emotion:
+        - excited
+        - horny, open mouth
+        - angry
+        - scared
+        - smiling
+        - shameful, crying
+        - tongue out, gasp
+        - closed eyes
+  shots:
+    - cowboy shot
+    - upper body
+    - full body
+    - portrait
+    - wide shot from above sitting
+    - profile shot
+    - establishing shot
+    - aerial shot
+    - overhead shot
+    - high angle
+    - low angle
+    - >-
+      { |||||Close-up }
+  strength:
+    - 
+    - light
+    - 
+    - dark
+    - 
+    - bright
+    - 
+    - deep
+    - 
+    - vivid
+    - 
+    - clear
+    - 
+    - transparency
+    - 
+  view:
+    - From Front
+    - From Front
+    - From Front
+    - from above 
+    - From Up 
+    - from below  
+    - from side  
+    - from behind  
+    - hip focus
+    - toward the buttocks 
+    - on back 
+    - POV
+    - From a Distance
+    - between the legs
+    - bare legs soles focus 
+    - reaching out 
+    - selfie solo focus wide shot
+  negative_prompts:
+    zz_v1_5_ngp:
+      - (low quality:1.2, worst quality:1.2), bad anatomy, worst hands, bad proportions, signature, watermark, username, artist name, copyright, long body, crown, tiara, coral, extra digits, fewer digits, bad hands, extra legs
+    zz_SDXL_ngp:
+      - low quality, worst quality, ugly, text, error, signature, watermark, username, blurry, artist name, copyright, long body, comic, monochrome, crown, tiara, coral, retriever, extra digits, fewer digits, bad hands, extra legs
+

@@ -1,0 +1,34 @@
+red
+light red
+pink
+light yellow
+mint green
+light pink
+sky blue
+light purple
+white
+forest green
+royal blue
+light orange
+chartreuse
+turquoise
+gold
+copper
+silver
+hot pink
+bright pink
+bright purple
+bright green
+dark blue
+royal blue
+cyan
+bright cyan
+deep purple
+fuschia
+deep cyan
+deep red
+bright red
+bright orange
+indigo
+lilac
+crimson

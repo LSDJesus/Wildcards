@@ -1,0 +1,31 @@
+(\(blazblue\):0.9) squirrel tail, (Makoto Nanaya:1.1)
+source_anime, slim, \(blazblue\) Taokaka
+{\(disgaea\) |}Etna
+(\(horizon zero dawn\):{0.9|1}) Aloy
+{\(dota\) |||}Crystal Maiden
+white skin, yellow eyes, empty eyes, \(dota\) (Dawnbreaker:1.1)
+({\(apex legends\) ||}Wattson:0.7)
+\(apex legends\) (Wraith:0.{8|9})
+\(apex legends\) Loba
+(\(metal gear\) Quiet:0.{8|85|9})
+{\(silent hill\) |}Heather Mason
+\(minecraft\) Alex
+dark-skinned female, high ponytail, Shantae
+\(Bioshock\) (Elizabeth:0.9)
+Vault Girl
+\(detroit: become human\) Kara
+brown hair, glasses, \(metal slug\) Fio Germi
+blonde, white skin, colored skin, robot joints, \(cave story\) Curly Brace
+(\(the last of us\) Ellie:0.{7|8})
+(\(Mirror's Edge\):0.{7|75|8}) Faith Connors
+\(gravity rush\) Kat
+blue skin, (Cortana:0.{6|65|7|75|8})
+red hair{, vampire||}, \(bloodrayne\) Rayne
+(muscular female:0.3), \(Dragon's Crown\) Amazon
+{large breasts, |}\(Dragon's Crown\) Sorceress
+\(Assassin's Creed\) Cassandra
+Makise Kurisu
+Haydee
+black hair, cat ears, white stripe, \(princess connect!\)
+atomic heart,  robot girl, \(Atomic Heart\) {Right|Left}
+\(Call of Duty\) Mara

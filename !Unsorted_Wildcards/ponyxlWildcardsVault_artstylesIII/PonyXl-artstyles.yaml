@@ -1,0 +1,667 @@
+ponyxl:
+  artstyle:
+    SKIP:
+      - " "
+    experimental:
+      xx185:
+        - (by uoz), 
+      xx165:
+        - (anime screencap, by xvj) , 
+      xx158:
+        - (by uaw:1.1), 
+      xx110:
+        - (by iim), 
+      xx111:
+        - (by fpv), 
+      xx102:
+        - (by vhb) , 
+      blend22:
+        - (by pmks pzeb), 
+      synthetic2:
+        - (thn) flat color, 
+      xx72:
+        - (kmw), 
+    filter:
+      photo:
+        - photorealistic, realistic, photo, BREAK 
+      comic:
+        - sketch, (monochrome:1.2), grayscale, manga, 
+    doujinshi:
+      nakamura_regura:
+        - doujinshi, monochrome,  greyscale, by nakamura_regura BREAK 
+      wagashi:
+        - doujinshi, monochrome, greyscale, by wagashi_(dagashiya) BREAK 
+    semi_realistic:
+      xx144:
+        - (by nir), 
+      xx134:
+        - (by ikf), 
+      xx113:
+        - (by fii:1.1), 
+      xx79:
+        - ( by pmks) , 
+      jellytits-7:
+        - by (jellytits-7), 
+      xx59:
+        - ( fii), 
+      rebis:
+        - by lakf BREAK , 
+      kidmo:
+        - (by wwd) , 
+      lasterk:
+        - (by uca)  , traditional media, BREAK , 
+      sakimichan:
+        - (zix) BREAK, 
+      xx78:
+        -  ( by bfbg), 
+      shiory:
+        - by benb , 
+      asura:
+        - (art by asura_(asurauser)) BREAK 
+      miyuki:
+        - (art by miyuki_(miyuki0529)) BREAK 
+      personal_ami:
+        - (rkmp) BREAK 
+      momo_no_sukebe:
+        - by momo no sukebe BREAK , 
+      firolian:
+        - ( by firolian) BREAK 
+      dandon_fuga:
+        - (art by dandon_fuga) BREAK 
+    natural:  
+      xx176:
+        - (by bhr) , 
+      xx171:
+        - ( by zlv:1.1) , 
+      xx135:
+        - (by ijx), 
+      xx130:
+        - (by htv), 
+      xx129:
+        - ( by dcd), 
+      xx126:
+        - (by haz), 
+      xx89:
+        - (by fvnu), 
+      xx71:
+        - by (mup:1.1), 
+      minakami:
+        - by minakami \(flyingman555\), 
+      happoubi_jin:
+        - by ( happoubi_jin), 
+      xx36:
+        - ( r9zri) BREAK 
+      mogudan:
+        - wpt, 
+      soso:
+        - by soso \(chlgksk110\) BREAK , 
+      ikuchan:
+        - ( by ikuchan kaoru, iku) , 
+      xx19:
+        - ( by emc),  
+      xx16:
+        - by (cgmu) BREAK , 
+      miyase_mahiro:
+        - (art by miyase_mahiro) BREAK 
+    shiny:
+      ganessa:
+        - (by ausm:0.8) , 
+      f.s.:
+        - by apo, 
+      xx104:
+        - by fkg, 
+      xx108:
+        - (by dnw), 
+    bright:
+      xx167:
+        - ( by yiy:1.2), 
+      xx148:
+        - (by oym), 
+      xx131:
+        - (by ijh), 
+      xx125:
+        - (by gvt), 
+      damao_yu:
+        - damao_yu , 
+      Bonifasko:
+        - (vd5g) BREAK , 
+      vader-san:
+        - by oytv BREAK , 
+      flou_art:
+        - (by bfg) ,  
+      tofuubear:
+        - (by tegr) BREAK , 
+      hews:
+        - ( by hews) BREAK 
+      jtveemo:
+        - ( by zzg) BREAK 
+      gweda:
+        - ( art by uumn ) BREAK 
+    warm:
+      xx187:
+        - (by pci:0.8) , 
+      xx145:
+        - (by nmz), 
+      xx149:
+        - (by ufg), 
+      xx128:
+        - (by hep), 
+      xx116:
+        - (by kgq), 
+      xx114:
+        - (by hns:1.1), 
+      bigrbear:
+        - (by mmb:1.2) painting \(medium\), 
+      xx105:
+        - (by iun:1.1), 
+      xx103:
+        - (by jap), 
+      xx99:
+        - ( by cad),  
+      xx98:
+        - ( by coy),  
+      xx97:
+        - ( by pbis), 
+      xx95:
+        -  (by qbih), 
+      xx76:
+        - by (grp), 
+      xx75:
+        - by  (klm), 
+      xx73:
+        - by (hag), 
+      scorpdk:
+       - by (nku ) sketch ,  
+      m-da_s-tarou:
+        - by  ( m-da s-tarou ),  
+      thon2hk:
+        - by aya_(thon2hk), 
+      xx58:
+        - by (ztbd), 
+      xx52:
+        -  by (ztmu), 
+      xx50:
+        - by (qbjp), 
+      xx47:
+        - by ( qi), 
+      dross:
+        - by dross, 
+      dezz:
+        - (csz) BREAK , 
+      xx38:
+        - (bfu) BREAK , 
+      animeflux:
+        - by jwt , 
+      randomboobguy:
+        - (by hdr) BREAK , 
+      houtengeki: 
+        - (by muy), sketch , BREAK , 
+      panken:
+        - (by nviv) BREAK , 
+      bluefield:
+        - (by ehep), sketch, BREAK , 
+      camonome:
+        - (by fqx) BREAK , 
+      lamb-oic029:
+        - (by remz)BREAK 
+      nonamoth:
+        - (by smh) BREAK 
+      mdf_an:
+        - (art by alp and mdf_an) BREAK 
+      galaxist:
+        - by blade \(galaxist\) BREAK , 
+    bold:
+      xx179:
+        -  (by bwl) , 
+      xx175:
+        -  ajm , 
+      xx151:
+        - (by srg, sketch), 
+      xx136:
+        - (by ivm), 
+      xx100:
+        - ( by coz), 
+      pumpkinsinclair:
+        - by  pumpkinsinclair , 
+      xx53:
+       - by (tpmu), 
+      cyancapsule:
+        - by cyancapsule , 
+      xx45:
+        - by kab, 
+      twinkle-sez:
+        - crb, 
+      roadi3:
+        - zvu, 
+      xx28:
+        - by gwt  BREAK , 
+      ubanis:
+        - by qkzf  BREAK , 
+      mina_cream:
+        - (by bave) , sketch BREAK ,  
+      xx24:
+        - (by endm) BREAK , 
+      maniacpaint:
+        - sketch, (by bkm ) , 
+      xx2:
+        - sketch by haj BREAK , 
+    render:
+      xx64:
+        - (cln) , 
+      koikatsu:
+        - by koikatsu, 3d, 
+      game_cgi:
+        - by afrobull, 3d, BREAK 
+      artnip:
+        - zjmf, 
+      rude_frog:
+        - ( by rude_frog) , 3d BREAK , 
+    clean:
+      xx153:
+        - (by sud), 
+      xx139:
+        - (by lte:1.1), 
+      xx123:
+        - (by fvv), 
+      xx44:
+        - (by kab), 
+      xx112:
+        - (by oax), 
+      xx101:
+        - (by rbi), 
+      xx74:
+        - by (gjv), 
+      xx62:
+        - (lyg), 
+      cle_masahiro:
+        - by cle_masahiro , 
+      fensu-san:
+        - by ( lwb), 
+      xx40:
+        - (eqjv:1.1) BREAK , 
+      tsudamaku:
+        - (ube) BREAK , 
+      xx33:
+        - emc , 
+      bosshi:
+        - (by kpg) BREAK , 
+      ayanakitori:
+        - (by ddk) BREAK , 
+      mukka:
+        - ( by zgvbih) BREAK , 
+      xx20:
+        - film grain, (dhg) BREAK , 
+      ke-ta:
+        - ( by fyx ) BREAK , 
+      uo_denim:
+        - (by bhr) BREAK , 
+      mk_mod0:
+        - by mk \(mod0\), BREAK 
+      xx13:
+        - (cgmu) BREAK , 
+      kinkymation:
+        - by ujrn BREAK 
+      blue-senpai:
+        - (zjw:1.2) BREAK 
+      xx5:
+        - (by ncc:1.1) , 
+      xx6:
+        - (fhy:1.2) BREAK , 
+    styled:
+      xx183:
+        - (by vx), 
+      xx180:
+        - (kpb gkb) , 
+      xx178:
+        - (by bzi) , 
+      xx170:
+        - ( by znw) , 
+      xx155:
+        - (by trz), 
+      xx152:
+        - (by qrp), 
+      xx142:
+        - (by oir), 
+      xx140:
+        - (by lpc), 
+      xx138:
+        - (by lnp), 
+      xx132:
+        - (by hgv), 
+      xx127:
+        - (by idz), 
+      xx96:
+        - ( by oycl), 
+      mleonheart:
+        - ( by cds), 
+      nanashi:
+        - by nanashi_(nlo) , 
+      xx67:
+        - by (zumlv:1.2 ) , 
+      murakami_suigun:
+        - by  ( murakami_suigun),  
+      incase:
+        - by ( incase) , 
+      xx54:
+        - by (tmov), 
+      xx49:
+        - by (zwwn), 
+      xx46:
+        -  (by 2wf), 
+      nephlite:
+        - ( wav) BREAK , 
+      cream_cod:
+        - oyv, 
+      grilsay:
+        - (by mjy),  sketch , 
+      kairunoburogu:
+        - (by muh) BREAK , 
+      lumineko:
+        - (by ramx) BREAK , 
+      xx21:
+        - (by ehxsju) BREAK , 
+      slugbox:
+        - (by spe) , 
+      reiq:
+        - (by reiq) BREAK ,  
+      afrobull:
+        - (by wihp) BREAK , 
+      xx17:
+        - (by fgv) BREAK , 
+      xx14:
+        - (by fku), 
+      ishikei:
+        - (8um) BREAK 
+      mirai_hikari:
+        - (art by mirai_hikari) BREAK 
+      xx12:
+        - (fbq) BREAK 
+      SplashBrush:
+        -  (by njfj),
+      mizumizuni:
+        - sketch, (tnv) BREAK 
+      xx8:
+        - by (urer ), 
+      saltyxodium:
+        - by ohld  BREAK 
+      xx7:
+        - (bwf:1.2) BREAK 
+      xx1:
+        - (oov:1.2) BREAK 
+      peculiart:
+        - ( by bifp ) BREAK 
+      xx3:
+        - ( by qdnt )BREAK 
+      tailzkim:
+        - (by acuv)  BREAK , 
+      doxy:
+        - (by ojv), 
+      neocoill:
+        - by neocoill BREAK 
+      boris:
+        - (art by boris_(noborhys)) BREAK 
+      sunna:
+        - (art by sunna_(nilsunna)) BREAK 
+      hews:
+        - (by hews, sketch) BREAK 
+      rsqkr:
+        - by rsqkr BREAK 
+      yomu:
+        - (art by yomu_(sgt_epper)) BREAK 
+      mo:
+        - (art by mo_(kireinamo)) BREAK 
+    detailed:
+      belko:
+        - ( art by nswq) BREAK 
+    curvy:  
+      xx159:
+        - (wkx) , 
+      xx124:
+        - (by ght), 
+      xx122:
+        - (by ttp), 
+      xx121:
+        - (by ssp:1.1), 
+      xx94:
+        - (by pzeb), 
+      ryuun:
+        - by ryuun , 
+      alp:
+        - (by alp), 
+      natedecock:
+        - gwmbz, 
+      kelvin_hiu:
+        - kelvin hiu, 
+      xx31:
+        - (by uvt) BREAK , 
+      modeseven:
+        - (by ccbi) BREAK , 
+      sunhyun:
+        - (by gmqm) BREAK , 
+      xx23:
+        - (by fjy) BREAK , 
+      xx22:
+        - (by wozq) BREAK , 
+      Kunaboto:
+        - ( by invej) BREAK , 
+      fellatrix:
+        - ( by zibj) , 
+      cyancapsule:
+        - ( by cyancapsule)  BREAK ,  
+      chamchami:
+        - (by wozdnt) BREAK , 
+      rkrk12:
+        - (by pottr) BREAK , 
+      pochincoff: 
+        - (xgfxg) BREAK , 
+      momo_no_sukebe:
+        - by momo_no_sukebe BREAK 
+      osiimi:  
+        - ( by osiimi) BREAK 
+      cham22:
+        - (owozj:1.2) BREAK 
+      chelodoy:
+        - (by rhc) BREAK 
+      siu:
+        - by siu \(siu0207\) BREAK 
+      metal_owl:
+        - (art by aden) BREAK 
+      konno_tohiro:
+        - by konno tohiro BREAK , 
+      orushibu:
+        - ( art by nda), 
+      kase_daiki:
+        - (art by kase_daiki) BREAK 
+      mamamimi:
+        - ( by mamimi_(mamamimi)) BREAK 
+      aster_crowley:
+        - (art by aster_crowley) BREAK 
+      jabara_tornado:
+        - (art by jabara_tornado) BREAK 
+      moisture:  
+        - (art by moisture_(chichi)) BREAK 
+    toonish:
+      jack_cayless:
+        - by cayless, 
+      frumples:
+        - zbi, 
+      xx163:
+        - (by xiq), 
+      xx141:
+        - (by mzg), 
+      xx133:
+        - (by lkb), 
+      xx120:
+        - by gcx , 
+      x119:
+        - (by qgz), 
+      xx91:
+        - by (mmov), 
+      xx83:
+        - by (boxz), 
+      xx82:
+        - (by cayb), 
+      xx81:
+        - (by cjmx), 
+      lunaflame:
+        - by  ( lunaflame ), 
+      xx56:
+        - by (tjem), 
+      xx48:
+        - by qtdj ,  
+      xx51:
+        - by ynnv , 
+    angular:
+      xx188:
+        - zpa, 
+      xx160:
+        - (wnv:0.6) , 
+      xx115:
+        - (by jyk), 
+      xx93:
+        - (by jrzr), 
+      xx90:
+        - (by dwfx), 
+      xx88:
+        - dfix, 
+      spring2013:
+        - by nmb ,  
+      xx63:
+        - by (aqe), 
+      x55:
+        - by tkuk, 
+      eduuux:
+        - vmac BREAK , 
+      xx29:
+        -  (by gjem)  BREAK , 
+      tukiwani:
+        - (acm:1.1) BREAK , 
+      r-mk:
+        - (by yngw) BREAK , 
+      xx25:
+        - (by mgfx) BREAK , 
+      joelasko:
+        -  by wps BREAK , 
+      cutesexyrobutts:
+        - (art by cutesexyrobutts) BREAK 
+      powzin:
+        - by jqaw BREAK 
+    retro:
+      xx161:
+        -  (wmk:0.9) , 
+      xx92:
+        - by (beim), 
+      xx65:
+        - ( fad ), 
+      xx42:
+        - (zsh) BREAK , 
+      xter:
+        -  ( by ztv) , 
+      ppp1409:
+        - ( by ppp), 
+      yukishitadou:
+        - by geo_(yukishitadou) BREAK , 
+      umanosuke:
+        - (by qvj)  , 
+      xx26:
+        - (by dtv) BREAK , 
+      xx156:
+        - (anime screencap, by vxv), 
+      screencap:
+        - (by hara_(harayutaka)) BREAK 
+      bluethebone:
+        - by (vum) BREAK 
+      azasuke:
+        - ( by zash)  BREAK , 
+    diverse:
+      xx189:
+        -  (by shq), 
+      xx181:
+        - (by onsho) , 
+      jcm2:
+        - (by jzj) BREAK , 
+      pepper0:
+        - (art by wnyb) , 
+      agawa_ryou:
+        - by agawa_ryou ,  
+    soft:
+      xx177:
+        - (by bfv:1.1), 
+      xx172:
+        - ( by znw) , 
+      xx169:
+        - (by zgq) , 
+    cute:
+      zanamaoria:
+        - (by yku) , 
+      xx118:
+        - (by oyz), 
+      xx30:
+        - (by brw)  BREAK , 
+      xx27:
+        - (moc:1.2)  BREAK , 
+      kurokoshou:
+        - (art by kurokoshou_(emuburemu123)) BREAK 
+      zankuro:
+        - (by mjm) BREAK 
+      konpeto:
+        - (bnp:1.2) BREAK 
+      dagasi:
+        - by (yzie) BREAK 
+      akashio:
+        - (art by akashio \(loli ace\))  BREAK 
+      null_nya:
+        - (art by null (nyanpyoun)) BREAK 
+      aaaa:
+        - (art by aaaa_(quad-a)) BREAK 
+      abmayo:
+        - (by saz) BREAK 
+      deadflow:
+        - (by deadflow) BREAK 
+      minato_ojitan:
+      - (art by minato_ojitan) BREAK 
+      sumiyao:
+        - (art by sumiyao_(amam)) BREAK 
+      wagashi:
+        - (art by wagashi_(dagashiya)) BREAK 
+    vivid:
+      xx173:
+        - ( aoa:0.9), 
+      xx162:
+        - (wzg:1.1) 
+      xx154:
+        - qqt , 
+      xx150:
+        - (by pgw), 
+      xx147:
+        - (by owh), 
+      xx146:
+        - (by nyr), 
+      xx117:
+        - (by kzl), 
+      xx106:
+        - by jlv, 
+      xx80:
+        - by exly, 
+      xx69:
+        - by (azilv), 
+      xx68:
+        - by (nrf:1.1), 
+      fumihiko:
+        - by fumihiko \(fu mihi ko\),  
+      xx41:
+        - (pjy), 
+      xx38:
+        - (lpugkd) BREAK , 
+      xx35:
+        - qoyhjs, 
+      hinghoi:
+        - fgd, 
+      xx34:
+        - (frw) BREAK , 
+    untested:
+      w2:
+        - (fhl:1.1), 
+      w1:
+        - (m88) BREAK , 
+  

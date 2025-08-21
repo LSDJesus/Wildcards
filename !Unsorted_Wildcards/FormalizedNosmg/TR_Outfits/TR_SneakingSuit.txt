@@ -1,0 +1,1 @@
+, (\(metal gear\) sneaking suit:1.{0|1}), bodysuit, pouch, tacticool, straps, holster, belts, tactical {backpack||}{, holding pistol||}, rating_questionable, eyeshadow, eyeliner

@@ -1,0 +1,62 @@
+Vision:
+  Background:
+        Lake:
+          - a  serene Italian lakeside with cypress trees, a rustic wooden dock extending into crystal-clear waters, surrounded by blooming wildflowers and distant mountains under a golden sunset
+          - a picturesque French countryside lake with lavender fields in the foreground, a quaint stone bridge arching over the water, and soft hues of pink and orange reflecting on the surface during dusk
+          - a tranquil Japanese lake garden featuring koi fish swimming beneath cherry blossom trees, a traditional wooden gazebo overlooking the water, and gentle ripples creating a peaceful atmosphere
+          - a cozy Scandinavian lakeside scene with minimalist wooden seating, surrounded by lush pine trees, and a calm lake reflecting the Northern Lights in vibrant colors
+          - a romantic New England lake in autumn, with vibrant red and orange foliage, a small wooden canoe gently floating on still waters, and a mist rising in the early morning light
+          - a tropical lakeside haven with palm trees swaying in the breeze, crystal-clear turquoise waters, and colorful exotic flowers framing a hammock strung between two trees
+          - a breathtaking alpine lake surrounded by towering snow-capped mountains, with wildflowers blooming along the shore, and a wooden bench offering a perfect spot for contemplation
+          - a mystical Celtic lake shrouded in morning mist, with ancient stone ruins nearby, lush greenery, and a soft glow of sunlight breaking through the clouds
+          - a charming rustic farm lake with a weathered wooden dock, surrounded by fields of golden wheat, and a gentle breeze creating ripples across the water's surface
+          - a romantic Spanish Mediterranean lake with terracotta pots filled with vibrant bougainvillea, a small stone fountain, and a view of the sun setting behind distant hills
+          - a stunning Hawaiian lake with volcanic rock formations, lush tropical foliage, and a peaceful lagoon, where the sound of gentle waves creates a tranquil atmosphere
+          - a quaint Dutch lake with traditional windmills in the background, blooming tulips along the shore, and a small wooden bridge crossing over the water, evoking a sense of peace
+          - a romantic English lake with weeping willows draping over the water, a vintage rowboat tied to a wooden post, and a soft mist rising as dawn breaks
+          - a serene Canadian lake surrounded by dense forests, a rustic cabin perched on the shore, and a gentle breeze causing the leaves to rustle softly
+          - a fairy tale lake with whimsical floating lanterns, surrounded by enchanted forests, and a soft glow of twilight illuminating the water's surface
+          - a peaceful Mediterranean harbor with colorful fishing boats moored by the shore, vibrant flowers cascading down from balconies, and the sound of waves lapping gently
+          - a rustic Appalachian lake with rolling hills in the background, a wooden swing hanging from an old oak tree, and colorful wildflowers dotting the shoreline
+          - a charming Bavarian lake with traditional alpine chalets, surrounded by lush meadows, and a wooden pier extending into the water, perfect for quiet reflection
+          - a romantic lake at sunset, with hues of orange and purple reflecting on the water, silhouetted trees lining the shore, and a peaceful ambiance enveloping the scene
+          - a picturesque Tuscan lake bordered by vineyards, with rolling hills in the distance, a quaint stone villa overlooking the water, and the soft sound of nature all around
+          - a  mystical Scottish loch surrounded by rugged hills, with ancient stone castles in the distance, and a blanket of mist creating a dreamlike atmosphere
+          - a quiet Nordic lake with a wooden sauna on the shore, surrounded by lush greenery, and the soft sound of water lapping against the rocks
+          - a tranquil African lake at sunset, with acacia trees silhouetted against the fiery sky, and gentle ripples reflecting the colors of the horizon
+          - a charming Italian villa overlooking a serene lake, with terraced gardens, cypress trees, and a small fountain creating a romantic atmosphere
+          - a lush Amazonian lake surrounded by dense rainforest, exotic birds perched on branches, and the sounds of nature creating a vibrant yet peaceful setting
+          - a serene lake during golden hour, with soft sunlight filtering through the trees, casting warm reflections on the water, and a gentle breeze creating ripples
+          - a serene Icelandic lake with stunning volcanic landscapes, crystal-clear waters, and a backdrop of majestic mountains, exuding tranquility and beauty
+          - a charming lake house in the French countryside, surrounded by lavender fields, with a small dock leading to the tranquil waters, creating a romantic retreat
+          - a peaceful Thai lake with traditional wooden boats, lush greenery surrounding the water, and delicate lotus flowers blooming, inviting serenity and reflection
+          - a romantic winter lake scene with snow-covered trees, a frozen surface glistening in the sunlight, and a cozy wooden cabin in the background
+          - a sunny Australian lake with eucalyptus trees, soft sandy shores, and vibrant wildflowers, creating a cheerful and inviting atmosphere
+          - a charming Venetian lake with gondolas floating gently, colorful buildings lining the shore, and the soft glow of lanterns illuminating the evening
+          - a tranquil New Zealand lake surrounded by majestic mountains, with clear blue waters reflecting the sky, and lush greenery creating a peaceful ambiance
+          - a romantic Greek island lake with whitewashed buildings in the background, bougainvillea cascading over walls, and a gentle breeze carrying the scent of the sea
+          - a charming Russian lake with traditional wooden dachas, surrounded by birch trees, and the sound of nature creating a serene and peaceful atmosphere
+          - a rustic French lake with a small wooden boat anchored on the shore, surrounded by willow trees, and a gentle breeze causing the leaves to dance
+          - a serene Japanese tea garden by the lake, featuring a traditional tea house, stone lanterns, and blooming cherry blossoms reflecting on the water
+          - a picturesque lakeside scene with vibrant lavender fields in full bloom, a rustic wooden bench overlooking the water, and a gentle breeze carrying the sweet scent of flowers
+          - an enchanting fairy tale lake with whimsical wooden bridges, colorful wildflowers, and soft fairy lights twinkling in the trees as dusk falls
+          - a romantic lakeside fire pit surrounded by comfortable seating, with logs stacked nearby and the reflection of the flames dancing on the water's surface at twilight
+          - a  golden autumn lake scene with trees adorned in shades of orange and red, fallen leaves carpeting the shore, and a mist rising softly from the water
+          - a rustic nature retreat by the lake featuring a log cabin, a small dock, and a hammock strung between two trees, inviting relaxation in a tranquil setting
+          - a charming vineyard by the lake, with rows of grapevines cascading down the hillside, a cozy picnic area, and a stunning view of the sunset over the water
+          - a tranquil mountain lake surrounded by towering peaks, crystal-clear waters reflecting the sky, and a small canoe gently bobbing at the shore
+          - a secret garden by the lake with hidden pathways, lush greenery, and a small wooden gazebo, creating an intimate and romantic atmosphere
+          - a whimsical lantern festival on the lake, with floating lanterns illuminating the water, surrounded by lush trees and soft music in the background
+          - a charming colonial-style lake house with white columns, a wraparound porch, and rocking chairs overlooking the serene waters, perfect for quiet evenings
+          - a peaceful reflection lake with still waters mirroring the sky, surrounded by vibrant wildflowers, and a gentle breeze rustling through the trees
+          - a serene wildlife lake with graceful swans gliding across the water, vibrant reeds lining the shore, and the distant sound of birds singing in the trees
+          - a rustic fishing dock extending into the lake, with fishing gear scattered about, surrounded by tall grasses and the sound of water lapping gently
+          - a charming country lake with a wooden paddleboat, wildflowers blooming along the shore, and a soft sunset casting warm colors across the sky
+          - a mystical foggy lake with low-hanging mist hovering over the water, ancient trees lining the shore, and a sense of mystery in the air
+          - a cozy lakeside picnic spot with a checkered blanket, picnic basket, and a breathtaking view of the water, surrounded by wildflowers and greenery
+          - a serene winter wonderland lake with snow-covered trees, a frozen surface glistening in the sunlight, and a cozy cabin in the background
+          - a charming historic lake town with cobblestone streets, quaint shops, and a view of the lake framed by colorful flowers, invoking a sense of nostalgia
+          - a tranquil lake at sunset, with vibrant colors reflecting on the water, silhouetted trees framing the scene, and a sense of calm enveloping the atmosphere
+          - a lakeside art studio with large windows overlooking the water, colorful canvases scattered about, and inspiration drawn from the beauty of nature
+          - a secluded cove on the lake with smooth stones, gentle waves lapping at the shore, and a peaceful ambiance perfect for quiet reflection
+          - a charming rustic bridge crossing over a small stream that feeds into the lake, surrounded by wildflowers and tall grasses, creating a picturesque scene

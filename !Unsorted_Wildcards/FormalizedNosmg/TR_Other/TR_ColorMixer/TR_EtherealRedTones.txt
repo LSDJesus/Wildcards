@@ -1,0 +1,7 @@
+Red
+Red and Gold
+[Red|Pink]
+[Red|Orange]
+[Red|Orange|Scarlet|Yellow]
+[Red|Gold]
+[Red|Purple]

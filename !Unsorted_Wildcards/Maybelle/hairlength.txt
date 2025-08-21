@@ -1,0 +1,4 @@
+short_hair
+medium_hair
+long_hair
+absurdly_long_hair

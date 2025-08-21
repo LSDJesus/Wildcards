@@ -1,0 +1,22 @@
+{, seductive smile|, flirty, flirting|, biting lip|, smile, licking own lips}{, wink||||}
+, biting lip{, heavy breathing||}{, heart-shaped pupils||}{, floating hearts||}{, blush||||||||}{, wink|, half-closed eyes|||||}
+, parted lips{, heavy breathing||}{, heart-shaped pupils||}{, floating hearts||}{, blush||||||||}{, wink|, half-closed eyes|||||}
+, licking lips{, heavy breathing||}{, heart-shaped pupils||}{, floating hearts||}{, blush||||||||}{, wink|, half-closed eyes|||||}
+, smile{, heavy breathing||}{, heart-shaped pupils||}{, floating hearts||}{, blush||||||||}{, wink|, half-closed eyes|||||}
+, seductive smile{, heavy breathing||}{, heart-shaped pupils||}{, floating hearts||}{, blush||||||||}{, wink|, half-closed eyes|||||}
+, grin{, heavy breathing||}{, heart-shaped pupils||}{, floating hearts||}{, blush||||||||}{, wink|, half-closed eyes|||||}
+, blush, {half-closed eyes||}, {seductive gaze||}, {heavy breathing||}, {parted lips|seductive smile{, wavy mouth|}|biting lip|smile, wavy mouth}, {heart-shaped pupils|||||}, {embarrassed|}, {nervous|}
+, biting lip{, heart-shaped pupils||}{, floating hearts||}{, blush||||||||}{, wink|, half-closed eyes|||||}
+, parted lips{, heart-shaped pupils||}{, floating hearts||}{, blush||||||||}{, wink|, half-closed eyes|||||}
+, licking lips{, heart-shaped pupils||}{, floating hearts||}{, blush||||||||}{, wink|, half-closed eyes|||||}
+, smile{, heart-shaped pupils||}{, floating hearts||}{, blush||||||||}{, wink|, half-closed eyes|||||}
+, seductive smile{, heart-shaped pupils||}{, floating hearts||}{, blush||||||||}{, wink|, half-closed eyes|||||}
+, grin{, heart-shaped pupils||}{, floating hearts||}{, blush||||||||}{, wink|, half-closed eyes|||||}
+, biting lip{, heart-shaped pupils||}{, floating hearts||}{, blush||||||||}{, wink||||||}
+, parted lips{, heart-shaped pupils||}{, floating hearts||}{, blush||||||||}{, wink||||||}
+, licking lips{, heart-shaped pupils||}{, floating hearts||}{, blush||||||||}{, wink||||||}
+, smile{, heart-shaped pupils||}{, floating hearts||}{, blush||||||||}{, wink||||||}
+, seductive smile{, heart-shaped pupils||}{, floating hearts||}{, blush||||||||}{, wink||||||}
+, grin{, heart-shaped pupils||}{, floating hearts||}{, blush||||||||}{, wink||||||}
+, frown, disgust, tsundere, full face blush, avoiding gaze
+, shy smile, embarrassed{, heart-shaped pupils||}{, floating hearts||}{, blush||||||||}

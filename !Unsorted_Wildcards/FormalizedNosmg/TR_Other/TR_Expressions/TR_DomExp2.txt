@@ -1,0 +1,9 @@
+, smile{, half-closed eyes||}{, blush||}
+, licking lips{, half-closed eyes||}{, blush||}
+, lip bite{, half-closed eyes||}{, blush||}
+, evil smile, grin{, half-closed eyes||}{, blush||}
+, seductive smile{, half-closed eyes||}{, blush|||}
+, evil smile{, half-closed eyes||}{, blush||||}
+, seductive smile{, grin||}{, half-closed eyes||}{, blush|||}
+, sneering, frown{, half-closed eyes||}
+, disgusted, frown{, half-closed eyes||}

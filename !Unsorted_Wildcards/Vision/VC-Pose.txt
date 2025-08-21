@@ -1,0 +1,12 @@
+# Remove or Set a # in front of a line to Activate or Deactivate the Option
+# Simple add your Own Wildcards just in a new Line 
+#-----------------------------------------------------------------------------------------------
+__Vision/Pose/Dance__
+__Vision/Pose/Kneeling__
+__Vision/Pose/Lying__
+__Vision/Pose/Mix&Match__
+__Vision/Pose/Photoshoot__
+__Vision/Pose/Photoshoot-2__
+__Vision/Pose/Relaxing__
+__Vision/Pose/Sitting__
+__Vision/Pose/Standing__

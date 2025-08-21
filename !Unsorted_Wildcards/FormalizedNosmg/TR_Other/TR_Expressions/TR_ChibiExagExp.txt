@@ -1,0 +1,4 @@
+sparkling eyes, sparkles, {parted lips, surprised|open mouth, smile}, source_anime
+confused, (head tilt:1.1), parted lips, spoken question mark, source_anime
+sad, wavy mouth, tearing up, shaded face, shaking, clenched hand, source_anime
+angry, (puffy cheeks:0.8), (anger vein:1.1), crossed arms{, looking away|, closed eyes, looking away}, pout, source_anime

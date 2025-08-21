@@ -1,0 +1,12 @@
+standing
+standing, hands on hips
+standing, hands on head
+standing, legs spread apart
+sitting
+sitting, hands on head
+sitting, legs spread wide apart
+kneeling
+kneeling, hands on head
+kneeling, hands on hips
+lying down
+lying down, legs spread wide apart, hands on head

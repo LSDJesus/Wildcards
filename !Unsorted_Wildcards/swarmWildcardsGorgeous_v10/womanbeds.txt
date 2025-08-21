@@ -1,0 +1,4 @@
+college girls bed, <random:<wildcard:characters>, <wildcard[2]:softcolors> <wildcard:patterns>> sheets, blanket, pillows, headboard, bedside tables, lamps, magazines, laptop, stuffed animal
+modern womans bed, earth tones, <wildcard[2]:mutedcolors> <wildcard:patterns> sheets, blanket, pillows, headboard, bedside tables, lamps, magazines, laptop
+modern hotel bed, <wildcard:mutedcolors> sheets, leather headboard, midcentury modern bedside tables, telephone, 
+modern luxury penthouse apartment bed, beautiful modern bed, luxury <wildcard:mutedcolors> <random:plain, <wildcard:patterns>> sheets, modern upholstered headboard, bedside tables, wall sconces, magazines

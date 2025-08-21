@@ -1,0 +1,9 @@
+# Remove or Set a # in front of a line to Activate or Deactivate the Option
+# Simple add your Own Wildcards just in a new Line 
+#-----------------------------------------------------------------------------------------------
+(full body photo:1.4),(full body:1.4),(full shot:1.4),(full body shot:1.4)
+Cowboy Shot
+#Portrait
+#Close Up
+#Landscape
+#Wide Shot

@@ -1,0 +1,348 @@
+cof-basemodel:
+    # Some merged checkpoints does not handle age. Age can be wrongly overriden by adding words such as skin tone, hair color...
+    age:
+        - young
+        #- adult
+        #- middle-aged
+        #- old
+    # Some merged checkpoints focus mainly on either women or men. Sometimes the gender can be wrongly overriden by some keywords words such as green eyes or maid...
+    gender:
+        #- __cof-basemodel/gender-male__
+        - __cof-basemodel/gender-female__
+    gender-female:
+        - >-
+          woman, __cof-basemodel/build-female/*__ build, __cof-basemodel/hair-length__ __cof-basemodel/hair-color/young__ __cof-basemodel/hairstyle-female__ hair
+    gender-male:
+        - >-
+          man, __cof-basemodel/build-male/*__ build, __cof-basemodel/hair-length__ __cof-basemodel/hair-color/young__ __cof-basemodel/hairstyle-male__ hair
+    gender-no-hair:
+        #- >-
+        #  man, __cof-basemodel/build-male/*__ build
+        - >-
+          woman, __cof-basemodel/build-female/*__ build
+    gender-no-hairstyle:
+        #- >-
+        #  man, __cof-basemodel/build-male/*__ build, __cof-basemodel/hair-length__ __cof-basemodel/hair-color/young__ hair
+        - >-
+          woman, __cof-basemodel/build-female/*__ build, __cof-basemodel/hair-length__ __cof-basemodel/hair-color/young__ hair
+    gender-demon:
+        #- >-
+        #  man, __cof-basemodel/build-male/*__ build, __cof-basemodel/hair-length__ {__cof-basemodel/hair-color/young__|__cof-basemodel/hair-color/old__} hair, __cof-basemodel/ethnicity-demon__
+        - >-
+          woman, __cof-basemodel/build-female/*__ build, __cof-basemodel/hair-length__ {__cof-basemodel/hair-color/young__|__cof-basemodel/hair-color/old__} hair, __cof-basemodel/ethnicity-demon__
+    ethnicity:
+        - >-
+          __cof-basemodel/nationality/grp1__, {__cof-basemodel/skin-tone/light__|tan} skin, {__cof-basemodel/eye-color/blue__|__cof-basemodel/eye-color/green__|__cof-basemodel/eye-color/brown__} eyes
+        - >-
+          __cof-basemodel/nationality/grp2__, tan skin, {__cof-basemodel/eye-color/blue__|__cof-basemodel/eye-color/green__|__cof-basemodel/eye-color/brown__} eyes
+        - >-
+          __cof-basemodel/nationality/grp3__, {__cof-basemodel/skin-tone/light__|tan} skin, __cof-basemodel/eye-color/brown__ eyes
+        - >-
+          __cof-basemodel/nationality/grp4__, {__cof-basemodel/skin-tone/brown__|tan} skin, {__cof-basemodel/eye-color/green__|__cof-basemodel/eye-color/brown__} eyes
+        - >-
+          __cof-basemodel/nationality/grp5__, dark skin, {__cof-basemodel/eye-color/brown__|black} eyes
+    ethnicity-demon:
+        - >-
+          __cof-basemodel/nationality/grp1__, {__cof-basemodel/skin-tone/light__|tan} skin, {glowing |}__cof-basemodel/eye-color/other__ eyes
+        - >-
+          __cof-basemodel/nationality/grp2__, tan skin, {glowing |}__cof-basemodel/eye-color/other__ eyes
+        - >-
+          __cof-basemodel/nationality/grp3__, {__cof-basemodel/skin-tone/light__|tan} skin, {glowing |}__cof-basemodel/eye-color/other__ eyes
+        - >-
+          __cof-basemodel/nationality/grp4__, {__cof-basemodel/skin-tone/brown__|tan} skin, {glowing |}__cof-basemodel/eye-color/other__ eyes
+        - >-
+          __cof-basemodel/nationality/grp5__, dark skin, {glowing |}__cof-basemodel/eye-color/other__ eyes
+    nationality:
+        grp1:
+            - french
+            - british
+            - swedish
+            - russian
+            - german
+            - canadian
+            - australian
+            - american
+        grp2:
+            - italian
+            - spanish
+            - brazilian
+        grp3:
+            - chinese
+            - thai
+            - korean
+            - japanese
+            - philippine
+        grp4:
+            - mexican
+            - native american
+            - arabian
+            - persian
+            - indian
+        grp5:
+            - black american
+            - african
+            - south african
+    skin-tone:
+        white:
+            - ivory
+            - albino
+        light:
+            - pale
+            - fair
+            - light
+        tan:
+            - tan
+        brown:
+            - ebony
+            - mocha
+            - caramel
+            - mahogany
+        dark:
+            - dark
+    build-female:
+        petite:
+            - petite
+            - tiny
+            - slim
+        slender:
+            - slender
+            - lithe
+            - willowy
+        normal:
+            - Average
+            - Medium
+            - normal
+        curvy:
+            - curvy
+            - full-figured
+            - busty
+            - voluptuous
+        #chubby:
+        #    - chubby
+        #    - plump
+    build-male:
+        slim:
+          - Slim
+          - Very thin
+          - Lean
+          - Skinny
+          - Slender
+          - Fit
+        average:
+          - Average
+          - Regular body
+          - Broad
+          - Compact
+        muscular:
+          - Athletic
+          - Toned
+          - Muscular
+          - Well-defined muscles
+          - Extremely muscular
+        fat:
+          - fat
+          - Slightly overweight
+        #chubby:
+        #  - chubby
+        #  - Plump
+        #  - Overweight
+        #  - Extremely overweight
+        #obese:
+        #  - Obese
+        #  - Morbidly obese
+    eye-color:
+        blue:
+            - blue
+            - light Blue
+            - dark Blue
+            - turquoise
+            - mint green
+        green:
+            - green
+            - light green
+            - dark green
+            - olive green
+            - jade green
+        brown:
+            - brown
+            - light brown
+            - hazel
+        black:
+            - black
+        gray:
+            - gray
+            - Silver
+        vivid:
+            - violet
+            - amber
+            - heterochromia
+            - light yellow
+            - pink
+            - orange
+            - rainbow
+        other:
+            - red
+            - white
+            - yellow
+    hairstyle-female:
+        - ponytail
+        - single braid
+        - double braids
+        - french braid
+        - dutch braid
+        - bun
+        - low bun
+        - messy bun
+        - double buns
+        - updo
+        - french twist
+        - pigtails
+        - half-up half-down
+        - straight down
+        - curly down
+        - wavy down
+        - bob cut
+        - inverted bob cut
+        - shag cut
+        - layered cut
+        - bangs
+        - side-swept bangs
+        - straight bangs
+        - curtain bangs
+        - side-swept
+        - retro
+        - hime cut
+        #- afro
+        #- dreadlocks
+    hairstyle-boyish:
+        - mohawk
+        - pixie cut
+        - cornrows
+        - undercut
+    hairstyle-punk:
+        - mohawk hair
+        - spiky hair
+        - buzzcut
+        - undercut hair
+        - pixie cut
+        - ponytail hair with shave sides
+        - fringe hair with shave sides
+        - pigtails with shave sides
+        - asymmetrical undercut hair with shave sides
+        - fringe hair with shave sides
+        - doughnut hair bun
+        - hair bun with shaved sides
+        - bangs hair with shaved sides
+        - bob cut hair with shaved sides
+    hairstyle-male:
+        - buzzcut
+        - crew cut
+        - ivy League Cut
+        - caesar Cut
+        - french Crop
+        - high and Tight
+        - flat Top
+        - butch Cut
+        - fade
+        - low Fade
+        - mid Fade
+        - High Fade
+        - Taper Fade
+        - Skin Fade
+        - Undercut
+        - Disconnected Undercut
+        - Quiff
+        - Pompadour
+        - Side Part
+        - Spiky
+        - Messy
+        - Textured Crop
+        - Faux Hawk
+        - Mohawk
+        - Mullet
+        - Man Bun
+        - topknot
+        - Afro
+        - Cornrows
+        - Dreadlocks
+        - Braids
+        - Curly
+        - Wavy
+        - Straight
+        - Long
+        - Medium Length
+        - Emo
+        - Goth
+        - Shaggy
+        - Surfer
+        - Bald
+        - Half Shaved
+        - Hard Part
+        - Layered
+        #- afro
+        #- dreadlocks
+    hair-color:
+        young:
+            - blonde
+            - ginger
+            - red
+            - hazel
+            - brown
+            - dark
+        old:
+            - white
+            - silver
+            - gray
+        other:
+            - yellow
+            - pink
+            - blue
+            - green
+            - violet
+            - rainbow
+            - turquoise
+            - dark green
+            - light green 
+    hair-color-punk:
+        - metallic silver
+        - red brown
+        - ginger
+        - brown
+        - >-
+          {bleached|platinum} blonde
+        - black
+        - >-
+          {neon|deep|emerald} green
+        - >-
+          {fiery|crimson|deep} red
+        - >-
+          {fiery|neon} orange
+        - pastel peach
+        - >-
+          {pastel|neon|fuchsia|magenta} pink
+        - >-
+          {deep|} purple
+        - >-
+          {deep|lilac|turquoise} blue
+        - deep indigo
+        - fiery
+        - rainbow  
+    hair-length:
+        - short
+        - medium
+        - long
+        - extra long
+    hair-texture:
+        - straight
+        - wavy
+        - curly
+        - kinky
+    piercing:
+        - ear piercings
+        - nose ring
+        - nose piercing
+        - eyebrow piercing
+        - lip piercing
+        - labret piercing
+        - multiple facial piercings
+        - plethora of silver hoop earrings adorning her ears

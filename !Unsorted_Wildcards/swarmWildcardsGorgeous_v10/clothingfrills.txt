@@ -1,0 +1,46 @@
+frilly
+lacy
+ruffled
+sport trim
+suede trim
+leather trim
+beaded trim
+crochet trim
+<wildcard:patterns> trim
+pearl trim
+distressed
+embroidered trim
+beaded tassels
+chain trim
+fringe trim
+ribbed
+wide ribbed
+loose knit
+scalloped
+elastic
+frilly
+sequined
+rhinestones
+ripped
+glitter
+fluffy
+fur-lined
+tassels
+long tassels
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+baggy
+oversized
+baggy oversized loose
+tight skintight fitted
+tight
+skin tight

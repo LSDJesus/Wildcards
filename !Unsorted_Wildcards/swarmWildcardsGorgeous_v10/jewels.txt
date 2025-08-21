@@ -1,0 +1,12 @@
+diamond
+ruby
+emerald
+sapphire
+amethyst
+jade
+pearl
+amber
+topaz
+onyx
+peridot
+lapis lazuli

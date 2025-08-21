@@ -1,0 +1,117 @@
+cf-mistress:
+    # Prompt only a mistress costume
+    prompt-costume:
+        - >-
+            dominatrix wearing a {__cf-mistress/headwear__,|} __cf-mistress/color__ {__cf-mistress/top__, __cf-mistress/bottom__|__cf-mistress/dress__}, __cf-mistress/shoes__, __cf-mistress/stockings__ __cf-mistress/choker__ __cf-mistress/gloves__ __cf-mistress/makeup__, __cf-mistress/accessory__
+    # Prompt mistress costume with girl and location
+    prompt-full:
+        - >-
+            (__cf-mistress/beauty-adj__ dominatrix) __cof-basemodel/age__ __cof-basemodel/gender__, __cof-basemodel/ethnicity__, 
+            wearing a {__cf-mistress/headwear__,|} __cf-mistress/color__ {__cf-mistress/top__, __cf-mistress/bottom__|__cf-mistress/dress__}, __cf-mistress/shoes__, __cf-mistress/stockings__ __cf-mistress/choker__ __cf-mistress/gloves__ __cf-mistress/makeup__, __cf-mistress/accessory__, 
+            __cf-mistress/location__
+    beauty-adj:
+        - commanding
+        - authoritative
+        - powerful
+        - dominant
+        - assertive
+        - confident
+        - intimidating
+        - fierce
+        - seductive
+        - alluring
+        - provocative
+        - enigmatic
+    color:
+        - black
+        - dark red
+        - leather brown
+        - metallic silver
+        - midnight blue
+        - deep purple
+        - glossy red
+        - charcoal grey
+        - emerald green
+    headwear:
+        - >-
+          {vinyl|leather} cat ears headband
+        - headband with spikes
+        - black iron crown
+    top:
+        - >-
+          {vinyl|PVC|leather|latex|chainmail} bra with {chain fringe|stud detailing|buckle straps}
+        - >-
+          {satin|velvet|leather|latex} corset {with intricate lace details|with ribbon detail|}
+        - >-
+          {satin|vinyl|PVC|chainmail} bralette with {chain accents|draped chains}
+        - >-
+          {halter neck|sleeveless|mesh|latex} top with {ribbon lacing|strappy harness}
+        - >-
+          {leather|vinyl|PVC} harness {with intricate lace details|}
+        - >-
+          {leather|vinyl|mesh} bustier with {metal accents|floral embroidery}
+        - >-
+          {mesh|transparent|see-through} top {with strategic coverage|}
+    bottom:
+        - >-
+          {high-waisted|fitted|tight} leather pants with {garter belts|garter straps}
+        - >-
+          {PVC|latex|leather|mesh} mini skirt {with lace-up sides|with sheer panels|}
+        - >-
+          {latex|vinyl|leather} leggings with {garter belts|garter straps}
+        - >-
+          {tight|pleated} skirt {with garter straps|with zipper}
+        - >-
+          {bodycon|wrap|pencil|leather} skirt with {chains|buckles|lace details}
+    dress:
+        - >-
+          {PVC|latex} bodysuit with {harness straps|with cutouts|fishnet panels|zipper detail}
+        - >-
+          {bodycon|wrap|a-line|halter|strapless|one-shoulder|off-shoulder|midi|mini|maxi|asymmetric} dress {with slit|with zipper}
+        - >-
+          {PVC|latex|leather} dominatrix harness with {spiked details|chain accents|buckle closures}
+        - >-
+          {designer|vintage|evening|lace|leather|vinyl} gown {with dark patterns|}
+    shoes:
+        - stilettos
+        - >-
+          {platform|ankle|thigh-high} boots with {dark|gothic} designs
+        - >-
+          {patent leather|suede|vinyl} pumps {with pointed toe|}
+        - >-
+          {platform|wedge|block|strappy} heels with {metallic|studded} accents
+        - >-
+          {loafers|mules} with {spikes|chains}
+    makeup:
+        - >-
+          {dark red lipstick|black lipstick|deep pink lipstick}
+        - smoky eyeshadow
+        - bold eyeliner
+    stockings:
+        - >-
+          {{latex|mesh|lace} thigh-high stockings, |}
+    choker:
+        - >-
+          {leather choker, | spiked choker, |{ball|mouth} gag with a strap, |{leather collar|choker necklace} with O-ring attachment, |}
+    gloves:
+        - >-
+          {latex gloves, |leather gloves, |satin gloves, |}
+    accessory:
+        - >-
+          {lace blindfold|black lace mask}
+        - >-
+          {metal handcuffs|leather bondage cuffs|wrist restraints}
+        - >-
+          holding a {leather whip|wooden spanking paddle|flogger|feather tickler}
+    location:
+        - >-
+          set in {
+          __cof-location/place/bdsm-dungeon__|
+          __cof-location/place/fetish-club__|
+          __cof-location/place/bdsm-convention__|
+          __cof-location/place/play-chamber__|
+          __cof-location/place/luxury-penthouse__|
+          __cof-location/place/private-club__|
+          __cof-location/place/gothic-mansion__
+          __cof-location/place/home__
+          } {, at night|, at sunset|}

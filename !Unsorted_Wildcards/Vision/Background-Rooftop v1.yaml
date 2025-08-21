@@ -1,0 +1,62 @@
+Vision:
+  Background:
+        Rooftop:
+          - a vibrant Mediterranean rooftop terrace with colorful potted herbs, terracotta pots, and a stunning sunset backdrop, ideal for a relaxing evening
+          - a serene Japanese rooftop terrace featuring a minimalist design, bonsai trees, and a koi pond, promoting tranquility and meditation
+          - a lush tropical rooftop terrace adorned with palm trees, exotic flowers, and cozy hammocks, creating a vibrant atmosphere for relaxation
+          - a rustic farmhouse rooftop garden with wooden pallets as seating, wildflowers, and vegetable patches, offering a charming setting for gatherings
+          - an urban industrial rooftop terrace with metal furniture, string lights, and a vertical garden, perfect for a modern party vibe
+          - a quaint French country rooftop with lavender fields, wrought-iron furniture, and a small bistro table, ideal for enjoying a peaceful afternoon
+          - a Scandinavian-inspired rooftop with clean lines, neutral colors, and a small herb garden, creating a calming space for relaxation
+          - a vibrant Moroccan rooftop terrace featuring colorful tiles, lanterns, and plush cushions, creating an exotic atmosphere for social gatherings
+          - a breezy California coastal rooftop with ocean views, beachy decor, and succulent plants, perfect for a laid-back party
+          - a Southwestern-inspired rooftop with cacti, adobe walls, and a fire pit, creating a warm and inviting atmosphere for evening gatherings
+          - an Italian vineyard rooftop adorned with grapevines, rustic wooden tables, and candlelight, ideal for romantic dinners under the stars
+          - an asian fusion rooftop terrace with bamboo furniture, lanterns, and a small vegetable garden, promoting a peaceful and balanced atmosphere
+          - a charming New England rooftop with nautical decor, hydrangeas, and a small herb garden, perfect for cozy gatherings
+          - a vibrant Cuban-inspired rooftop with bright colors, vintage furniture, and tropical plants, creating a lively atmosphere for parties
+          - a quaint English cottage rooftop with climbing roses, a small tea table, and a beautiful view, ideal for afternoon tea
+          - an elegant art Deco rooftop terrace featuring geometric patterns, luxurious furniture, and lush greenery, perfect for upscale gatherings
+          - a bohemian rooftop adorned with colorful textiles, floor cushions, and hanging plants, creating a relaxed atmosphere for socializing
+          - a cozy Nordic forest-inspired rooftop with wooden accents, moss, and pine trees, promoting a sense of calm and connection to nature
+          - a dreamy vintage Parisian rooftop with wrought iron railings, flower boxes, and a small bistro set, perfect for romantic evenings
+          - a stunning Greek island rooftop overlooking the sea, with whitewashed walls, blue accents, and olive trees, ideal for relaxation
+          - a rustic Italian rooftop featuring terracotta tiles, wooden beams, and a small vegetable garden, creating a charming atmosphere for gatherings
+          - a stylish New York City rooftop with modern furniture, skyline views, and potted plants, perfect for urban parties
+          - a cozy alpine rooftop with wooden chalets, snow-capped mountains in the background, and a warm fire pit, ideal for winter gatherings
+          - a vibrant rooftop terrace resembling a flower market, with colorful blooms, wooden crates, and a relaxed ambiance for socializing
+          - a secluded woodland rooftop surrounded by tall trees, featuring wooden seating and a small fire pit, perfect for intimate gatherings
+          - a festive Hawaiian luau-themed rooftop with tiki torches, tropical flowers, and a beachy vibe, ideal for lively parties
+          - a nostalgic vintage americana rooftop with retro furniture, string lights, and a small BBQ area, perfect for summer cookouts
+          - a charming coastal Maine rooftop with lobster traps, nautical decor, and a view of the ocean, creating a relaxed atmosphere
+          - a picturesque Dutch rooftop with tulip gardens, windmills in the distance, and cozy seating for a peaceful afternoon
+          - a rustic Scottish rooftop with heather, stone walls, and a breathtaking view of the Highlands, perfect for quiet reflection
+          - a sunny australian rooftop with eucalyptus trees, outdoor lounge chairs, and a vibrant atmosphere for casual gatherings
+          - a colorful Indian rooftop terrace with intricate textiles, lanterns, and a small spice garden, ideal for lively celebrations
+          - an enchanted fairy tale rooftop with whimsical decor, twinkling lights, and lush greenery, creating a magical atmosphere
+          - a rustic Canadian cabin rooftop with log furniture, pine trees, and a cozy fire pit, perfect for winter evenings
+          - a chic London rooftop with modern decor, rooftop gardens, and a view of the city skyline, ideal for sophisticated gatherings
+          - a breathtaking Tuscan rooftop with rolling hills in the background, olive trees, and a rustic table set for dinner, creating a romantic ambiance
+          - a vibrant Caribbean rooftop with bright colors, palm trees, and a laid-back atmosphere, perfect for tropical parties
+          - a cozy cottagecore rooftop with wildflowers, soft blankets, and a charming view, ideal for peaceful afternoons
+          - an artisan rooftop garden with handmade pottery, unique plants, and a tranquil atmosphere for relaxation
+          - a sleek modern rooftop with minimalist furniture, glass railings, and a stunning city view, perfect for upscale gatherings
+          - a culturally diverse rooftop terrace showcasing elements from various traditions, with colorful textiles, art pieces, and a communal dining area, creating a vibrant atmosphere for gatherings
+          - a cozy winter wonderland rooftop adorned with fairy lights, warm blankets, and a hot chocolate station, perfect for intimate gatherings during the colder months
+          - a funky 70s-inspired rooftop with bold colors, vintage furniture, and disco balls, creating a lively atmosphere for nostalgic parties
+          - an elegant rooftop lounge with plush seating, soft lighting, and a stunning city skyline view, ideal for sophisticated evening events
+          - an eco-friendly rooftop garden featuring solar panels, rainwater collection systems, and native plants, promoting sustainability and relaxation
+          - a charming Italian rooftop cafe with checkered tablecloths, potted herbs, and a view of the city, perfect for enjoying coffee and pastries
+          - a cozy rooftop setup for movie nights with a large screen, comfy bean bags, and fairy lights, creating a magical atmosphere for film lovers
+          - an artistic rooftop studio filled with easels, sculptures, and vibrant murals, providing inspiration and a creative space for artists
+          - a rustic rooftop designed for wine tasting, featuring wooden barrels, grapevines, and a stunning sunset view, perfect for intimate gatherings
+          - a whimsical fantasy garden rooftop with oversized flowers, fairy lights, and magical creatures, creating an enchanting atmosphere for relaxation
+          - a rustic beach house rooftop with driftwood furniture, seashell decor, and a view of the ocean, perfect for casual summer parties
+          - a serene rooftop yoga space with mats, plants, and calming decor, ideal for morning meditation and relaxation
+          - a rooftop celebrating cultural heritage with traditional decorations, music, and food from various regions, creating an immersive experience
+          - an artisan craft rooftop with DIY stations, handmade decorations, and a creative atmosphere for workshops and gatherings
+          - a futuristic rooftop lounge with sleek furniture, neon lights, and digital art installations, ideal for trendy events
+          - a charming garden party rooftop with floral arrangements, string lights, and picnic tables, perfect for summer celebrations
+          - a cozy rooftop tea house with a variety of teas, elegant teapots, and a peaceful ambiance for afternoon tea
+          - a farm-to-table rooftop with fresh produce, rustic decor, and a communal dining area, ideal for enjoying seasonal meals
+          - a rustic art studio rooftop with canvases, paint supplies, and inspiring views, perfect for creative gatherings

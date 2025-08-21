@@ -1,0 +1,21 @@
+, realistic
+, pixelart{, limited palette|}
+, limited palette
+, art nouveau{, inset border|||}
+, lineart
+, (toon:1.{0|1|2})
+, monochrome
+, pinup
+, vector trace
+, official art
+, retro {80s |90s |}artstyle
+, (colorful, psychedelic:1{|.1|.2|.3})
+, __TR_Colors__ theme, limited palette
+, vaporwave, limited palette, {yellow|pink|purple|orange} theme
+, (sketch:1.5), greyscale, unfinished drawing, black and white, (hatching:1.3), fanart
+, (\(watercolor\):1.{3|4}), blurry
+, (contemporary art, halftone, halftone texture, ben-day dots:1.{0|1|2|3|4})
+, (retro artstyle, grayscale, 1950s \(style\),western style, traditional media:1.{0|1|2|3|4})
+, realistic, (pulp fiction:1.2), retro, sci-fi, detailed, traditional media
+, lineart, (manga:1.1) panel scan,( greyscale, black and white:1.1), (colors:-1.2), sound effects, japanese text, hatching \(texture\), {black |}outline, speech bubble
+, inktober

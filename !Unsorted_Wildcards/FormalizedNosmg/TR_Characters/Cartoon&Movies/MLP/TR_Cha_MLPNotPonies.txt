@@ -1,0 +1,4 @@
+source_furry, anthro girl, \(mlp\) Princess Ember
+source_furry, anthro griffin girl, \(mlp\) Gilda
+source_furry, anthro hippogriff girl, \(mlp\) Silverstream
+source_furry, anthro girl, \(mlp\) Yona Yak

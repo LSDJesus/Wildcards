@@ -1,0 +1,72 @@
+Vision:
+  Background:
+        Garden:
+          - a tranquil Japanese Zen garden at dusk, illuminated by soft lantern light, with delicate cherry blossoms gently falling onto a raked gravel path, surrounded by smooth stones and a small koi pond reflecting the twilight sky
+          - an enchanting Italian villa garden, bursting with vibrant bougainvillea, tall cypress trees, and a classic stone fountain, all bathed in the warm glow of golden hour, with terracotta pots overflowing with colorful flowers
+          - a misty English cottage garden in early morning, featuring dewy roses and lavender, with cobblestone pathways winding through lush greenery, a quaint wooden bench nestled under an ancient oak tree
+          - a vibrant Moroccan riad garden, adorned with intricate tiled fountains, aromatic herbs like mint and basil, and colorful ceramics, all surrounded by lush palm trees and the scent of blooming jasmine in the air
+          - a dreamy French lavender field at sunset, with rows of purple flowers stretching towards the horizon, a rustic wooden cart filled with lavender, and the soft sounds of nature creating a peaceful ambiance
+          - an exotic tropical garden in Bali, filled with vibrant hibiscus and frangipani flowers, towering palm trees, and a serene koi pond, all under the dappled sunlight filtering through the leaves
+          - a classic Victorian garden in autumn, with fallen leaves carpeting the ground, wrought iron gates leading to manicured hedges, and climbing ivy adorning a charming stone wall
+          - a secluded Greek island garden overlooking the azure sea, featuring whitewashed walls, blooming oleander, and a small terrace with a breathtaking view, with the sound of waves gently lapping at the shore
+          - a whimsical fairy-tale garden in a German forest, with vibrant wildflowers, enchanting mushrooms, and a gentle stream flowing through, creating a magical atmosphere filled with birdsong
+          - a tranquil New England garden in spring, with tulips and daffodils in full bloom, a charming wooden gazebo surrounded by blossoming trees, and the soft chirping of birds filling the air
+          - a romantic Spanish courtyard garden, filled with terracotta pots overflowing with vibrant flowers, fragrant jasmine climbing the walls, and a shaded seating area under a pergola draped with vines
+          - an elegant Dutch tulip garden in full bloom, with rows of colorful tulips stretching towards the horizon, a windmill in the background, and a serene atmosphere enhanced by the gentle rustle of petals
+          - a peaceful Scandinavian garden in summer, featuring wildflowers, a wooden deck overlooking a serene lake, and soft pastel colors creating a calming atmosphere, with a gentle breeze rustling the leaves
+          - a mystical Celtic garden at twilight, with ancient stone circles, flowering heather, and a shimmering pond reflecting the stars, creating an otherworldly ambiance filled with tranquility
+          - a rustic farmhouse garden in Tuscany, with sunflowers reaching towards the sun, grapevines climbing over rustic trellises, and the golden hills in the background, evoking a sense of warmth and charm
+          - a charming coastal garden in Maine, filled with beach roses, driftwood accents, and a view of the crashing waves, all under a soft, pastel sky at dawn, creating a serene and peaceful atmosphere
+          - a secluded garden in a French chateau, filled with manicured hedges, elegant topiaries, and a reflecting pool, all surrounded by the scent of blooming flowers and the sound of gentle water features
+          - a vibrant Indian monsoon garden, bursting with colors, lush greenery after the rain, and fragrant marigolds, with the sound of raindrops creating a rhythmic melody in the background
+          - a romantic alpine garden in Switzerland, dotted with wildflowers, rocky outcrops, and a breathtaking view of snow-capped mountains, creating a peaceful retreat in nature's embrace
+          - an artistic Zen garden with raked sand patterns and carefully placed stone arrangements, evoking a sense of calm and mindfulness, surrounded by bamboo and soft moss
+          - a picturesque garden in a Southern plantation, with magnolia trees in full bloom, hanging moss creating a dreamy atmosphere, and antique furniture inviting quiet contemplation
+          - a delightful garden in a quaint English village, featuring thatched roofs, picket fences, and blooming hydrangeas, creating a nostalgic and romantic ambiance
+          - a vibrant Caribbean garden, filled with hibiscus, palm trees swaying in the breeze, and a hammock strung between two trees, all surrounded by the soothing sound of waves
+          - a tranquil garden in a Japanese tea house, featuring a koi pond, stone lanterns, and meticulously pruned bonsai trees, all creating a serene atmosphere perfect for reflection
+          - a romantic rose garden in a historic castle, with climbing roses adorning stone walls, fragrant pathways lined with colorful blooms, and a sense of timeless beauty
+          - a serene botanical garden in Australia, featuring native plants, a tranquil pond with lily pads, and vibrant birdlife, all under a bright blue sky filled with soft, fluffy clouds
+          - a charming courtyard garden in a Tuscan villa, with terracotta tiles, fragrant herbs, and antique furniture creating an inviting atmosphere, surrounded by lush vineyards
+          - a luscious rainforest garden, filled with ferns, orchids, and the sound of a gentle waterfall, creating a vibrant and exotic atmosphere rich in biodiversity
+          - a dreamy winter garden, with snow-covered evergreens, twinkling lights illuminating the paths, and a cozy fire pit inviting warmth and comfort
+          - a romantic vineyard garden in Napa Valley, with rows of grapevines, rustic barrels, and golden sunlight streaming through the leaves, creating a picturesque setting
+          - a hidden garden in a castle ruin, with ivy-covered walls, wildflowers blooming in every nook, and a sense of mystery enveloping the quiet space
+          - a tranquil coastal garden in the Mediterranean, featuring olive trees, vibrant lavender, and a panoramic view of the sparkling sea, with the gentle sound of waves lapping against the shore
+          - a charming cottage garden in the Scottish Highlands, adorned with heather, thistles, and a babbling brook, all set against a backdrop of rolling green hills and dramatic skies
+          - a romantic moonlit garden by a serene lake, with willow trees swaying gently, blooming water lilies, and the soft glow of fireflies illuminating the tranquil scene
+          - an exotic Thai garden filled with lotus flowers, lush tropical palms, and a peaceful pond, surrounded by the sounds of chirping birds and rustling leaves, creating a sense of paradise
+          - a whimsical fairy garden, featuring oversized mushrooms, twinkling fairy lights, and colorful flowers, all set in a lush green landscape that sparks the imagination
+          - a serene desert oasis garden at twilight, with cacti, succulents, and a shimmering pool reflecting the stars, creating a peaceful retreat amidst the arid landscape
+          - a romantic garden in a historic New Orleans courtyard, with wrought iron balconies, blooming jasmine, and the scent of magnolia filling the air, evoking a sense of nostalgia and charm
+          - a picturesque garden in a French seaside town, with colorful shutters, blooming geraniums, and a lighthouse view, all bathed in the warm glow of sunset
+          - a lush green rooftop garden in an urban setting, filled with vibrant plants, hanging herbs, and cozy seating areas, creating a peaceful oasis above the bustling city below
+          - a tranquil garden in an English manor, with a winding path, blooming peonies, and a classic stone bench under a flowering tree, inviting moments of quiet reflection
+          - a vibrant flower market garden, filled with an array of colorful blooms, fragrant herbs, and art installations, creating a lively and cheerful atmosphere
+          - a romantic garden in a secluded glade, surrounded by towering trees, dappled sunlight filtering through the leaves, and a carpet of wildflowers underfoot, inviting peaceful solitude
+          - a charming Mediterranean terrace garden with terracotta pots, vibrant geraniums, and a stunning sunset view, creating a warm and inviting atmosphere for relaxation
+          - a tranquil orchard garden in bloom, with apple trees covered in blossoms, a rustic wooden fence, and the sweet scent of fresh fruit in the air, creating a sense of abundance and joy
+          - a dreamy cloud garden, with billowing pastel-colored flowers, soft sunlight filtering through fluffy clouds, and an ethereal atmosphere that feels like a fantasy
+          - a serene mountain garden, featuring alpine flowers, rocky outcrops, and a breathtaking view of the peaks, creating a peaceful escape in nature's embrace
+          - a whimsical children's garden, filled with colorful sculptures, playful pathways, and lush greenery, creating an imaginative space for exploration and joy
+          - a magical moonlit secret garden, with silver-toned flowers, soft shadows, and the gentle glow of fireflies dancing in the night, evoking a sense of wonder and romance
+          - a charming vineyard garden at dawn, with dew-kissed grapevines, a rustic wooden trellis, and the soft golden light of the rising sun illuminating the rows of grapes
+          - a serene park filled with blooming cherry blossom trees, delicate petals drifting in the breeze, and a peaceful pond reflecting the vibrant colors of spring
+          - an idyllic garden in the French countryside, with sunflower fields stretching as far as the eye can see, a rustic stone farmhouse, and butterflies fluttering among the flowers
+          - a meditative stone garden with carefully arranged rocks, raked gravel patterns, and a small bamboo fountain creating a soothing sound, surrounded by lush greenery
+          - a picturesque autumn garden in New England, with vibrant red and orange leaves, pumpkins scattered among the flowers, and a cozy bench inviting quiet reflection
+          - a lush garden with a cascading waterfall, surrounded by tropical plants and vibrant flowers, creating a serene atmosphere filled with the sound of flowing water
+          - a classic rose garden in full bloom, with an array of colorful roses climbing trellises, fragrant petals filling the air, and a charming gazebo in the center
+          - a secret garden in a hidden glade, surrounded by tall trees and wildflowers, with a winding path leading to a tranquil pond filled with lily pads
+          - a modern sculptural garden filled with unique art installations, vibrant flowers, and a tranquil atmosphere, inviting visitors to explore and reflect
+          - a tropical beach garden with palm trees swaying in the breeze, colorful hibiscus flowers, and a hammock strung between two trees, overlooking the crystal-clear ocean
+          - a charming cottage garden in full bloom, with a riot of colorful flowers, climbing roses, and a quaint picket fence, exuding warmth and welcoming charm
+          - a peaceful Zen rock garden featuring carefully placed stones, raked gravel, and bamboo plants swaying gently in the wind, creating a harmonious atmosphere
+          - a rustic garden filled with wildflowers, a wooden fence, and a weathered wheelbarrow, all set against a backdrop of rolling hills and a bright blue sky
+          - an elegant orchid garden with a variety of exotic orchids in vibrant colors, delicate foliage, and a serene pond reflecting the beauty of the flowers
+          - a winter wonderland garden, with snow-covered branches, twinkling lights adorning trees, and a peaceful pathway leading to a cozy fire pit
+          - a romantic beachside garden at sunset, with colorful flowers, tiki torches flickering in the breeze, and the sound of waves crashing softly in the background
+          - an enchanting Victorian greenhouse garden, filled with lush tropical plants, hanging ferns, and sunlight streaming through glass panes, creating a magical atmosphere
+          - a vibrant wildflower meadow in spring, with a kaleidoscope of colors, buzzing bees, and butterflies dancing among the blossoms, inviting a sense of joy and freedom
+          - a tranquil lakeside garden with weeping willows, blooming water lilies, and a wooden dock extending over the water, creating a peaceful retreat in nature
+          - an enchanted forest garden, with ancient trees, moss-covered stones, and magical pathways leading to hidden clearings filled with colorful flowers

@@ -1,0 +1,17 @@
+pants{, belt|||}{, thong||||}
+denim pants{, belt|||}{, thong||||}
+ripped denim pants{, belt|||}{, thong||||}
+leather pants{, belt|||}{, thong||||}
+tight pants{, belt|||}{, thong||||}
+(yoga:0.8) pants
+shorts{, thong||||}
+denim shorts{, thong||||}
+dolphin shorts
+bike shorts{, thong||||}
+skirt{, thighhighs|, pantyhose|, fishnets||||}
+mini skirt{, thighhighs|, pantyhose|, fishnets||||}
+frilled skirt{, thighhighs|, pantyhose|, fishnets||||}
+pencil skirt{, thighhighs|, pantyhose|, fishnets||||}
+pleated skirt{, thighhighs|, pantyhose|, fishnets||||}
+high-waist skirt{, thighhighs|, pantyhose|, fishnets||||}
+{mini, ||}petticoat{, thighhighs|, pantyhose|, fishnets||||}

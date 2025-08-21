@@ -1,0 +1,8 @@
+, (spiral eyes:1.2), brainwashed, smile, open mouth{, head tilt|||}
+, (spiral eyes:1.2, brainwashed, expressionless, parted lips{, drool||||}{, head tilt|||}{, half-closed eyes|}
+,  glowing eyes, blank eyes, pink eyes, brainwashed, expressionless, half-closed eyes, parted lips, blank stare, head tilt
+,  glowing eyes, blank eyes, pink eyes, brainwashed, expressionless, (wide-eyed), blank stare, light smile, open mouth, head tilt
+, (spiral eyes:1.2), brainwashed, smile, open mouth{, head tilt|||}
+, (spiral eyes:1.2, brainwashed, expressionless, parted lips{, drool||||}{, head tilt|||}{, half-closed eyes|}
+,  glowing eyes, blank eyes, pink eyes, brainwashed, expressionless, half-closed eyes, parted lips, blank stare, head tilt
+,  glowing eyes, blank eyes, pink eyes, brainwashed, expressionless, (wide-eyed), blank stare, light smile, open mouth, head tilt

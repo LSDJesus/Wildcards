@@ -1,0 +1,3 @@
+{ __TR_Colors__|}serafuku{, pleated skirt||}{, long skirt|, mini skirt||}{, tie|, bow|||}{, midriff|||||}{, open cardigan|, short sleeved shirt|, long sleeved shirt||}{, {white |black |}{thighhighs|kneesocks|pantyhose}{, {brown |black ||}(student shoes:0.9)|, boots}|}{, cleavage||}
+{ __TR_Colors__ clothes,|} schoolgirl{, bow|, tie}, plaid skirt{, {white|black|stripped} kneesocks|, thighhighs||}, loafers{, open cardigan|, short sleeved shirt|, long sleeved shirt||}, rating_safe
+{__TR_Colors__|} school track suit

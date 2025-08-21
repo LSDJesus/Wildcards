@@ -1,0 +1,1 @@
+, night, starry sky{, black sky|}{, full moon|, moon|||}{, [clouds:10]||}

@@ -1,0 +1,130 @@
+cf-maid:
+    # Prompt only a full maid costume
+    prompt-costume:
+        - >-
+            maid wearing __cf-maid/headwear__, __cf-maid/color__ {__cf-maid/dress__|__cf-maid/top__, __cf-maid/bottom__}, apron with lace trim, __cf-maid/stockings__, __cf-maid/shoes__, __cf-maid/makeup__
+    # Prompt maid costume with girl and location
+    prompt-full:
+        - >-
+            (__cf-maid/beauty-adj__ maid) __cof-basemodel/age__ __cof-basemodel/gender__, __cof-basemodel/ethnicity__, 
+            wearing __cf-maid/headwear__, __cf-maid/color__ {__cf-maid/dress__|__cf-maid/top__, __cf-maid/bottom__}, apron with lace trim, __cf-maid/stockings__, __cf-maid/shoes__, __cf-maid/makeup__, __cf-maid/accessory__,
+            __cf-maid/location__
+    beauty-adj:
+        - sexy
+        - angelic
+        - attractive
+        - bonnie
+        - desirable
+        - esthetic
+        - gorgeous
+        - lovely
+        - supermodel
+        - vivacious
+        - elegant
+        - charming
+        - alluring
+        - sophisticated
+        - enchanting
+        - radiant
+        - graceful
+        - captivating
+        - exquisite
+        - sweet
+    color:
+        - black
+        - white
+        - blue
+        - pastel pink
+        - gray
+        - red
+        - lavender
+        - green
+        - yellow
+        - beige
+    headwear:
+        - >-
+          maid {small|frilly|cloth|embroided|lace} cap
+        - maid headscarf
+        - maid bonnet
+        - maid bow headband
+        - maid head kerchief
+        - maid hair ribbon    
+    dress:
+        - >-
+          {french|vintage|victorian} maid dress with lace trim
+        - maid uniform with puffed sleeves
+        - >-
+          {sleek|stylish|elegant} maid dress with white frills
+        - >-
+          {ruffled|layered|pleated} maid dress with bows
+        - >-
+          {traditional|modern|classic} maid dress with a fitted bodice
+        - >-
+          {short-sleeve|long-sleeve} maid dress with {lace trim|bow detail}
+        - >-
+          {mini|midi|maxi|knee-length} maid dress with ruffles
+        - >-
+          {cotton|satin|silk} maid dress with white frills
+        - >-
+          {plain|embroidered|striped|checkered} maid dress with white frills
+    top:
+        - >-
+          {fitted|ruffled|flowy} maid top {with stylish accents|}
+        - >-
+          {long-sleeve|short-sleeve|puff-sleeve} blouse with {lace trim|bow detail}
+        - >-
+          {cotton|silk|satin|lace} blouse {with intricate details|}
+        - >-
+          {plain|embroidered|striped|collared} shirt with ruffles
+    bottom:
+        - >-
+          {ruffled|pleated} skirt
+        - >-
+          {tailored|simple|classic} maid skirt
+        - >-
+          {high-waisted|a-line|flared} skirt
+        - >-
+          {knee-length|mini|maxi} skirt with lace trim
+        - >-
+          {simple|classic|traditional} maid skirt
+    stockings:
+        - >-
+          {white|black|lace} stockings
+        - >-
+          {sheer|opaque|patterned} thigh-high stockings
+        - >-
+          {fishnet|silk} stockings
+        - >-
+          {knee-high|over-the-knee|ankle} socks with lace trim
+    shoes:
+        - >-
+          {mary jane|black|stiletto|platform|low} heels
+        - simple pumps
+        - >-
+          {high-heeled|flat|platform|wedge} shoes with bows
+        - >-
+          {leather|patent leather|black|ballet} flats
+        - >-
+          {loafers|oxfords} with simple design
+    accessory:
+        - >-
+          carrying a {feather duster|silver tray with tea service|cleaning cloth}
+        - >-
+          {white gloves|lace gloves}
+    makeup:
+        - >-
+          {soft pink lipstick|glossy lipgloss}
+        - light eyeshadow
+        - subtle eyeliner
+    location:
+            - >-
+              set in {
+              __cof-location/place/living-room__|
+              __cof-location/place/attic__|
+              __cof-location/place/bedroom__|
+              __cof-location/place/kitchen__|
+              __cof-location/place/bathroom__|
+              __cof-location/place/mansion__|
+              __cof-location/place/luxury-hotel__|
+              __cof-location/place/maid-cafe__
+              } {, at night|, at sunset|}

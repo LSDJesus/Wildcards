@@ -1,0 +1,78 @@
+Vision/Female-Appearance:
+  L-Eye-Color:
+      - " {.3::bright pupils, |}black "
+      - " {yellow|gold} "
+      - " {{light|bright} blue|blue|dark blue} "
+      - " {cyan|aqua|teal} "
+      - " {{light|bright} green|green|dark green} "
+      - " {{light|bright} orange|orange|{dark orange|amber}} "
+      - " {hot pink|pink|soft pink} "
+      - " {purple|violet|lavender} "
+      - " {{light|bright} red|red|{dark red|crimson}} "
+      - " {grey|hazel} "
+  L-hair-Color:
+      - " {pitch black|black} "
+      - " {Blonde|Dirty Blonde|Platinum Blonde|Ash Blonde|Golden Blonde|yellow} "
+      - " {{light|bright} blue|blue|dark blue} "
+      - " {light indigo|indigo|dark indigo} "
+      - " {cyan|aqua|teal} "
+      - " {{light|bright} green|green|dark green} "
+      - " {{light|bright} orange|orange|dark orange} "
+      - " {hot pink|pink|soft pink} "
+      - " {{{light|bright} purple|purple|dark purple}|{violet|lavender|magenta}} "
+      - " {light grey|grey|dark grey} "
+      - " {{light|bright} red|red|{dark red|crimson}} "
+      - " {{pure white|white}|silver} "
+  L-hair-Patterns:
+      - two-toned hair, __Vision/Female-Appearance/L-hair-Color__ hair
+      - gradient hair, __Vision/Female-Appearance/L-hair-Color__ hair
+      - streaked hair, __Vision/Female-Appearance/L-hair-Color__ hair
+      - colored inner hair, __Vision/Female-Appearance/L-hair-Color__ hair
+      - colored tips, __Vision/Female-Appearance/L-hair-Color__ hair
+  L-Hair-Type:
+      - hime cut
+      - big hair
+      - curly hair
+      - dreadlocks
+      - " {messy|frizzy|crazy|shaggy} hair "
+      - " {drill hair|ringlets} "
+      - wavy hair
+      - " {spiky|spiked} hair "
+      - " {{punk|bombshell punk}|emo} hair "
+      - " {shaved sides|undercut} "
+  L-Hair-cut:
+      - " {bob cut|bob cut, low ponytail} "
+      - " {braid|french braid|long braid|braided hair rings|multiple braids|crown braid}{, hair {tie|scrunchie|ribbon|bow}|} "
+      - " {ponytail|{braided ponytail|{high|low} ponytail|{short|long} ponytail|drill ponytail|split ponytail|low-tied ponytail|side ponytail}}{, hair {tie|scrunchie|ribbon|bow}|} "
+      - two side up{, hair {tie|scrunchie|ribbon|bow}|}
+      - " {twintails|{twin braids|{high|low} twintails|{short|long} twintails|twin drills}}{, hair {tie|scrunchie|ribbon|bow}|} "
+      - hair bun
+      - updo
+      - hair rings
+      - " {low|multi}-tied hair "
+  L-Hair-bangs:
+      - bangs
+      - blunt bangs
+      - feathered bangs
+      - arched bangs
+      - braided bangs
+      - crossed bangs{, hair between eyes|}
+      - hair over {one eye|eyes, covered eyes}
+      - wispy bangs
+      - swept bangs
+      - hair between eyes
+      - curtained hair
+      - parted bangs
+  L-Hair-length:
+      - short hair
+      - medium hair
+      - long hair
+      - very long hair
+      - absurdly long hair
+  L-Hair-style:
+      - __Vision/Female-Appearance/L-Hair-Type__{, __Vision/Female-Appearance/L-Hair-Bangs__|}{, __Vision/Female-Appearance/L-Hair-cut__|}{.3::, ahoge|}
+      - __Vision/Female-Appearance/L-Hair-Type__
+      - __Vision/Female-Appearance/L-Hair-cut__
+      - __Vision/Female-Appearance/L-Hair-Bangs__
+  L-Hair-Random:
+      - __Vision/Female-Appearance/L-Hair-length__ Hair, __Vision/Female-Appearance/L-hair-Color__ Hair,{{|multicolored hair, __Vision/Female-Appearance/L-hair-Color__ hair|__Vision/Female-Appearance/L-hair-Patterns__}|}{, __Vision/Female-Appearance/L-Hair-style__|}

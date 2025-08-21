@@ -1,0 +1,402 @@
+illustXL:
+  demidex:
+    draconic:
+      wyvern:
+      - 'monster girl, wyvern girl,  dragon horns, dragon tail, winged arms, orange
+        hair, brown scales, '
+      calamity_dragon:
+      - 'monster girl, dragon girl , toned female, large horns, large wings, dark
+        purple skin, dark purple hair, slit pupils, pink eyes, purple body marks,
+        glowing marks, skin fangs, claws,  dragon tail,  black scales, '
+      wyrm:
+      - 'monster girl, wyrm girl, lamia,  scales, dragon horns,  grey skin, rough
+        skin, red eyes, face scales, scaly, dragon tail, claws, '
+      Drake:
+      - 'monster girl, dragon taur body, red skin, red eyes, scales, '
+      land_dragon:
+      - 'monster girl, dragon girl, green  scales, dragon tail, dragon horn, green
+        eyes, gradient hair, orange hair, green hair,  no wings, claws, wide hips,
+        plump, multi-tied hair, '
+      kobold:
+      - 'monster girl, kobold girl, yellow sclera, red scales, red skin, dragon tail,
+        dog ears, black hair, '
+      coast_wyvern:
+      - 'monster girl, wyvern girl,  dragon horns, dragon tail, winged arms, green
+        hair, blue skin, pale skin, '
+      silver_dragon:
+      - 'monster girl, dragon girl, pale skin, grey skin, silver scales, dragon tail,
+        dragon horn, purple eyes, gradient hair, grey hair, lavender hair, medium
+        hair, flipped hair, mini wings, '
+      salamander:
+      - 'monster girl, reptile girl, red scale, salamander girl, steaming body, yellow
+        sclera, red eyes,  dragon tail, red hair, long hair, two-tone skin,  small
+        horns, '
+    florans:
+      amanitan:
+      - 'monster girl, red plant girl, multicolored skin, skin spots, freckles, fungi
+        skin, red mushroom girl, bags under eyes, light particles, bioluminescence,
+        white skin, white hair, streaked hair, fungi, short female, living hair, vines
+        skin, '
+      aroma_alraune:
+      - 'monster girl, plant girl, alraune, neck gills, flower personification, bioluminescence,
+        multicolored skin, green shades skin, foliage body, white skin spots, thorns
+        protrusions, glowing eyes, vines, large leafs, pink hair, body vines, mossy
+        skin, leaf covered limbs,mature female, pink flower skirt, drill hair, curvy,
+        pink fog aura, '
+      cacti:
+      - 'monster girl, plant girl, colored green skin, cactus girl,skin thorns, solid
+        circle eyes, yellow eyes, green sclera, plant horns, curvy, colored eyelashes, '
+      dryad:
+      - 'monster girl, plant girl,elemental \(creature\),  colored skin, bioluminescence,  plant
+        girl, (dryad:0.6), plant body, wooden skin, bark skin, glowing eyes, green
+        eyes, hair vines, glowing marks, antlers, freckles, claws, '
+    beastkin:
+      catfolk:
+        kleptoneko:
+        - 'monster girl, cat girl , green hair, yellow eyes, multicolored hair, streaked
+          hair, very short hair, pointy hair, heterochromia, claws, gloves, cat tail, '
+        Archivineko:
+        - 'monster girl, cat girl, cat ears, black hair, red eyes, cat tail, red nails,
+          high ponytail, shaded face, claws, grey skin, colored skin, glasses, bags
+          under eyes, messy hair,  turtleneck,  medieval, '
+        primal_cat:
+        - 'monster girl, cat girl, cat tail, cat ears, large ears,   multiple tails,
+          two tails,  glowing body markings, light green hair, absurdly long hair,   huge
+          claws, black skin, sharp teeth, wind aura, oni horns, green fur, '
+        lion_catfolk:
+        - 'monster girl, lion girl, lion ears, lion tail,  orange hair, messy hair,
+          short eyebrows, yellow eyes, slit pupils, fang, arched bangs, '
+        tiger_catfolk:
+        - 'arm wrap, toned female , monster girl, tiger girl , tiger tail, eyelashes,
+          multicolored hair, orange hair, slit pupils, short hair, slit pupils, claws, '
+        shironeko:
+        - 'monster girl, cat girl, cat ears, white hair, long hair, blue eyes,   pale
+          skin, white cat tail,  colored eyelashes, blunt ends, blue nails, claws,
+          brooch, bowtie, '
+      wolfkin:
+        primal_wolf:
+        - 'monster girl, wolf girl, wolf tail, wolf ears, large ears,   multiple tails,
+          glowing body markings, light blue hair, messy hair, curled horns, huge claws,
+          dark blue skin, sharp teeth, electric aura, '
+        wolfkin_hound:
+        - 'monster girl, dog girl, claws,  dog tail, dog ears, brown hair, brown eyes,
+          short hair with long locks, skin fang, '
+        dober_wolfkin:
+        - 'tall female, monster girl, dobermann dog girl, dog tail, dog ears, very
+          long ears, short eyebrows, dark-skinned female, black eyes, very short hair,
+          gradient hair, brown hair, black hair, '
+        hellhound:
+        - 'monster girl, hellhound girl,  messy hair, dark brown hair, colored skin,
+          dark brown skin, orange eyes, glowing eyes, flaming eye, glowing body markings,
+          sharp teeth, wolf tail, wolf ears, toned female, '
+        chihu_wolfkin:
+        - 'short female, petite, monster girl, chihuahua dog girl, dog tail, dog ears,  large
+          ears, short eyebrows,  blonde hair, black eyes, short ponytail, swept bangs,
+          wide-eyed, '
+        arcto_wolfkin:
+        - 'monster girl, husky dog girl, dog tail, dog ears, gray hair, white hair,
+          multicolored hair, blue eyes, short hair , pale skin, colored eyelashes, '
+        dire_wolfkin:
+        - 'monster girl, wolf girl, wolf tail, multicolored hair, grey hair, white
+          hair,  yellow eyes, hair over one eye,  slit pupils, claws, '
+      centaur:
+        aqua_centaur:
+        - 'monster girl, centaur , aqua skin, scales, gills, fins, fish tail, arm
+          fins, ankle fins, { light red hair,| red hair,| light purple hair,| purple
+          hair,}, '
+        zebra_centaur:
+        - 'monster girl, zebra centaur, zebra ears, streaked hair, long hair, streaked
+          hair, blunt ends, pale skin, '
+        colles_centaur:
+        - 'monster girl, white centaur, horse ears, orange hair, green eyes, wavy
+          hair , bangle, colored skin, side braid, freckles, shortstack, plump, '
+        ada_centaur:
+        - 'monster girl, centaur, horse ears, muscular female, {blonde|black|brown|white|light
+          brown|grey} hair, {blue|green|black|brown} eyes, side braid, bangle, '
+        pony_centaur:
+        - '1girl, monster girl, pony girl, horse legs,  horse ears,  small horn, single
+          horn, mystical body markings, blunt bangs, {green | pink }hair, pale blue
+          skin, petite, '
+      ratin:
+        hampter:
+        - 'monster girl,hamster girl ,  hamster ears, orange hair,  white hair, green
+          eyes,  streaked hair, very short hair, gloves, short eyebrows, cluttered
+          huge backpack, utility belt, '
+        Ratin:
+        - 'monster girl, rat girl, messy hair, red eyes, glowing eyes, dark grey hair,
+          dirty, '
+      bunari:
+        cinis_bunari:
+        - 'monster girl, grey rabbit girl, grey hair, dark-skinned female,  short
+          eyebrows,rabbit legs, red eyes, muscular female, leg wrap, thick thighs, '
+        terra_bunari:
+        - 'monster girl, green rabbit girl, green hair, dark-skinned female,  short
+          eyebrows,rabbit legs, red eyes, thick thighs, '
+        rosa_bunari:
+        - 'monster girl, pink rabbit girl, pink hair, short eyebrows,rabbit legs,
+          red eyes, thick thighs, '
+        nix_bunari:
+        - 'monster girl, white rabbit girl, white hair, short hair,  pale skin, colored
+          eyelashes, short eyebrows,rabbit legs, red eyes,  thick thighs, '
+      bovids:
+        forest_minotaur:
+        - 'monster girl, minotaur girl, large horns, cow ears, tail, red eyes, '
+        highland_Holstaur:
+        - 'monster girl, bovine girl,  cow horns, long horns, cow ears, tail,  green
+          eyes, red hair , braid, pale skin, freckles,  curvy,  shortstack, cowbell,  gradient
+          skin, multicolored skin, fur, absurdly long hair, '
+        sheepin:
+        - 'monster girl, sheep girl, pale skin, white hair, sheep horns, freckles,
+          sheep ears, wrist scrunchie, curly hair, '
+        umbra_sheepin:
+        - 'monster girl, black sheep girl, black skin, colored skin, black hair ,
+          sheep horns, freckles, sheep ears, wrist scrunchie, curly hair, '
+        albino_Holstaur:
+        - 'monster girl, bovine girl,  cow horns, cow ears, tail,  white hair, white
+          skin, albino, curvy, cowbell, gradient skin, multicolored skin, fur, hair
+          over eyes, '
+        cave_minotaur:
+        - 'monster girl, minotaur girl, muscular female, large horns, cow ears, tail,
+          horizontal pupils, grey skin, glowing eyes, '
+        Holstaur:
+        - 'monster girl, bovine girl,  cow horns, cow ears, tail,  blue  eyes, blonde
+          hair , curvy,  cowbell,  gradient skin, multicolored skin, fur, '
+      ursine:
+        polar_ursine:
+        - 'monster girl, ( white bear girl:1.2),  (plump:0.7), fur, claws, bear ears,
+          multiple scars, thick eyebrows, pale dark-skinned female,  low-tied sidelocks, '
+        ursine:
+        - 'monster girl, ( brown bear girl:1.2), muscular, (plump:0.7), fur, claws,
+          bear ears, multiple scars, thick eyebrows, '
+    humans:
+      noburi:
+      - 'shinobi, black hair, red eyes, blunt bangs, '
+      highlander:
+      - 'blonde hair, blue eyes, medieval tunic, '
+      nomad:
+      - 'scarf, nomad outfit, desert outfit, medieval, inventory, brown hair, yellow
+        eyes, hoop earrings, shawl, veil, arabian clothes, '
+    amorphus:
+      alcha_slime:
+      - 'monster girl , slime girl, smile , melting, see-through body, colored skin,   translucent
+        skin,  inner core, green skin, (x-ray:0.4),   green sclera,  clover-shaped
+        pupils, green mouth, '
+      vitality_slime:
+      - 'monster girl, slime girl, blood slime , melting, colored skin, see-through
+        body, translucent skin, core, dark red skin, red sclera, colored mouth, slimification,
+        gradient hair, red glowing hair, blood vessels, curly sidelocks, red and back
+        slime, '
+      dew_slime:
+      - 'monster girl , slime girl, smile , melting, see-through body, colored skin,   translucent
+        skin,  inner core, blue skin, (x-ray:0.4),  blue sclera, white eyes, glowing
+        eyes, '
+      phermo_slime:
+      - 'monster girl , slime girl, smile , melting, see-through body, colored skin,
+        translucent skin, inner core, pink skin, (x-ray:0.4), pink sclera, red eyes,    living
+        hair, slime horns, heart-shaped pupils, steaming body, red vapor, slimification,
+        boiling slime, '
+      mana_slime:
+      - 'monster girl, glowing slime girl, melting, colored skin,  see-through body,
+        translucent skin,  inner core , blue and cyan skin, glowing skin, glowing
+        eyes , white eyes , overflowing,  glowing mouth, magical aura,  iridescent
+        glow, slimification, corruption, floating hair, glitter, sparkles, '
+    amphibian:
+      dae_lamia:
+      - 'monster girl, lamia, bright pupils, purple skin, black  scales, cobra girl,
+        black sclera,  purple eyes, slit pupils, claws, snake tail, large demon wings,
+        fiery horns, colored inner hair, '
+      lake_forg:
+      - 'monster girl, frog girl, two-tone skin, colored skin, green hair, skin spots,
+        gills, shiny skin, wet hair, black hair, black eyes, lotus leaf hair ornament, '
+      arcto_lamia:
+      - 'monster girl, lamia, cobra girl, bright pupils, slit pupils, pale skin, blue
+        scales, blue eyes, snake tail, '
+      swamp_lamia:
+      - 'monster girl, lamia,  aqua hair, yellow eyes, slit pupils,  green scales,
+        blue skin, '
+      ada_lamia:
+      - 'monster girl, lamia,  brown hair, green eyes, frostnip , freckles, green
+        scales, thick eyebrows, glasses, curvy, '
+      draco_lamia:
+      - 'monster girl, monster girl, lamia,  dragon girl, rough scales, dragon wings,  dark
+        purple ,  black hair, '
+      scarlet_lamia:
+      - 'monster girl, lamia, cobra girl, bright pupils, slit pupils, pale skin, dark
+        red scales, red eyes, small horns, long fingernails, snake tail, '
+    abyssal:
+      night_succubus:
+      - 'demon girl, succubus, black demon wings, black hair, long hair,  demon tail,
+        gradient skin, demon horns, pale skin, nightgown, see-through clothes, '
+      shapeshifter:
+      - 'monster girl, demon girl, dark purple skin, black sclera, colored skin, white
+        eyes, glowing eyes, demon tail,  long horns, gradient glowing  hair, black
+        hair, purple hair, black lips, '
+      soul_oni:
+      - 'monster girl, oni girl , oni horn, pointy ears,  single horn, blue skin,
+        pale skin, black hair, black eyes,  straight hair , blunt ends, long hair,
+        jitome, '
+      mindflayer:
+      - 'monster girl, mindflayer girl, purple grey skin, gradient skin, absurdly
+        long hair, tentacle hair, smile, green eyes, extra eyes, glowing eldritch
+        aura , mystical high collar, front braid, hair over face, extra arms, '
+      corpus_oni:
+      - 'toned female,  monster girl, oni girl , oni horns, pointy ears,  red  skin,
+        pale skin, white hair, red eyes, short hair with long locks, pointy hair  ,
+        thick eyebrows, fang, arm tattoo, '
+      dream_succubus:
+      - 'demon girl, succubus, mini wings, pink hair, fishnets, demon tail, gradient
+        skin, small horns, thick thighs, bat hair ornament, red eyes, '
+    undead:
+      jiangshi:
+      - 'monster girl, undead, colored skin,  pale skin,  blue skin, jiangshi girl,
+        ofuda on head, talisman ,  claws, sleeves past wrists, black hair, black sclera, '
+      crude_poltergeist:
+      - 'ghost girl, poltergeist, glowing skin, transparent body, green skin, floating
+        objects , light particles, dissolving body, glowing hair, multicolored hair,
+        black eyes, solid eyes, fading, '
+      ghost:
+      - 'ghost girl, ghost tail, glowing skin, transparent body, white skin,  glowing
+        eyes, glowing aura,  light particles, dissolving body, glowing hair,  fading,
+        ethereal hair, white hair, '
+      lich:
+      - 'monster girl, undead,  lich, pale purple skin, hooded cloak,  purple eyes,   bone
+        necklace, gradient hair, bags under eyes, '
+      wraith:
+      - 'monster girl, black ghost girl, black skin, smoke body, transparent body,
+        dissolving body , large chains, floating hair,  glowing eyes, tattered black
+        cloak, faceless, blank eyes, fully cloaked, '
+      royal_mummy:
+      - 'monster girl, mummy girl, ancient egyptian, eye of horus, bandaged body,
+        tan skin,  floating bandages ,  glowing mouth, very long hair, ribbon hair,
+        hair over one eye, bandaged head, dust particles, yellow eyes, black hair,
+        jewelry, gold trim, '
+      feral_vampire:
+      - 'undead girl, vampire girl, gradient skin, pale skin, red eyes, black hair,
+        grey skin, messy hair, claws, monster girl, blood from eyes, sharp teeth,
+        pointy ears, crazy eyes, '
+      dullahan:
+      - 'monster girl, monster girl,dullahan, headless, energy hair, living armor,
+        long hair, faceless, dark medieval armor, floating head, dullahan, headless,
+        energy hair, living armor, long hair, faceless, dark medieval armor, floating
+        head, '
+      banshee:
+      - 'monster girl, banshee girl , wedding dress, glowing body,  gradient skin,
+        floating hair, absurdly long hair,  grey hair, grey skin,  glowing white eyes,  runny
+        makeup, pale skin, floating glowing cloth, fading, ragged torn clothes , oversized
+        clothes, hair over eyes, bridal veil, '
+      zombie:
+      - 'undead girl, zombie girl, colored skin,  pale skin,  stitches, patchwork
+        skin, white hair, black hair, gradient hair,  streaked hair, white eyes, black
+        sclera, heterochromia, green skin, '
+      ghoul:
+      - 'undead girl, ghoul girl, yellow sclera, sharp teeth, exposed muscle, bloody
+        , gradient skin, blood in hair, messy hair, glowing eyes, eyes trail, bleached
+        hair, red eyes, '
+      vampire_nobility:
+      - 'undead girl, vampire girl, gradient skin, pale skin, red eyes, platinum blonde
+        hair, grey skin, eyeshadow, '
+      ancient_vampire:
+      - 'undead girl, vampire girl, gradient skin, pale skin, red eyes, black sclera,  white
+        hair, grey skin, eyeshadow, demon wings, pointy ears, absurdly long hair, '
+      basic_mummy:
+      - 'monster girl, mummy girl, bandaged body, floating bandages , glowing mouth,
+        very long hair, ribbon hair, hair over one eye, bandaged head, dust particles,
+        green eyes, '
+      will_o_wisp:
+      - 'monster girl, ghost tail, ghost girl, ghostly clothes, gradient skin, semi-invisible
+        body, will-o''-the-wisp \(mythology\) personification, glowing eyes,  glowing
+        mouth, fiery hair, blue theme,  glowing  aura, green eyes, solid eyes, colored
+        eyelashes, blue flames, glowing hair, light particles, sleeves past fingers,
+        fading, '
+    celestial:
+      valkyrie_delta:
+      - 'monster girl, android girl, mechabare, jitome, absurdly long hair,  glowing
+        eyes, symbol-shaped pupils, yellow eyes, glowing eyes, blonde hair, dark-skinned
+        female, glowing tattoo, mechanical halo, glowing wings, twintails,facial mark,
+        cracked skin, '
+      valkyrie_zeta:
+      - 'angelic monster girl, mechabare, , glowing eyes, symbol-shaped pupils, purple
+        eyes, glowing eyes, lavender hair, pale skin, glowing tattoo, mechanical halo,
+        glowing crystal  wings, short hair, round hair, gold circlet, cybernetic skin,
+        low wings, small wings, '
+    orcish:
+      goblin:
+      - 'monster girl , female goblin, petite, long ears, skin spots, messy hair,
+        dark red hair, black eyes, yellow sclera,   freckles, dirty, short eyebrows, '
+      ogre:
+      - 'female ogre, giantess, plump, brown and  green skin, skin fang, slouching,
+        long ears, skin spots, long hair, messy hair, dark green hair, red eyes, yellow
+        sclera,   freckles, dirty, short eyebrows, scratches,  small head, tusks, '
+      orc:
+      - 'monster girl, female orc, green skin, tusks, muscular female, full-body tattoo,
+        scars, red hair, messy hair, '
+    avians:
+      forest_harpy:
+      - 'green harpy, monster girl, yellow eyes,  arched bangs, colored skin, gradient
+        hair,  green hair,  yellow hair,  tail, hair flaps, short hair, winged arms, '
+      albino_harpy:
+      - 'albino harpy, monster girl, white hair, yellow eyes, colored eyelashes, arched
+        bangs, colored skin, pale skin, white skin, hair flaps, short hair, winged
+        arms, '
+      bat:
+      - 'bat girl, bat ears,  bat wings, monster girl, black hair, black sclera, colored
+        skin, grey skin, skin fang, '
+      snow_harpy:
+      - 'snow harpy, monster girl, gradient hair,  aqua eyes, colored eyelashes,  white
+        hair, long hair, colored skin, white skin, glowing hair, head wings, winged
+        arms, blue skin, frost skin, '
+      owl:
+      - 'owl girl, owl ears, harpy, monster girl, light brown hair, yellow sclera,
+        black eyes,  streaked hair,  thick eyebrows, colored skin, pale skin, '
+    elfs:
+      wood_elf:
+      - 'elf, {green|light green|brown} hair, green eyes, freckles, swept bangs, low-tied
+        sidelocks, leaf hair ornament, short hair, straight hair, plant clothes, '
+      deep_elf:
+      - 'toned female, elf, red hair, orange eyes, dark-skinned female, pointy hair,
+        body marks, '
+      sun_elf:
+      - 'elf, blonde hair, red eyes, sunflower hair ornament, long hair, straight
+        hair, '
+      noct_elf:
+      - 'dark elf, colored skin, dark blue black skin, white hair, colored eyelashes,
+        blue eyes, silver jewelry, skinny, '
+    constructs:
+      soul_doll:
+      - 'monster girl, voodoo doll girl, glowing body runes, empty eyes, black eyes,  joints,  black
+        hair, ofuda on head, sewing needle, patchwork skin, white skin, hitodama, '
+      automaton_doll:
+      - 'monster girl, doll girl, glowing body runes, glowing eyes,  joints, wooden
+        skin, white hair, clockwork body, '
+      miniral_golem:
+      - 'monster girl, golem girl, glowing eyes, cracked skin, oversized limbs, rock
+        aura, crystal hair, blue crystals, '
+      earth_golem:
+      - 'monster girl, golem girl, glowing eyes, cracked skin, oversized limbs, rock
+        aura, mud hair, liquid hair, mossy body, white eyes, '
+      magma_golem:
+      - 'monster girl, golem girl, glowing eyes, cracked skin, oversized limbs, rock
+        aura, fiery l hair, lava body, '
+    spirits:
+      ifrit:
+      - 'monster girl, ifrit girl, fire body, lava skin , glowing body,fiery hair,
+        glowing body markings, red sclera ,floating hair, glowing eyes, colored eyelashes,
+        fire elemental \(creature\), '
+      aqua:
+      - 'elemental \(creature\), monster girl, cloud elemental , cloud personification,
+        vapor body, vapor skin, vapor hair, floating hair, glowing eyes, colored eyelashes,
+        dissolving, cloud hair, see-through body, '
+    insectoid:
+      bee:
+      - 'monster girl, arthropod girl , bee girl, bee personification, antennae, yellow
+        skin, gradient skin, multicolored skin, yellow fur collar, bee wings, yellow
+        eyes, gradient hair, arthropod girl , honeycomb \(pattern\), black sclera,
+        full body, scales, exoskeleton skin, '
+      fae:
+      - 'monster girl, fairy girl, butterfly wings cape, arthropod girl, iridescent
+        {blue|green} hair,  butterfly  antennae, iridescent skin, gradient skin, skinny,
+        dark {blue|green} skin, '
+      arachne:
+      - 'monster girl, black arachne,   extra eyes, (taur:0.7) , gradient skin,  black
+        skin, multicolored skin, extra_limbs, red spots, straight hair, white hair
+        , arthropod girl, multiple legs, spider abdomen, '

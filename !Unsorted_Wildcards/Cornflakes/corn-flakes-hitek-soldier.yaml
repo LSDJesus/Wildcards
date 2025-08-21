@@ -1,0 +1,103 @@
+cf-hitek-soldier:
+    prompt-costume:
+        - >-
+          futuristic soldier wearing a __cf-hitek-soldier/helmet__, __cf-hitek-soldier/armor-adj__ __cf-hitek-soldier/color__ {__cf-hitek-soldier/armor-top__ __cf-hitek-soldier/armor-adj-bis__, __cf-hitek-soldier/armor-bottom__|__cf-hitek-soldier/full-armor__ __cf-hitek-soldier/armor-adj-bis__}, {armored|combat} boots, (wielding a  __cf-hitek-soldier/weapon__), {2$$__cf-hitek-soldier/accessory__}
+    prompt-full:
+        - >-
+          (__cf-hitek-soldier/beauty-adj__ futuristic soldier) __cof-basemodel/age__ __cof-basemodel/gender-no-hairstyle__, __cof-basemodel/ethnicity__,
+          wearing a __cf-hitek-soldier/helmet__, __cf-hitek-soldier/armor-adj__ __cf-hitek-soldier/color__ {__cf-hitek-soldier/armor-top__ __cf-hitek-soldier/armor-adj-bis__, __cf-hitek-soldier/armor-bottom__|__cf-hitek-soldier/full-armor__ __cf-hitek-soldier/armor-adj-bis__}, {armored|combat} boots, (wielding a  __cf-hitek-soldier/weapon__), {2$$__cf-hitek-soldier/accessory__},
+          __cf-hitek-soldier/location__
+    beauty-adj:
+        - formidable
+        - resilient
+        - tactical
+        - agile
+        - stealthy
+        - elite
+        - lethal
+        - advanced
+        - strategic
+        - futuristic
+    color:
+        - black
+        - metallic silver
+        - camo green
+        - steel grey
+        - blue
+        - red
+        - white
+        - digital camo
+        - chrome
+        - matte black
+    helmet:
+        - full-face helmet with visor
+        - tactical helmet with HUD display
+        - combat helmet with communication gear
+        - lightweight helmet with augmented reality visor
+        - stealth helmet with integrated mask
+    armor-adj:
+        - High-tech
+        - Nano-fiber
+        - Powered
+        - Cybernetic
+        - Bio-mechanical
+        - Titanium
+        - Graphene
+        - Vibranium-infused
+        - Plasma-infused
+        - Anti-matter
+        - Electromagnetic pulse
+        - Nanite-repair
+        - Sonic emitter
+        - Quantum-repulsor
+        - Graviton-reinforced
+        - Psionic shield
+    armor-top:
+        # check if exo-suit is the same as exoskeleton
+        - exo-suit upper body armor
+        - >-
+          {plated|composite} chest armor
+        - tactical vest with gear attachments
+        - armored jacket with tech enhancements
+        - reinforced combat shirt
+    armor-bottom:
+        - exo-suit lower body armor
+        - >-
+          {plated|composite} leg armor
+        - tactical pants with gear attachments
+        - armored combat trousers
+        - reinforced combat pants
+    full-armor:
+        - advanced combat exo-suit
+        - full-body tactical armor
+        - reinforced full-body suit
+        - composite plated exo-suit
+        - stealth exo-suit with cloaking abilities
+    armor-adj-bis:
+        - >-
+          with {modular armor plating|adaptive camouflage|servo-assisted joints|graphene reinforcement|energy shielding|bio-enhanced muscles, adaptive biometric sensors|integrated LED lights|holographic insignia|energy core|force field generator|bio-mimetic camouflage|anti-gravity field|nano-cloak technology|disruption field|phase shift technology|EMP shielding|telekinetic barrier|fusion reactor|EMP pulse emitter}
+    accessory:
+        - >-
+          equipped with {a tactical backpack|a utility belt|a jetpack}
+        - energy shield
+        - night vision goggles
+        - >-
+          {combat gloves|energy gloves|energy blade gauntlets}
+    weapon:
+        - >-
+          {plasma rifle|pulse pistol}
+        - >-
+          {laser gun|railgun}
+        - glowing energy sword
+    location:
+        - >-
+          set in {
+          __cof-location/place/urban-jungle__|
+          __cof-location/place/dystopian-city__|
+          __cof-location/place/futuristic-battlefield__|
+          __cof-location/place/cyberpunk-metropolis__|
+          __cof-location/place/spaceship-bridge__|
+          __cof-location/place/spaceship-engine-room__|
+          __cof-location/place/spaceship-crew-quarters__|
+          __cof-location/place/spaceship-observation-deck__
+          } {, at night|, at sunset|}

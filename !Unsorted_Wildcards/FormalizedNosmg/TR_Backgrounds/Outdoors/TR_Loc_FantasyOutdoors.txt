@@ -1,0 +1,10 @@
+in a swamp (hut:1.2), pier{, mushrooms|||}
+in a castle garden, outdoors{, {black|purple|red} roses|||}
+cobblestone, market stall, medieval
+in a temple
+near temple ruins
+on a brick road, grass
+outdoors, in front of a church
+in a garden
+on a cobblestone road, in a forest
+on a floating island

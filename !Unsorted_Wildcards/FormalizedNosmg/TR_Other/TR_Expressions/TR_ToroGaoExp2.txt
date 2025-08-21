@@ -1,0 +1,5 @@
+, blush, {half-closed eyes||}, {seductive gaze||}, {heavy breathing||}, {parted lips|seductive smile{, wavy mouth|}|biting lip|smile, wavy mouth}, {heart-shaped pupils|||||}, {embarrassed|}, {nervous|}
+, blush, {half-closed eyes||}, {heart-shaped pupils|||||}, {embarrassed|}, nervous smile
+, flirting, flirty, {heart-shaped pupils|||||}
+, blush, smile, tongue out, heavy breathing, drool, {heart-shaped pupils|||||}, {embarrassed|}, {nervous|}
+, grin, heavy breathing, half-closed eyes, seductive gaze, {blush|}

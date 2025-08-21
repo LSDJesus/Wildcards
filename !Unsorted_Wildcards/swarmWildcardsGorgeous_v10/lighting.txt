@@ -1,0 +1,7 @@
+golden hour lighting
+cinematic lighting
+darkness nighttime
+bright lighting
+studio lighting
+fluorescent lighting
+incandescent lighting

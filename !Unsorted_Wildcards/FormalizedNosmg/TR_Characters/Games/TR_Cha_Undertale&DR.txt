@@ -1,0 +1,5 @@
+source_furry, Toriel
+source_furry{, fit|, athletic|||}, Undyne
+source_furry, \(undertale\) Muffet
+source_furry{, fit|, athletic|||}{, hair over eyes|||}, \(deltarune\) Susie
+source_furry, anthro reindeer girl{, buck teeth|||}, \(deltarune\) (Noelle Holiday:1.1)

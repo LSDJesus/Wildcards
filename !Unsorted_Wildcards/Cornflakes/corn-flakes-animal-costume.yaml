@@ -1,0 +1,154 @@
+cf-animal:
+    # Prompt only a full animal costume for female
+    prompt-costume:
+        - >-
+            wearing __cf-animal/costume__
+    # Prompt animal costume for female with description and location
+    prompt-full:
+        - >-
+            (__cf-animal/beauty-adj__ young woman), __cf-model/ethnicity__, 
+            wearing __cf-animal/costume__,
+            set in __cf-animal/location/anything__ {, at night|, at sunset|}
+    beauty-adj:
+        - sexy
+        - angelic
+        - attractive
+        - bonnie
+        - desirable
+        - esthetic
+        - gorgeous
+        - lovely
+        - supermodel
+        - vivacious
+    costume:
+        - >-
+          Sleek black catsuit with attached tail, cat {ear headband|head hood}, black gloves, black boots
+        - >-
+          Plushy pink unicorn costume, {horn headband|unicorn head hood}, rainbow mane and tail, pink leggings, pink slippers
+        - Gray shark costume with fin on the back, shark head hood, gray leggings, gray sneakers
+        - >-
+          Fluffy white bunny costume, {floppy ears|bunny head hood}, bunny tail, white leggings, white slippers
+        - Green dinosaur jumpsuit with tail, dinosaur head hood, green leggings, green sneakers
+        - Yellow chicken costume with fuzzy wings, chicken head hood, yellow leggings, yellow slippers
+        - >-
+          Orange fox jumpsuit with bushy tail, fox {ear headband|head hood}, orange leggings, orange sneakers
+        - Blue dolphin costume with dorsal fin, dolphin head hood, blue leggings, blue sneakers
+        - >-
+          Red ladybug costume with spotted wings, ladybug {antennae headband|head hood}, red leggings, red slippers
+        - Purple dragon jumpsuit with wings, dragon head hood, purple leggings, purple sneakers
+        - >-
+          Brown bear costume, bear {ear headband|head hood}, bear paw mittens, brown leggings, brown boots
+        - >-
+          White polar bear costume, polar bear {ear headband|head hood}, polar bear paw mittens, white leggings, white boots
+        - Pink flamingo jumpsuit with wings, flamingo head hood, pink leggings, pink sneakers
+        - Black and white penguin costume with flipper sleeves, penguin head hood, black leggings, black slippers
+        - >-
+          Gray elephant costume with trunk, elephant {ear headband|head hood}, gray leggings, gray sneakers
+        - Green frog jumpsuit with webbed feet, frog head hood, green leggings, green sneakers
+        - Blue butterfly costume with wings, antennae headband, blue leggings, blue slippers
+        - Red lobster costume with claws, lobster head hood, red leggings, red sneakers
+        - >-
+          Yellow giraffe jumpsuit, giraffe {antennae headband|head hood}, giraffe tail, yellow leggings, yellow sneakers
+        - >-
+          Brown monkey costume with tail, monkey {ear headband|head hood}, brown leggings, brown boots
+        - >-
+          White wolf jumpsuit, wolf {ear headband|head hood}, wolf paw mittens, white leggings, white boots
+        - >-
+          Orange tiger costume, tiger {ear headband|head hood}, tiger paw mittens, orange leggings, orange boots
+        - Green turtle costume with shell, turtle head hood, green leggings, green sneakers
+        - >-
+          Pink pig costume with curly tail, pig {ear headband|head hood}, pink leggings, pink slippers
+        - Blue whale jumpsuit with fin, whale head hood, whale tail, blue leggings, blue sneakers
+        - >-
+          Gray mouse costume, mouse {ear headband|head hood}, mouse tail, gray leggings, gray slippers
+        - Red crab costume with pincers, crab head hood, red leggings, red sneakers
+        - Purple octopus jumpsuit with tentacles, octopus head hood, purple leggings, purple sneakers
+        - >-
+          Yellow lion costume with mane, lion {ear headband|head hood}, yellow leggings, yellow boots
+        - Brown owl costume with wings, owl head hood, brown leggings, brown boots
+        - >-
+          Pink elephant costume with trunk, elephant {ear headband|head hood}, pink leggings, pink sneakers
+        - Blue shark jumpsuit with fin, shark head hood, blue leggings, blue sneakers
+        - Green dragon costume with wings, dragon head hood, dragon tail, green leggings, green boots
+        - >-
+          Yellow bee costume with wings, bee {antennae headband|head hood}, yellow leggings, yellow sneakers
+        - >-
+          White snow leopard jumpsuit with tail, snow leopard {ear headband|head hood}, white leggings, white boots
+        - >-
+          Gray koala costume, koala {ear headband|head hood}, gray leggings, gray slippers
+        - Blue peacock costume with tail feathers, peacock head hood, blue leggings, blue slippers
+        - Yellow duck costume with wings, duck head hood, yellow leggings, yellow slippers
+        - Brown horse jumpsuit with mane, horse head hood, brown leggings, brown boots
+        - >-
+          White rabbit costume, {floppy ears headband|rabbit head hood}, rabbit tail, white leggings, white slippers
+    location:
+        anything:
+            - >-
+              {
+              __cf-animal/location/car__|
+              __cf-animal/location/bus__|
+              __cf-animal/location/train__|
+              __cf-animal/location/movie-theater__|
+              __cf-animal/location/street__|
+              __cf-animal/location/public-toilet__|
+              __cf-animal/location/home__|
+              __cf-animal/location/public-park__
+              }
+        car:
+            - Car Interior, Sleek dashboard with glowing controls, leather seats with contrasting stitching, dashboard-mounted GPS unit, scattered crumbs on the floor mats a faint scent of air freshener lingering in the air
+            - Family Car, Rearview mirror adorned with hanging trinkets, child's car seat in the back, colorful toys strewn across the seats, a half-empty juice box in the cup holder smudged fingerprints on the windows
+            - Road Trip Car, Packed with duffel bags and camping gear, road atlas unfolded on the passenger seat, fast-food wrappers crumpled on the floor, travel mugs wedged in the cup holders a sleeping bag rolled up in the trunk
+            - Luxury Car, Wood-grain accents on the console, premium leather seats with built-in massage function, champagne glasses tucked into the center console, soft ambient lighting a faint hum of the sound system playing classical music
+            - Vintage Car, Chrome details gleaming in the sunlight, cracked leather seats with patches, retro radio dial, fuzzy dice hanging from the rearview mirror the faint scent of engine oil mingling with worn upholstery
+        bus:
+            - Bus Interior, Dimly lit space with worn-out seats, scuffed flooring, dangling handrails, scattered trash faint scent of disinfectant
+            - Bus Driver's Area, Compact compartment with a cluttered dashboard, ticket machine, steering wheel, driver's log a collection of personal trinkets
+            - bus, Passenger Seating Area, Crowded section with commuters huddled together, smartphones in hand, newspapers folded on laps, headphones plugged in occasional nods of drowsiness
+            - bus, Overhead Storage, Cramped shelves packed with bulging bags, backpacks assorted parcels, some precariously balanced, threatening to tumble
+            - bus, Exit Door, Narrow passage with a release handle, emergency instructions plastered above, scuff marks from frequent use a fleeting glimpse of bustling streets beyond
+        train:
+            - train, Dining Car, Long tables with white tablecloths, elegant silverware, plush velvet chairs, polished wood paneling, soft candlelight flickering a waiter serving drinks
+            - train, Sleeper Compartment, Cozy bunk beds with crisp white linens, small reading lamps, personal storage compartments, soft curtains for privacy a faint scent of lavender in the air
+            - train, Observation Deck, Panoramic windows offering sweeping views of the landscape, comfortable lounge chairs, telescopes for stargazing, a small bar serving drinks soft instrumental music playing in the background
+            - train Lounge Area, Plush sofas arranged in a circle, a sleek bar with colorful cocktails, modern artwork adorning the walls, ambient lighting casting gentle shadows a faint hum of conversation
+            - train Restroom, Clean tiled floors, gleaming stainless steel fixtures, soft hand towels neatly folded, a discreet trash bin a subtle floral air freshener
+        movie-theater:
+            - Movie Theater Lobby, Dimly lit space with carpeted floors, concession stand filled with snacks, ticket booth with glowing signage, movie posters adorning the walls a popcorn machine emitting a buttery aroma
+            - movie Theater Entrance, Narrow corridor with red velvet curtains, soft carpet underfoot, movie posters lining the walls, low ambient lighting a faint scent of popcorn lingering in the air
+            - movie theater Auditorium, Large room with rows of plush, cushioned seats, aisle lights guiding the way, a massive screen at the front, surround sound speakers the soft rustle of audience members settling in
+            - movie theater, Projection Room, Compact space with humming projectors, shelves of film reels, control panels with blinking lights, a small window overlooking the auditorium the faint whirring of machinery
+            - movie theater, Concession Area, Bustling corner with a counter for orders, colorful menu boards overhead, a variety of drinks displayed in refrigerators, shelves stocked with candy and popcorn boxes the sound of sizzling hotdogs on a grill
+        street:
+            - City Street, Bustling thoroughfare lined with shops, pedestrians hurrying past, street vendors selling colorful wares, cars honking in traffic tall buildings looming overhead
+            - Alleyway, Narrow passage between buildings, dimly lit by flickering neon signs, garbage bins overflowing, graffiti covering the walls, stray cats prowling the scent of decay lingering in the air
+            - Park Avenue, Tree-lined street with benches along the sidewalk, children playing in a nearby playground, joggers and cyclists sharing the bike lane, birds chirping in the trees the distant sound of traffic
+            - Market Street, Lively market scene with stalls overflowing with fresh produce, vendors calling out their prices, shoppers haggling over goods, the aroma of spices and cooking food wafting through the air colorful banners fluttering overhead
+            - Industrial District, Gritty urban landscape with warehouses looming on either side, trucks loading and unloading goods, workers in hard hats bustling about, the clang of machinery echoing through the alleys graffiti-covered train cars passing by
+        home:
+            - Living Room, Inviting space with a plush sofa, coffee table cluttered with magazines, a cozy rug, floor-to-ceiling bookshelves filled with books a fireplace adorned with family photos
+            - Kitchen, Modern area with stainless steel appliances, granite countertops, a large wooden dining table surrounded by chairs, hanging pendant lights pots and pans hanging from a rack
+            - Bedroom, Serene retreat with a queen-sized bed adorned with fluffy pillows, a bedside table with a lamp, a dresser with a mirror, a cozy reading nook with a comfortable armchair a window overlooking the garden
+            - Bathroom, Clean, tiled room with a porcelain sink, a bathtub with a shower curtain, a toilet, fluffy towels neatly folded on a rack a small cabinet filled with toiletries
+            - Dining Room, Elegant space with a mahogany dining table set for six, upholstered dining chairs, a crystal chandelier hanging from the ceiling, a sideboard displaying fine china a large window with flowing curtains
+            - Study room, Productive corner with a large wooden desk cluttered with papers, a comfortable swivel chair, floor-to-ceiling bookshelves filled with reference books, a globe on a stand a framed inspirational quote on the wall
+            - Home Office room, Organized workspace with a sleek desk, ergonomic office chair, dual computer monitors, a corkboard displaying notes and reminders, a filing cabinet a small plant on the windowsill
+            - Laundry Room, Functional area with a washer and dryer, laundry baskets for sorting clothes, shelves stocked with detergent and fabric softener, a folding table a hanging rod for air-drying clothes
+        public-toilet:
+            - public Toilet, Clean, well-lit space with tiled floors, rows of stalls, sinks with mirrors above, hand dryers mounted on the wall, waste bin
+            - public Toilet, Simple, utilitarian design with linoleum flooring, stainless steel partitions between stalls, basic white porcelain toilets, wall-mounted soap dispensers, paper towel holders
+            - public Toilet, Modern, sleek design with motion-sensor lighting, floating sinks with sleek faucets, minimalist stalls with frosted glass doors, recessed toilet paper holders, sleek trash receptacle
+            - public Toilet, Functional, no-frills space with vinyl flooring, partitioned stalls with stainless steel doors, large industrial-grade hand dryers, wall-mounted soap dispensers, central waste bin
+            - public Toilet, Vintage charm, retro tile flooring, brass fixtures, wooden partitions between stalls, framed artwork on the walls, decorative vase with fresh flowers on the sink counter
+            - public Toilet, Hygienic, germ-resistant surfaces, touchless flushing toilets, automatic soap dispensers, sensor-operated faucets, disposable seat covers
+            - public Toilet, Industrial chic, exposed pipes, concrete floors, stainless steel sinks, Edison bulb lighting fixtures, graffiti-style artwork adorning the walls
+        public-park:
+            - public park, Picnic Area, Shaded spot with picnic tables, benches, trash bins, barbecue grills nearby trees providing a cool breeze
+            - public park, Playground, Colorful area with swings, slides, monkey bars, sandbox, benches for parents safety mats covering the ground
+            - public park, Fountain Plaza, Central space with a decorative fountain, benches encircling it, flower beds, decorative lighting paved pathways
+            - public park, Amphitheater, Open-air space with tiered seating, a stage, sound equipment, lighting fixtures greenery framing the area
+            - public park, Exercise Zone, Outdoor gym area with various workout equipment, stretching mats, water fountains, benches motivational signage
+            - public park, Dog Park, Fenced area with agility courses, water bowls, waste bag dispensers, benches for owners shaded spots for resting
+            - public park, Lake View Deck, Wooden deck overlooking a tranquil lake, equipped with benches, binoculars for birdwatching, fishing poles safety railings
+            - public park, Botanical Garden, Lush garden with labeled plant species, winding pathways, benches for contemplation, shaded pergolas decorative sculptures
+            - public park, Meditation Grove, Serene area with tall trees, stone benches, soft ground coverings, wind chimes subtle markers indicating meditation spots
+            - public park, Outdoor Theater, Secluded space with a stage, audience seating, projector screen, lighting rigs cozy blankets available for cooler evenings

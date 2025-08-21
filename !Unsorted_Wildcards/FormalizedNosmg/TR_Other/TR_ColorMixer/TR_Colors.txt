@@ -1,0 +1,14 @@
+black
+white
+blue
+aqua
+red
+green
+yellow
+orange
+purple
+pink
+brown
+silver
+gray
+beige

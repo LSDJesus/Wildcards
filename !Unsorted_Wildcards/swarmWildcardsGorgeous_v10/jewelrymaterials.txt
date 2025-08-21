@@ -1,0 +1,7 @@
+gold
+platinum
+silver
+copper
+bronze
+plastic
+rubber

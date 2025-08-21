@@ -1,0 +1,37 @@
+source_furry, \(the amazing world of gumball\) Nicole Watterson
+source_furry, anthro rat girl, \(final fantasy ix\) Freija Crescent
+source_furry, anthro rat girl, \(rescue rangers\) Gadget Hackwrench 
+source_furry, anthro fox girl, Lady Marian
+source_furry, anthro fox girl, Krystal
+source_furry, anthro fox girl, Carmelita Fox
+source_furry, anthro fox girl,{ eyebrow piercing,|} Diane Foxington
+source_furry, anthro hellhound girl, \(helluva boss\) Loona
+source_furry, anthro wolf girl{, black sclera|}, \(ookami\) Amaterasu
+source_furry, imp girl, \(twillight princess\) (Midna:1)
+source_furry, anthro rabbit girl, (Judy Hopps:0.9)
+source_furry, anthro gazelle girl, \(Zootopia\) Gazelle
+source_furry, anthro rabbit girl, Lola Bunny
+source_furry, Coco Bandicoot
+source_furry, Tawna Bandicoot
+source_furry, \(goof troop\) Peg Pete
+source_furry, \(goof troop\) Roxanne
+source_furry, blonde, glasses, tail, \(swat kats\) Callie Briggs
+source_furry, \(ratchet and clank\) Rivet
+source_furry, \(spyro\) Elora the Faun
+source_furry{,  metal skin, robot joints|}, Roxanne Wolf \(five nights at freddy's\)
+source_furry,{ (shortstack:0.6),|}{ egyptian,|||} Ankha
+source_furry,{ (shortstack:0.6),|} Isabelle
+source_furry, \(animal crossing\) Audie
+source_furry{, doll joints||}, \(hollow knight\) Hornet
+source_furry, anthro lioness girl \(the lion king\) (Nala:1.1)
+source_furry, anthro cat girl, black hair, brown fur, headband, (\(t.u.f.f. puppy\) Kitty Katswell:1.1) 
+source_furry, \(spyro\) Cynder
+source_furry, \(kung fu panda\) Master Tigress
+source_furry, anthro bunny girl, \(beastars\) Haru
+source_furry, anthro cat girl, black fur, (\(night in the woods\) Mae Borowski:0.{7|8})
+source_furry, anthro alligator girl{, sharp teeth||}, goth, (\(night in the woods\) Bea Santello:0.{8|9}) 
+source_furry, robot girl, \(fnaf\) Foxy
+source_furry, shortstack, \(sanrio\) (Fenneko:0.9)
+source_furry, purple hair, anthro skunk girl, \(tiny toon\) (Fifi La Fume:1.2)
+source_furry, anthro girl, red hair, \(parappa the rapper\) Lammy Lamb
+source_furry, slit pupils, fangs, scalie, {yellow|beige} scales, lamia, anthro snake woman, snek, snake hood, (\({x-com|xcom}\) Viper:1.1)

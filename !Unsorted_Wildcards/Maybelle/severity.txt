@@ -1,0 +1,5 @@
+(bondage, bdsm), bdsm_posture
+(bondage, bdsm:1.5), bondage_posture
+(bondage, bdsm:1.9)
+(bondage, bdsm), bdsm_posture,(restrained, shackles:1.4)
+

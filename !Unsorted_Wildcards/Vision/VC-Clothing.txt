@@ -1,0 +1,32 @@
+# Remove or Set a # in front of a line to Activate or Deactivate the Option
+# Simple add your Own Wildcards just in a new Line 
+#-----------------------------------------------------------------------------------------------
+__Vision/Clothing/Ballet-clothing-sets__
+__Vision/Clothing/Bodysuits__
+__Vision/Clothing/Business-outfit__
+__Vision/Clothing/Dance__
+__Vision/Clothing/Dress__
+__Vision/Clothing/Field-Hockey__
+__Vision/Clothing/Golf__
+__Vision/Clothing/Leggings-Outfit__
+__Vision/Clothing/Metal-Punk__
+__Vision/Clothing/Roller-Derby__
+__Vision/Clothing/Skirt&Dresses__
+__Vision/Clothing/Slightly__
+__Vision/Clothing/Slutty__
+__Vision/Clothing/Slutty2__
+__Vision/Clothing/Speedskating__
+__Vision/Clothing/Sport__
+__Vision/Clothing/Sport-1__
+__Vision/Clothing/Sport-2__
+__Vision/Clothing/Sport-3__
+__Vision/Clothing/SummerParty-Outfit__
+__Vision/Clothing/Swimwear__
+__Vision/Clothing/Table-Tennis__
+__Vision/Clothing/Tennis__
+__Vision/Clothing/Underwear-Sporty__
+__Vision/Clothing/Underweare__
+__Vision/Clothing/Underweare2__
+__Vision/Clothing/Urban Chic__
+__Vision/Clothing/inspired-by-metalmusic__
+__Vision/Clothing/inspired-by-Punkmusic__

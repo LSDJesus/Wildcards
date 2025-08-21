@@ -1,0 +1,13 @@
+black
+gray
+light gray
+beige
+dark green
+navy blue
+fuschia
+burgundy
+taupe
+white
+dark red
+dark orange
+indigo

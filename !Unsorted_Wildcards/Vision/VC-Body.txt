@@ -1,0 +1,9 @@
+# Remove or Set a # in front of a line to Activate or Deactivate the Option
+# Simple add your Own Wildcards just in a new Line 
+#__Vision/Female-Appearance/Body-Type__
+#__Vision/Female-Appearance/Skin-tone__
+#__Vision/Female-Appearance/Breasts-Size__
+#-----------------------------------------------------------------------------------------------
+(__Vision/Female-Appearance/Body-Type__:1.1) __Vision/Female-Appearance/Skin-tone__
+__Vision/Female-Appearance/Skin-tone__
+(__Vision/Female-Appearance/Body-Type__:1.1) __Vision/Female-Appearance/Skin-tone__,__Vision/Female-Appearance/Breasts-Size__

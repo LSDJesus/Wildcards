@@ -1,0 +1,6 @@
+teen girl bedroom, pastels, bed, <wildcard:movies>  sheets,  desk, games, magazines, posters
+teen girl bedroom, pastels, bed, <wildcard:characters>  sheets,  desk, games, magazines, posters
+teen girl bedroom, pastels, bed, <wildcard:videogames>  sheets,  desk, games, magazines, posters
+girls college dorm room, bed, <wildcard:movies> sheets, desk, laptop, earth tones, music posters, magazines, books
+girls college dorm room, bed, <wildcard:characters> sheets, desk, laptop, earth tones, music posters, magazines, books
+girls college dorm room, bed, <wildcard:videogames> sheets, desk, laptop, earth tones, music posters, magazines, books

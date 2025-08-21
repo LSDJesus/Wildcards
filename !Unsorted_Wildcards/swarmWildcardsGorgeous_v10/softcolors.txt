@@ -1,0 +1,13 @@
+light gray
+light pink
+light green
+light blue
+light yellow
+white
+pastel blue
+pastel pink
+pastel green
+pastel yellow
+pastel red
+light purple
+pastel purple

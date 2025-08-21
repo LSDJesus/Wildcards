@@ -1,0 +1,18 @@
+hoshii miki,idolmaster,blonde hair,green eyes
+takatsuki yayoi,idolmaster,orange hair,blue eyes
+miura azusa,idolmaster,blue hair,red eyes,{short hair|long hair}
+futami mami,idolmaster,brown hair,brown eyes
+futami ami,idolmaster,brown hair,brown eyes
+ibuki tsubasa,idolmaster million live!,blonde hair,red eyes
+shimabara elena,idolmaster million live!,green hair,blue eyes
+hakozaki serika,idolmaster million live!,grey hair,brown eyes
+nonohara akane,idolmaster million live!,brown hair,flipped hair,short hair,brown eyes
+mochizuki anna,idolmaster million live!,purple hair,aqua eyes
+kinoshita hinata,idolmaster million live!,brown hair,green eyes
+baba konomi,idolmaster million live!,brown hair,single braid,aqua eyes
+ogami tamaki,idolmaster million live!,orange hair,orange eyes
+toyokawa fuka,idolmaster million live!,blue hair,brown eyes
+miyao miya,idolmaster million live!,brown hair,brown eyes
+shinomiya karen,idolmaster million live!,blonde hair,blue eyes
+kitakami reika,idolmaster million live!,blue hair,brown eyes
+sakuramori kaori,idolmaster million live!,brown hair,green eyes

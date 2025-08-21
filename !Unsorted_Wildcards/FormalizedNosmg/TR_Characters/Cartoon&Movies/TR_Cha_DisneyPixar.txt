@@ -1,0 +1,17 @@
+{dark-skinned female, |}{low-tied long hair, |}{gold earrings, |}{gold necklace, |}{arabian, ||||}{tsurime, ||}\(aladdin\) (Jasmine:1.1)
+{red hair, |||}{blue eyes, |||}{(mermaid:1.1), fish tail, low rise, |||||}(\(the little mermaid\):0.3) (Ariel:1.2)
+fairy{, glowing|}, single hair bun, Tinker Bell
+{red hair, |||||}{{frizzy|curly} hair, |||||}{blue eyes, |||||}{Merida|(Merida:1.1)|(Merida:1.2)}
+(\(big hero 6\):0.{8|85|9}) (Cass Hamada:0.9)
+Gogo Tomago
+(Elsa:1.2)
+twin braids, Anna (\(frozen\):0.8)
+\(disney\), dark-skinned female, native american, black hair, long hair, brown eyes, red lips, (Pocahontas:1.1) 
+{short hair, brown hair, |absurdly long hair, }(Rapunzel:0.{7|8})
+dark-skinned female{, glasses,|} \(encanto\) (Mirabel:1.{1|2}) Madrigal
+dark-skinned female, curly hair, long hair, (Moana Waialiki:0.9)
+Helen Parr
+Violet Parr
+\(road to el dorado\) Chel
+mature woman, (\(owl house\):0.9) Edalyn Clawthorne
+source_cartoon \(disney\) Snow White

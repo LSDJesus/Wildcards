@@ -1,0 +1,3 @@
+, __tr_colors__{ short| long||} dress{{, goth dress|, formal dress|, side slit|, petticoat|, corset|, halter top dress|, shoulderless dress}||||}{, __TR_CasualAccessories__||||}
+, __tr_colors__ __TR_CasualCloTop__, {leather|denim} jacket, __tr_colors__ __TR_CasualCloBott__{, __tr_colors__ sneakers|, boots|, combat boots|, high heels|||||}}{, __TR_CasualAccessories__||}
+, __tr_colors__ __TR_CasualCloTop__, __tr_colors__ __TR_CasualCloBott__{, __tr_colors__ sneakers|, boots|, combat boots|, high heels|||||}}{, __TR_CasualAccessories__||}

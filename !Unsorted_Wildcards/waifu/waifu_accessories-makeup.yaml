@@ -1,0 +1,98 @@
+# waifu_accessories-makeup.yaml
+#Dynamic Waifu Wildcards -- This file contains the waifu poses wildcards.
+#Author: Dark Infinity (https://civitai.com/user/Dark_infinity)
+#Download from: https://civitai.com/models/602677
+#Requires Dynamic Prompts (https://github.com/adieyal/sd-dynamic-prompts)
+#Made to work best with Deep Dark Hentai Mix version 6.1 and higher (https://civitai.com/models/221751/deep-dark-hentai-mix-nsfw-anime)
+
+#for standard use, use wildcards __waifu/jewelry__, __waifu/makeup__.
+
+jewelry:
+- "{0-5$$
+    2::__waifu/jewelry-items/ring__
+    |2::__waifu/jewelry-items/bracelet__
+    |2::__waifu/jewelry-items/earrings__
+    |2::__waifu/jewelry-items/necklace__
+    |2::__waifu/jewelry-items/misc__
+  }"
+
+#arrays can have additional items to increased variety
+jewelry-items:
+  ring:
+    - ring
+    - wedding ring
+    - multiple rings
+    - thumb ring
+  bracelet:
+    - bracelet
+    - anklet
+    - armlet
+    - bangle
+  earrings:
+    - earrings
+    - hoop earrings
+    - stud earrings
+    - earclip earrings
+  necklace:
+    - necklace
+    - flower necklace
+    - pearl necklace
+    - pendant necklace
+    - pentacle necklace #turns things demonic
+  misc:
+    - nose piercing
+    - eyebrow piercing
+    - lip piercing
+    - thighlet
+    - anklet
+
+makeup: #this includes lipstick and nail-polish choices and can be used instead of prompting for those.
+- "{0-5$$
+    2::eyeliner
+    |2::eyeshadow
+    |2::eyelashes
+    |2::lipstick, __waifu/lipstick__
+    |2::nail polish, __waifu/nail-polish__
+  }"
+
+nail-polish:
+- "{
+    5::__waifu/nail-color__|
+    1::__waifu/nail-color__, __waifu/nail-description__
+  }"
+
+nail-color:
+  - pink nails
+  - red nails
+  - black nails
+  - white nails
+  - blue nails
+  - purple nails
+  - grey nails
+  - brown nails
+  - green nails
+  - aqua nails
+  - yellow nails
+  - orange nails
+  - multicolored nails
+
+nail-description:
+  - very long fingernails
+  - long fingernails
+  - sharp fingernails
+  - fake nails
+  
+lipstick:
+- "{
+    8::red lips
+    |6::pink lips
+    |2::aqua lips
+    |1::black lips
+    |1::blue lips
+    |1::grey lips
+    |1::green lips
+    |1::orange lips
+    |2::purple lips
+    |2::shiny lips
+    |1::yellow lips
+  }"

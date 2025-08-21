@@ -1,0 +1,36 @@
+honda mio,idolmaster cinderella girls,brown hair,yellow eyes
+jougasaki rika,idolmaster cinderella girls,blonde hair,green eyes
+moroboshi kirari,idolmaster cinderella girls,orange hair,brown eyes
+jougasaki mika,idolmaster cinderella girls,pink hair,yellow eyes
+totoki airi,idolmaster cinderella girls,brown hair,brown eyes
+hino akane \(idolmaster\),idolmaster cinderella girls,brown hair,green eyes
+akagi miria,idolmaster cinderella girls,black hair,brown eyes
+takamori aiko,idolmaster cinderella girls,brown hair,brown eyes
+hoshi syoko,idolmaster cinderella girls,grey hair,grey eyes
+hori yuko,idolmaster cinderella girls,brown hair,red eyes
+himekawa yuki,idolmaster cinderella girls,brown hair,green eyes
+ichihara nina,idolmaster cinderella girls,orange hair,yellow eyes
+katagiri sanae,idolmaster cinderella girls,brown hair,brown eyes
+ohtsuki yui,idolmaster cinderella girls,blonde hair,blue eyes
+aiba yumi,idolmaster cinderella girls,brown hair,brown eyes
+yorita yoshino,idolmaster cinderella girls,brown hair,brown eyes
+murakami tomoe,idolmaster cinderella girls,red hair,short hair,brown eyes
+sato shin,idolmaster cinderella girls,light brown hair,green eyes
+yumemi riamu,idolmaster cinderella girls,pink hair,two-tone hair,pink eyes
+hisakawa nagi,idolmaster cinderella girls,grey hair,grey eyes
+natalia \(idolmaster\),idolmaster cinderella girls,green hair,purple eyes
+nanjo hikaru,idolmaster cinderella girls,green hair,aqua eyes
+eve santaclaus,idolmaster cinderella girls,silver hair,yellow eyes
+mukai takumi,idolmaster cinderella girls,black hair,brown eyes
+kimura natsuki,idolmaster cinderella girls,brown hair,brown eyes
+ryuzaki kaoru,idolmaster cinderella girls,orange hair,yellow eyes
+oikawa shizuku,idolmaster cinderella girls,black hair,brown eyes
+hamaguchi ayame,idolmaster cinderella girls,black hair,green eyes
+kitami yuzu,idolmaster cinderella girls,brown hair,brown eyes
+kita hinako,idolmaster cinderella girls,light brown hair,brown eyes
+matoba risa,idolmaster cinderella girls,black hair,yellow eyes
+koseki reina,idolmaster cinderella girls,brown hair,purple eyes
+zaizen tokiko,idolmaster cinderella girls,brown hair,brown eyes,(tsurime,glaring,half-closed eyes:0.5),(mature female:0.5)
+wakabayashi tomoka,idolmaster cinderella girls,brown hair,high ponytail,(short bangs:0.7),large ponytail,brown eyes
+ebihara naho,idolmaster cinderella girls,black hair,high ponytail,short ponytail,wavy ponytail,green eyes
+mary cochran,idolmaster cinderella girls,blonde hair,twintails,green eyes

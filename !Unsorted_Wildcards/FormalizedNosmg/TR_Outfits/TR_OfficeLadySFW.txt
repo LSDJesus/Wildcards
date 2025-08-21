@@ -1,0 +1,2 @@
+{, office lady|, secretary}{, business suit|, vest||}, shirt{, glasses||}{, cleavage||}{, pantyhose|}, pencil skirt{, nametag|, tie||}{, high heels||||}{, makeup||}, rating_safe
+, business woman, tie, suit{, (pencil skirt:0.8)|, pants}{, stiletto heels|||}{, (red lipstick:0.7)|}{, pantyhose|}

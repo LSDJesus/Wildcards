@@ -1,0 +1,14 @@
+pants{, thong|, open fly|, highleg|, belt, female pubic hair}
+denim pants{, thong|, open fly|, highleg|, belt, female pubic hair}
+ripped denim pants{, thong|, open fly|, highleg|, belt, female pubic hair}
+leather pants{, thong|, highleg|, belt, female pubic hair}
+(yoga:0.8) pants, cameltoe
+micro shorts{, thong|, open fly|, belt, female pubic hair}
+denim shorts{, thighhighs|, open fly|, pantyhose|, fishnets|||}
+dolphin shorts{, female pubic hair|, cameltoe}
+micro skirt{, thong|}{, thighhighs|, pantyhose|, fishnets|||}
+mini skirt{, thong|}{, thighhighs|, pantyhose|, fishnets|||}
+frilled skirt, miniskirt{, thighhighs|, pantyhose|, fishnets|||}
+pleated skirt, miniskirt{, thighhighs|, pantyhose|, fishnets|||}
+mini petticoat{, thighhighs|, pantyhose|, fishnets|||}
+bikini bottom

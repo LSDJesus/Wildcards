@@ -1,0 +1,22 @@
+trap, Kagamine Len
+{braids, |}, trap, (Cloud Strife:0.9)
+trap, Link
+(trap:1.1), blue hair, short hair, \(fire emblem\) Marth
+trap, Bridget
+trap, Astolfo
+short hair, pink hair, flat chest, trap, (big eyes:1.1), (wide eyed:0.7){, smile|, happy|}, \(komi-san wa komyushou desu\) (Osana Najimi:1.3)
+trap, long ponytail, dark skin, \(star vs the forces of\) (Marco Diaz:1.{1|2})
+trap, \(splatoon\) Shiver
+trap, (\(genshin impact\):0.8) Venti
+trap, \(Kancolle\) Shimakaze
+trap, Lio Fotia
+trap, \(cult of the lamb\) The Lamb 
+(trap:1.1), Midoriya Izuku
+trap, \(re:zero kara hajimeru\) catboy, brown hair, yellow eyes, (Felix Argyle:1.2)
+trap, long hair, blue hair, \(slime datta ken\) Rimuru Tempest
+trap, black hair, glasses, \(persona 5\) Amamiya Ren
+trap, blue hair, short hair, gray eyes \(persona 3\) Yuuki Makoto
+trap, {blonde, black catsuit, cat ears, chat noir|||}  (\(ladybug\):0.7) (Adrien Agreste:1.1)
+source_furry, trap, \(god form\) Asriel Dreemurr
+trap, \(HunterXHunter\) Neferpitou
+trap, Oyama Mahiro

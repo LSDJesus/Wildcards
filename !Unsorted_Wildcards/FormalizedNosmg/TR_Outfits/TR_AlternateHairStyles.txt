@@ -1,0 +1,11 @@
+, ponytail
+{, side |, high |, low }ponytail
+, folded ponytail
+, long hair
+, short hair
+, medium hair
+, side shave
+, twintails
+, hair bun
+, colored tips
+, braided hair

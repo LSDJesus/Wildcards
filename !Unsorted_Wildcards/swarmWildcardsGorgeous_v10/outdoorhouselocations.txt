@@ -1,0 +1,5 @@
+kids lemonade stand, plastic folding table, stool, plastic cups, (colorful sign written in crayon),<random:lawn trees, cacti desert,forest,beach><random:winter,fall,summer,spring>, sidewalk, street, cars, suburban front yard, pitcher 
+kids pool party, suburban backyard, wet, beach balls, plastic kiddie slide, kiddie pool,  toys, deck chairs <random:lawn trees, cacti desert,forest,beach> <random:winter,fall,summer,spring>
+modern luxurious backyard, manicured lawn, <random:stone,ipe,mahogany> deck , luxury lounge chairs, tables, <random:metal,teak> furniture, privet <random:winter,fall,summer,spring>
+suburban front door, step, <random:door open,door closed>, windows, <random:awning,x> , lawn, walkway, <random:colonial,modern,victorian,cape cod,townhome,federal,farmhouse,tudor> <random:winter,fall,summer,spring>
+suburban backyard, <random:colonial,modern,victorian,cape cod,townhome,federal,farmhouse,tudor> <random:trampoline,swing set,tree house,playset,bounce house>, grass, trees, <random:winter,fall,summer,spring>

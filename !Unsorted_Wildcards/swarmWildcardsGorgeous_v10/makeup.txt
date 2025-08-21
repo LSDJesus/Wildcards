@@ -1,0 +1,4 @@
+blush
+mascara
+<wildcard:eyeshadowcolors> eyeshadow
+ <wildcard:lipstickcolors> lipstick

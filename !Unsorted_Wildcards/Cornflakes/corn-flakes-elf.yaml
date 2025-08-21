@@ -1,0 +1,270 @@
+cf-elf:
+    # Prompt only an elf appearance
+    prompt-costume:
+        - >-
+            elf wearing a __cf-elf/color__ {__cf-elf/top__, __cf-elf/bottom__|__cf-elf/dress__ {, __cf-elf/stockings__|}}, __cf-elf/shoes__, {1-2$$__cf-elf/jewelry__}, __cf-elf/makeup__, {1-2$$__cf-elf/accessory__}
+    # Prompt elf appearance with girl and location
+    prompt-full:
+        - >-
+            (__cf-elf/beauty-adj__ elf) young female, __cf-model/build/*__ build, __cf-elf/ethnicity__, __cf-elf/hairstyle__ hair,
+            wearing a __cf-elf/color__ {__cf-elf/top__, __cf-elf/bottom__|__cf-elf/dress__  {, __cf-elf/stockings__|}}, __cf-elf/shoes__, {1-2$$__cf-elf/jewelry__}, __cf-elf/makeup__, {1-2$$__cf-elf/accessory__},
+            set in __cf-elf/location/anything__{, in the moonlight|, during a sunset|}
+    beauty-adj:
+        - ethereal
+        - enchanting
+        - graceful
+        - elegant
+        - mystical
+        - celestial
+        - radiant
+        - delicate
+        - otherworldly
+        - exquisite
+    color:
+        - emerald green
+        - sage
+        - soft lavender
+        - silver
+        - gold
+        - midnight blue
+        - ruby red
+        - pearl white
+        - pastel pink
+        - soft purple
+    hairstyle:
+        - long flowing
+        - intricate braids
+        - loose curls
+        - wavy
+        - sleek straight
+        - half-up half-down
+        - braided crown
+        - cascading waves
+    accessory:
+        - >-
+          {silver circlet with gem|floral crown|crystal tiara}
+        - >-
+          {elven cloak|ethereal cape}
+        - >-
+          {delicate vines woven in hair|feathered hairpin}
+        - >-
+          {embroidered sash|jeweled belt}
+        - leaf-shaped brooch
+        - intricate armband
+        - carrying a glowing firefly lantern
+    jewelry:
+        - delicate silver earrings
+        - gemstone pendant necklace
+        - intricate arm cuff
+        - leaf-shaped ring
+        - pearl anklet
+        - vine-wrapped bracelet
+        - moonstone ring
+        - elven ear cuffs
+    makeup:
+        - shimmering eyeshadow
+        - natural blush
+        - glowing highlighter
+        - subtle lip tint
+        - silver eyeliner
+        - gold dust freckles
+        - glittering body paint
+    top:
+        - flowing silk blouse
+        - lace-up bodice
+        - velvet vest
+        - satin chemise
+        - >-
+          {flowing|delicate|elegant|embroided|long-sleeve} tunic
+        - >-
+          {silk|velvet|lace|gossamer} blouse {with intricate embroidery|}
+        - >-
+          {fitted|loose} elven robe {with {silver|gold} accents|}
+        - >-
+          {leather|chainmail|jeweled} corset {with embossed designs|}
+        - >-
+          {sheer|opaque|off-shoulder|delicate lace} top {with ethereal patterns|}
+    bottom:
+        - >-
+          {flowing|tapered|velvet} elven trousers
+        - >-
+          {layered|pleated|flowing|layered chiffon} skirt {with {floral|geometric} patterns|} {, __cf-elf/stockings__|}
+        - >-
+          {fitted|flowing|embroidered|leather} leggings {with vine motifs|}
+        - >-
+          {silk|velvet|satin wrap|tulle} skirt {with {silver|gold} trim|} {, __cf-elf/stockings__|}
+        - >-
+          {leather|woven|brocade|lace-trimmed} pants {with intricate stitching|}
+    dress:
+        - >-
+          {flowing|tapered|velvet} elven dress
+        - >-
+          {layered|pleated|flowing|layered chiffon} elven gown {with {floral|geometric} patterns|}
+        - >-
+          {fitted|flowing|embroidered|leather} elven robe {with vine motifs|}
+        - >-
+          {silk|velvet|satin wrap|tulle} elven dress {with {silver|gold} trim|}
+        - >-
+          {leather|woven|brocade|lace-trimmed} elven gown {with intricate stitching|}
+        - >-
+          {sheer|draped|structured|ornate} elven dress {with {embroidery|beadwork|sequins|}
+        - >-
+          {layered|scalloped|fringed|asymmetric} elven dress {with {lace|ribbon|embroidery|beads|}
+        - >-
+          {gossamer|tulle|organza|chiffon} elven gown {with {delicate|intricate} detailing|}
+        - >-
+          {embellished|corseted|ruched|gathered} elven dress {with {beaded|jeweled|embroidered} bodice|}
+        - >-
+          {fitted|a-line|mermaid|ball gown} elven dress {with {corset|cinched waist|flowing train|}
+        - >-
+          {vintage|modern|ethereal|classic} elven gown {with {lace|pearl|ribbon|jeweled} accents|}
+        - >-
+          {off-shoulder|halter-neck|long-sleeve|strapless} elven dress {with {intricate|delicate|ornate} design|}
+        - >-
+          {empire|princess|fit and flare|tea-length} elven dress {with {lace|embroidered|beaded} overlay|}
+        - >-
+          {high-low|asymmetrical|tiered|wrap} elven gown {with {delicate|ornate|intricate} hemline|}
+        - >-
+          {backless|open-back|keyhole|illusion-back} elven dress {with {beaded|embroidered|lace} details|}
+        - >-
+          {v-neck|sweetheart|boat neck|square neck} elven gown {with {delicate|ornate|intricate} neckline|}
+        - >-
+          {lace-up|buttoned|zippered|hook and eye} elven dress {with {beaded|embroidered|jeweled} closures|}
+        - >-
+          {fitted|flowing|a-line|ball gown} elven dress {with {layered|flowing|draped} skirts|}
+        - >-
+          {simple|elegant|regal|ornate} elven gown {with {beaded|embroidered|jeweled} sleeves|}
+        - >-
+          {airy|structured|delicate|luxurious} elven dress {with {floral|geometric|abstract} motifs|}
+    stockings:
+        - >-
+          {silk|velvet|embroidered} elven stockings {with intricate lace trim|}
+        - >-
+          {woven|lace-trimmed|brocade} elven stockings {with delicate patterns|}
+        - >-
+          {sheer|patterned|delicately woven} elven stockings {with floral embroidery|}
+        - >-
+          {fitted|silk|velvet} elven stockings {with leaf motifs|}
+        - >-
+          {embroidered|lace|woven} elven stockings {with elegant designs|}
+    shoes:
+        - delicate slippers
+        - leaf-embroidered flats
+        - crystal adorned heels
+        - >-
+          {knee-high|velvet ankle|elven} boots {with {leaf|vine} patterns|}
+        - >-
+          {delicate|sturdy|lace-up|jeweled} sandals {with {silver|gold} laces|}
+        - >-
+          {soft|hardened} leather shoes {with {elaborate|simple} designs|}
+        - >-
+          {slipper-like|heeled} elven footwear
+        - >-
+          {embroidered|beaded|soft leather|satin ballet} shoes {with {ethereal|mystical} motifs|}
+    ethnicity:
+        - ethereal elven beauty, pale skin, piercing blue eyes
+        - woodland elf, tan skin, green eyes
+        - high elf, fair skin, golden eyes
+        - dark elf, dusky skin, violet eyes
+        - moon elf, light blue skin, silver eyes
+        - sun elf, warm golden skin, amber eyes
+        - forest elf, tan skin, hazel eyes
+        - sea elf, pale green skin, blue-green eyes
+    location:
+        anything:
+            - >-
+              {
+              __cf-elf/location/garden__|
+              __cf-elf/location/castle__|
+              __cf-elf/location/river__|
+              __cf-elf/location/forest__|
+              __cf-elf/location/meadow__|
+              __cf-elf/location/ancient-castle__|
+              __cf-elf/location/enchanted-forest__|
+              __cf-elf/location/faerie-glade__|
+              __cf-elf/location/medieval-town__|
+              __cf-elf/location/ancient-cemetery__|
+              __cf-elf/location/primeval-forest__|
+              __cf-elf/location/elf-village__|
+              __cf-elf/location/elf-home__
+              }
+        garden:
+            - an elven garden, filled with exotic plants and flowers that bloom in every color of the rainbow, arranged in intricate patterns and tended with the utmost care
+            - a moonlit garden, where the flowers glow softly in the light of the moon and the air is filled with the scent of night-blooming jasmine and honeysuckle
+            - a secret garden, hidden away behind ancient stone walls and accessible only through a hidden gate, filled with rare and magical plants that thrive in the secluded sanctuary
+            - an overgrown garden, where nature has taken over and the plants grow wild and free, creating a lush and verdant paradise that feels untouched by human hands
+            - a water garden, where streams and ponds are filled with water lilies and koi fish, and the sound of trickling water creates a soothing and tranquil atmosphere
+        castle:
+            - an ancient elven castle, with tall, slender towers and walls covered in ivy, filled with secret passages and rooms that hold countless mysteries
+            - a majestic elven palace, where every room is adorned with beautiful tapestries, elegant furniture, and glowing crystals that light up the space with a soft, ethereal glow
+            - a hidden castle, nestled deep within a forest and almost invisible from the outside, blending seamlessly with the natural landscape and filled with magical wards and protections
+            - a ruined castle, where the stones are weathered and crumbling but still hold a sense of grandeur and history, with nature slowly reclaiming the structure
+            - a floating castle, suspended in the air by powerful magic and surrounded by clouds, with breathtaking views of the landscape below
+        river:
+            - a tranquil river, with clear, sparkling water that flows gently through the forest, bordered by lush greenery and dotted with smooth stones and pebbles
+            - a mystical river, where the water glows with a soft, inner light and strange, beautiful creatures can be seen swimming just beneath the surface
+            - a rushing river, with powerful currents that carve through the landscape, creating waterfalls and rapids that fill the air with the sound of roaring water
+            - a hidden river, winding its way through a secluded valley and accessible only through a narrow, winding path that leads to a place of peace and solitude
+            - an enchanted river, where the water has magical properties and can heal wounds, grant visions, or even transport those who drink it to other realms
+        forest:
+            - an ancient forest, with towering trees and dappled sunlight filtering through the canopy, creating a magical atmosphere filled with the sounds of rustling leaves and distant waterfalls
+            - a mystical forest, where the trees are draped with glowing moss and bioluminescent fungi light up the undergrowth, casting an ethereal glow on everything around
+            - an enchanted woodland, filled with trees that seem to whisper secrets and paths that twist and turn in unexpected ways, leading to hidden clearings and mystical groves
+            - a serene forest glade, where wildflowers bloom in abundance and the air is filled with the gentle hum of bees and the songs of birds, creating a peaceful retreat from the world
+            - a shadowy forest, where the light struggles to penetrate through the thick canopy, creating an eerie yet enchanting environment where shadows dance and secrets are kept
+        meadow:
+            - a sunlit meadow, filled with wildflowers that sway gently in the breeze and the sound of insects buzzing and birds singing in the warm sunlight
+            - a mystical meadow, where the grass is dotted with glowing mushrooms and the air is filled with the scent of blooming flowers and the sound of distant, haunting melodies
+            - a hidden meadow, surrounded by trees and accessible only through a secret path, creating a perfect, private retreat from the world
+            - a starlit meadow, where the flowers seem to glow under the light of the stars and the air is cool and refreshing, filled with the scent of night-blooming flowers
+            - a magical meadow, where the flowers and plants have special properties and can be used for healing, magic, or other purposes, creating a place of wonder and discovery
+        ancient-castle:
+            - ancient castle Great Hall, Majestic room with towering stone walls, a grand chandelier hanging from the ceiling, long wooden banquet tables adorned with fine silverware and goblets, tapestries depicting ancient battles, a roaring fireplace
+            - ancient castle Library, Dimly lit chamber with shelves stretching from floor to ceiling, leather-bound books neatly arranged, reading nooks with plush armchairs and small tables, a mahogany study desk with a quill and parchment, a rolling ladder for accessing high shelves
+            - ancient castle Bedroom Chamber, Opulent room with a four-poster canopy bed draped in rich fabrics, intricately carved wooden furniture, a vanity table adorned with silver mirrors and jewel-encrusted brushes, velvet curtains framing tall windows, a crackling hearth
+            - ancient castle Dining Hall, Regal space with a long dining table set with fine china and crystal glassware, ornate candelabras casting flickering light, high-backed chairs upholstered in velvet, a sideboard displaying decadent desserts, a stained glass window depicting a royal crest
+            - ancient castle Armory, Sturdy chamber lined with racks of gleaming weapons, suits of armor standing sentinel, a workbench cluttered with tools and metal scraps, banners hanging from the walls displaying heraldic symbols, a training area with straw dummies and wooden targets
+        enchanted-forest:
+            - Enchanted Grove, Moonlit clearing surrounded by towering ancient trees, thick undergrowth of ferns and moss, fireflies dancing in the air, a gentle breeze rustling through the leaves
+            - Shadowed Thicket, Dense forest canopy blocking out most sunlight, gnarled roots protruding from the forest floor, tangled vines twisting around tree trunks, eerie sounds echoing through the darkness
+            - Twilight Glade, Soft twilight filtering through the canopy, carpet of fallen leaves covering the ground, delicate wildflowers blooming along the edges, the distant hoot of an owl breaking the stillness
+            - Whispering Woods, Misty atmosphere enveloping the forest floor, slender birch trees swaying in the breeze, patches of lichen clinging to rocks and branches, the faint murmur of unseen creatures moving through the underbrush
+            - Midnight Copse, Starlit sky barely visible through dense foliage, gnarled branches intertwining overhead, thick patches of brambles blocking paths, the occasional gleam of moonlight illuminating tangled roots
+        faerie-glade:
+            - Faerie Glade, Enchanted clearing with sparkling dew-covered grass, a whimsical mushroom table surrounded by toadstool chairs, a delicate crystal chandelier hanging from a tree branch, colorful flowers in full bloom, a babbling brook nearby
+            - Pixie Parlor, Tiny alcove hidden behind a waterfall curtain, with a dainty tea set atop a petal-shaped table, embroidered silk cushions scattered around, twinkling firefly lanterns hanging from vines, a cozy nest woven into a tree for lounging
+            - Elven Bower, Mystical glade adorned with intricate ivy-woven furniture, a grand tree stump table surrounded by ethereal leaf chairs, a delicate fairy lamp hanging from a branch, shimmering fireflies dancing in the air, a gentle breeze carrying the scent of wildflowers
+            - Pixie Resting Place, Quaint wooden gazebo nestled among tall trees, plush moss-covered cushions scattered around a low tea table, tiny lanterns hanging from branches, a hammock swaying gently in the breeze, the soft hum of buzzing bees nearby
+            - Sprite Sanctuary, Hidden dell with a rustic wooden bench carved from a fallen log, a sparkling crystal fountain bubbling in the center, delicate butterfly chairs scattered around, luminescent glowworms lighting the path, a secret door leading to unseen wonders
+        medieval-town:
+            - medieval Cobbled Street, Narrow pathway lined with quaint, timber-framed buildings, hanging flower baskets adorning windowsills, ivy crawling up stone walls, wooden barrels overflowing with vibrant flowers, a stray cat lounging under a shady archway
+            - medieval Market Square, Bustling plaza with colorful awnings shading market stalls, crates of fresh produce piled high, merchants haggling with customers, a fountain surrounded by benches, a vendor selling potted herbs and spices
+            - medieval Alleyway, Shadowy passage flanked by tall buildings, cobwebs clinging to old lanterns, a wooden cart stacked with hay, a cluster of wildflowers peeking through cracks in the cobblestones, the scent of baked goods wafting from a nearby bakery
+            - medieval Tavern Entrance, Weathered door leading into a lively tavern, hanging lanterns illuminating the doorway, a wooden sign creaking in the breeze, a row of barrels serving as makeshift tables, a creeping vine winding its way around the doorframe
+            - medieval Town Square, Open space bustling with activity, children playing tag on the grass, a well with a bucket dangling from a rope, benches shaded by leafy trees, a patch of herbs growing near the edge, a wooden stage set up for performances
+        ancient-cemetery:
+            - Ancient Cemetery Entrance, Weathered stone pillars flank a wrought iron gate, ivy clinging to its bars, a winding path disappearing into the overgrown foliage, the distant sound of crows cawing
+            - ancient cemetery Mausoleum, Shadowy chamber with crumbling stone walls adorned with cobwebs, marble sarcophagi standing sentinel, flickering candlelight casting eerie shadows, a musty scent of decay lingering in the air
+            - ancient cemetery, Forgotten Gravesite, Moss-covered tombstones tilted at odd angles, wildflowers peeking through the tangled grass, a rusted wrought iron bench overgrown with vines, the distant hoot of an owl echoing through the silent air
+            - ancient cemetery, Memorial Garden, Serene sanctuary with neatly trimmed hedges bordering a central fountain, statues of angels standing vigil, a mosaic pathway winding through lush greenery, the gentle rustle of leaves in the breeze
+            - ancient cemetery, Crypt Corridor, Narrow passage lined with stone alcoves housing ancient coffins, flickering torches casting dancing shadows on the damp walls, intricate carvings depicting scenes of death and rebirth, the faint echo of whispered prayers from centuries past
+            - ancient cemetery, Gravesite Cluster, Cluster of moss-covered headstones nestled among gnarled trees, worn stone benches scattered around, wildflowers blooming between graves, a quiet, solemn atmosphere enveloping the area
+            - Necropolis Overlook, Elevated plateau offering panoramic views of ancient tombs below, weather-worn stone pillars marking the skyline, a solitary stone altar draped in moss, winding ivy-covered staircases descending into the abyss
+        primeval-forest:
+            - Ancient Grove, Dense canopy overhead, towering trees with gnarled roots, thick underbrush, shafts of sunlight filtering through the foliage, ferns carpeting the forest floor
+            - Mossy Glade, Sun-dappled clearing, moss-covered rocks, wildflowers blooming in patches, a babbling brook nearby, the sound of birdsong filling the air
+            - Enchanted Thicket, Twisted vines hanging from branches, tangled shrubs with vibrant berries, mushrooms of various shapes and colors dotting the ground, the occasional glimpse of elusive woodland creatures
+            - Whispering Woods, Tall, slender trees swaying gently in the breeze, lichen-covered bark, a carpet of fallen leaves underfoot, the rustling of leaves creating a soothing melody, patches of wild herbs releasing their earthy scent
+            - Ancient Fern Forest, Towering ferns reaching for the sky, ancient tree trunks covered in moss and lichen, shafts of golden sunlight piercing through the foliage, the distant call of unseen creatures echoing through the forest
+        elf-village:
+            - elf village, Town Square, Bustling hub with cobblestone pathways, quaint market stalls adorned with colorful fabrics and trinkets, lively chatter filling the air, a central fountain surrounded by benches, hanging lanterns casting a warm glow
+            - elf village, Arboreal Homes, Canopy dwellings nestled among ancient trees, wooden bridges connecting the platforms, glowing lanterns illuminating the pathways, intricate carvings decorating the doorways, the gentle rustle of leaves in the breeze
+            - elf village, Enchanted Grove, Serene clearing with lush foliage, shimmering fairy lights weaving through the branches, delicate flowers blooming in vibrant hues, a mystical aura lingering in the air, a small crystal-clear stream meandering through the center
+            - elf village, Celestial Library, Towering shelves lined with ancient tomes, celestial maps adorning the walls, soft starlight filtering through stained glass windows, cozy reading nooks with plush cushions, a tranquil ambiance perfect for contemplation
+            - elf village, Artisan Quarter, Quaint workshops with wooden beams and clay-tiled roofs, the rhythmic sound of crafting tools echoing in the streets, colorful murals decorating the walls, intricate mosaics underfoot, the sweet scent of freshly baked pastries wafting from nearby bakeries
+        elf-home:
+            - Elfic Living Room, Cosy space with a crackling fireplace, intricately carved wooden furniture, plush cushions adorned with intricate embroidery, delicate elven artwork adorning the walls, a soft rug made of natural fibers
+            - Elfic Kitchen, Warm and inviting atmosphere with a rustic wooden dining table, hanging pots and pans suspended from the ceiling, a stone hearth for cooking, fragrant herbs hanging from the walls, polished copper cookware gleaming on shelves
+            - Elfic Bedroom, Serene sanctuary with a canopy bed draped in flowing silks, moonlight filtering through sheer curtains, a vanity adorned with crystal bottles of perfumes and oils, intricately woven tapestries depicting scenes from elven folklore, a soft, feather-filled mattress atop a carved wooden bed frame
+            - Elfic Study, Tranquil retreat with a large oak desk strewn with parchment scrolls and quills, shelves filled with ancient tomes and scrolls, a globe depicting the lands of the elves, soft candlelight casting a warm glow, a comfortable reading nook nestled in the corner
+            - Elfic Garden, Enchanting outdoor space with winding pathways lined with luminous mushrooms, a babbling brook surrounded by lush greenery, delicate fairy lights twinkling in the trees, intricately carved stone benches for quiet contemplation, colorful blooms that emit a sweet, intoxicating fragrance

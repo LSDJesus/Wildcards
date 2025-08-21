@@ -1,0 +1,6 @@
+, indoors, medieval
+, temple, indoors
+, inside a cave, ice {cave{, cave walls|, tunnel}|dungeon}{, crystal||}{, blue cobblestone||}{, iceberg|||}{, stalactite|}{, stalagmite|}
+, inside a cave, fire {cave{, cave walls|, tunnel}{, stalactite|}{, stalagmite|}|{temple|dungeon}{, red cobblestone||}}{, lava{ river| lake| fall||}}, Vulcan
+, inside a wooden hut, indoors, skull, shelf, candle, (bubbling cauldron:1.1), smoke, herbs,{ magic circle|||}
+, inside a sewer

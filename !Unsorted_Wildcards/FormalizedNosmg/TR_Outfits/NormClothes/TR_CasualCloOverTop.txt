@@ -1,0 +1,8 @@
+Hoodie
+Jacket
+Denim Jacket
+Leather Jacket
+Cropped Jacket{, Denim Jacket|, Leather Jacket||||}
+Letterman Jacket
+Bomber Jacket
+Vest

@@ -1,0 +1,10 @@
+Hakurei Reimu
+blonde, Kirisame Marisa
+Remilia Scarlet
+beret, \(touhou\) Hong Meiling
+{mob cap, ||}Patchouli Knowledge
+source_anime, Izayoi Sakuya
+{mob cap, |}blonde, wings,{ fangs,||} crystal, source_anime, Flandre Scarlet
+tokin hat, \(touhou\) Shameimaru Aya
+medium hair, (\(touhou\):{0.9|1}) Alice Margatroid
+(\(touhou\):0.9) Inubashiri Momiji

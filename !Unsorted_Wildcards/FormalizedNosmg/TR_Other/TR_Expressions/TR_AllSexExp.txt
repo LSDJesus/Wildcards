@@ -1,0 +1,36 @@
+, parted lips{, heavy breathing|}{, blush|}{, half-closed eyes|, eye roll|, heart-shaped pupils||}{, runny makeup||||}{, floating hearts|||}
+, seductive smile{, heavy breathing|}{, blush|}{, half-closed eyes|, eye roll|, heart-shaped pupils||}{, runny makeup||||}{, floating hearts|||}
+, biting lip{, heavy breathing|}{, blush|}{, half-closed eyes|, eye roll|, heart-shaped pupils||}{, runny makeup||||}{, floating hearts|||}
+, ahegao{, heavy breathing|}{, blush|}{, half-closed eyes|, eye roll|, heart-shaped pupils|, wide-eyed|}{, runny makeup||||}{, floating hearts|||}
+, clenched teeth{, smile||}{, heavy breathing|}{, blush|}{, half-closed eyes|, eye roll|, heart-shaped pupils|, wide-eyed|}{, runny makeup||||}{, floating hearts|||}
+{{, crossed eyes|, rolling eyes}, half closed eyes|looking away, avoiding gaze}{, blush|, full-face blush}{, frown||}{, embarrassed|}{, angry|, annoyed|}{, nervous||}{, parted lips|, biting lip|, clenched teeth||}{, heavy breathing|}{, nervous sweat||}
+, wavy mouth, smile{, heavy breathing|}{, blush|}{, half-closed eyes|, eye roll|, heart-shaped pupils|, wide-eyed|}{, runny makeup||||}{, floating hearts|||}
+, happy sex, smile{, heavy breathing|}{, blush|}{, half-closed eyes|, eye roll|, heart-shaped pupils|, wide-eyed|}{, runny makeup||||}{, floating hearts|||}
+{, closed eyes|, half-closed eyes|, looking away, avoiding gaze|}{, blush|, full-face blush}{, embarrassed||}{, shy||}{, nervous||}{, parted lips|, biting lip|, clenched teeth||}{, heavy breathing||}
+, ahegao, frown{, rolling eyes|}, afraid, nervous, trembling, yelling, {tongue out|gritted teeth}{, drool||}, wide-eyed{, shocked|}, tears{, runny makeup|}{, heart-shaped pupils|, floating hearts|, heart-shaped pupils and floating hearts||||}{, blush|||}, heavy breathing{, wavy eyes|}{, constricted pupils|}, forced orgasm
+, ahegao, frown, rolling eyes, {tongue out|gritted teeth}{, drool||}{, half-closed eyes|, wide-eyed{, shocked|}|}{, tears{,runny makeup|}|}{, heart-shaped pupils|, floating hearts|, heart-shaped pupils and floating hearts||||}{, blush|||}
+, smiling ahegao, rolling eyes, {tongue out|gritted teeth}{, drool||}{, half-closed eyes|, wide-eyed{, shocked|}|}{, tears{, runny makeup|}|||}{, heart-shaped pupils|, floating hearts|, heart-shaped pupils and floating hearts||||}{, blush|||}
+, (spiral eyes:1.2), brainwashed, smile, open mouth{, head tilt|||}
+, (spiral eyes:1.2, brainwashed, expressionless, parted lips{, drool||||}{, head tilt|||}{, half-closed eyes|}
+,  glowing eyes, blank eyes, pink eyes, brainwashed, expressionless, half-closed eyes, parted lips, blank stare, head tilt
+,  glowing eyes, blank eyes, pink eyes, brainwashed, expressionless, (wide-eyed), blank stare, light smile, open mouth, head tilt
+, (spiral eyes:1.2), brainwashed, smile, open mouth{, head tilt|||}
+, (spiral eyes:1.2, brainwashed, expressionless, parted lips{, drool||||}{, head tilt|||}{, half-closed eyes|}
+,  glowing eyes, blank eyes, pink eyes, brainwashed, expressionless, half-closed eyes, parted lips, blank stare, head tilt
+,  glowing eyes, blank eyes, pink eyes, brainwashed, expressionless, (wide-eyed), blank stare, light smile, open mouth, head tilt
+, {evil smile, grin|, seductive smile, evil smile|, licking lips, seductive|, seductive smirk|, biting lip, seductive gaze|, sneering, frown}
+, smile{, half-closed eyes||}{, blush||}
+, licking lips{, half-closed eyes||}{, blush||}
+, lip bite{, half-closed eyes||}{, blush||}
+, evil smile, grin{, half-closed eyes||}{, blush||}
+, seductive smile{, half-closed eyes||}{, blush|||}
+, evil smile{, half-closed eyes||}{, blush||||}
+, seductive smile{, grin||}{, half-closed eyes||}{, blush|||}
+, sneering, frown{, half-closed eyes||}
+, disgusted, frown{, half-closed eyes||}
+, biting lip{, heavy breathing||}{, heart-shaped pupils||}{, floating hearts||}{, blush||||||||}{, wink|, half-closed eyes|||||}
+, parted lips{, heavy breathing||}{, heart-shaped pupils||}{, floating hearts||}{, blush||||||||}{, wink|, half-closed eyes|||||}
+, smile{, heavy breathing||}{, heart-shaped pupils||}{, floating hearts||}{, blush||||||||}{, wink|, half-closed eyes|||||}
+, seductive smile{, heavy breathing||}{, heart-shaped pupils||}{, floating hearts||}{, blush||||||||}{, wink|, half-closed eyes|||||}
+, grin{, heavy breathing||}{, heart-shaped pupils||}{, floating hearts||}{, blush||||||||}{, wink|, half-closed eyes|||||}
+{, smile|, small smile}{, parted lips|, biting lip|, grin|, seductive smile|, tongue out}{, half closed eyes|, closed eyes|, rolling eyes|, heart-shaped pupils|}{, blush|}{, heavy breathing|||}{, floating hearts||}

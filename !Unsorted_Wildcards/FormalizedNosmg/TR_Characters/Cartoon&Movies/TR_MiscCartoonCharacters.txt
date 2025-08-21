@@ -1,0 +1,33 @@
+red hair, long eyelashes, pink eyes, ponytail{, evil||}, (\(the fairly oddparents\) Vicky:1.1)
+\(foster's home for imaginary friends\) Frankie Foster
+red hair, \(dexter's laboratory\) Dexter's Mom 
+robot joints{, metal hair|}{, metal skin|}{, robot girl||}, \(My Life as a Teenage Robot\) Jenny Xj9 Wakeman
+Gwen Total Drama
+{fang, |fangs, |||}\(adventure time\) Marceline Abadeer
+pink skin, blunt bangs, no nose, \(adventure time\) Princess (Bubblegum:0.5)
+\(adventure time\) Fionna the Human
+Velma Dace Dinkley
+{Daphne Blake|(Daphne Blake:1.1)}
+\(kim possible\) Kimberly Ann Possible
+short hair, \(kim possible\) Dr Ann Possible
+black hair, black lips, green skin, \(kim possible\) Shego
+freckles, (\(gravity falls\) Wendy Corduroy:0.8)
+(\(star vs the forces of evil\) Star Butterfly:0.9)
+\(star vs the forces of evil\) Hekapoo
+\(star vs the forces\) (Jackie Lynn Thomas:1.{0|1})
+green skin, red sclera{, runny makeup||}, silver hair, freckles, \(wander over yonder\) Lord Dominator
+\(tmnt\) April O'neil
+\(hazbin hotel\) Charlie Morningstar
+\(helluva boss\) Millie
+\(helluva boss\) Verosika Mayday
+brown hair, short hair, freckles, purple eyeshadow, \(the loud house\) Luna Loud
+blonde hair, blue eyes, \(the loud house\) Leni Loud
+brown hair, messy hair, dark-skinned female, \(amphibia\) Anne Boonchuy
+ponytail, mole under eye, \(amphibia\) Sasha Waybright
+1girl, short hair, \(castlevania netflix\) Sypha Belnades
+1girl, (heterochromia:0.7), (Catra:1.1)
+\(wakfu\) Evangelyne 
+source_cartoon, {wide hips ,||}milf, \(Danny Phantom\) (Madeline Fenton:1.1)
+{\(Ladybug\)||}, Marinette Dupain-Cheng 
+dark-skinned female, \(the owl house\) Luz Noceda 
+{blunt ends, medium hair, green hair, updo, (bob cut:1.1), yellow eyes, (slicked back hair:0.6)|, short hair, purple hair}, \(the owl house\) Amity Blight

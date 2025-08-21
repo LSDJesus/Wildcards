@@ -1,0 +1,5 @@
+1boy{, dark-skinned male|}
+fat man{, dark-skinned male|}
+muscular male{, dark-skinned male|}
+old man{, dark-skinned male|}
+ugly bastard{, dark-skinned male|}

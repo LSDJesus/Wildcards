@@ -1,0 +1,1 @@
+{, queen|, princess}{, (crown:1.1)|}, petticoat, dress, __TR_colors__ dress{, frills||}, cleavage, corset{, narrow waist|}{, bare shoulders||}, gold necklace, jewels, puffy sleeves{, long sleeves{, wide sleeves||}|, short sleeves, elbow gloves}{, __tr_makeup__|}

@@ -1,0 +1,4 @@
+__TR_NTLL__, orange hair, (ponytail:0.8), pink eyes, long hair,( blunt bangs:0.9), (red bow, hair bow:0.9), (\(powerpuff girls\) Blossom:1.1)
+__TR_NTLL__,(bob cut:0.1), tomboy, (pointy hair:1.1), blunt bangs, green eyes, black hair, \(powerpuff girls\) ppg Buttercup
+{(loli:-1)|(loli:-1.1)}, blonde, short twintails, parted bangs, blue eyes, \(powerpuff girls\) ppg Bubbles
+{hair over eyes, |}Sara Bellum

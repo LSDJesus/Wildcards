@@ -1,0 +1,6 @@
+{source_furry, anthro pony girl, \(mlp\),| human girl}{cutie mark|} Twillight Sparkle{, purple skin|}
+{source_furry, anthro pony girl, \(mlp\),| human girl}{cutie mark|} Rainbow Dash{, blue skin|}
+{source_furry, anthro pony girl, \(mlp\),| human girl}{cutie mark|} Rarity{, white skin|}
+{source_furry, anthro pony girl, \(mlp\),| human girl}{cutie mark|} Pinkie Pie{, pink skin|}
+{source_furry, anthro pony girl, \(mlp\),| human girl}{cutie mark|} Fluttershy{, yellow skin|}
+{source_furry, anthro pony girl, \(mlp\),| human girl}{cutie mark|} Applejack{, orange skin|}

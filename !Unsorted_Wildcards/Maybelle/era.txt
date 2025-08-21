@@ -1,0 +1,10 @@
+.
+medieval
+futuristic, sci-fi, cyberpunk
+science_fiction
+fantasy
+ancient_rome
+ancient_greece
+aztec
+fairytale
+gothic

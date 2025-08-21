@@ -1,0 +1,13 @@
+# Remove or Set a # in front of a line to Activate or Deactivate the Option
+# Simple add your Own Wildcards just in a new Line
+# __Vision/Female-Appearance/Eye-Color__        Parts
+# __Vision/Female-Appearance/Piercing__         for fast
+# __Vision/Female-Appearance/Hair-length__      Copy and Past
+# __Vision/Female-Appearance/Hair-Color__       For your own
+# __Vision/Female-Appearance/Hair-texture__     Prompts !!
+# __Vision/Female-Appearance/Hair-cut__
+# __Vision/Female-Appearance/Hair-Bonus__
+# __Vision/Female-Appearance/Emotionen__
+# __Vision/Female-Appearance/Nationality__
+#-----------------------------------------------------------------------------------------------
+__Vision/Female-Appearance/Eye-Color__,__Vision/Female-Appearance/Piercing__,__Vision/Female-Appearance/Hair-length__ __Vision/Female-Appearance/Hair-Color__ __Vision/Female-Appearance/Hair-texture__,__Vision/Female-Appearance/Hair-cut__ cut, __Vision/Female-Appearance/Hair-Bonus__,__Vision/Female-Appearance/Emotionen__

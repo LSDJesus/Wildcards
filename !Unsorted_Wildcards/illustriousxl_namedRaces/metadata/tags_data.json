@@ -1,0 +1,87 @@
+{
+    "creator_opt": [
+        "illustXL/creator/body/race/dragon_ball/super_saiyan",
+        "illustXL/creator/body/race/dragon_ball/saiyan",
+        "illustXL/creator/body/race/dragon_ball/majin",
+        "illustXL/creator/body/race/final_fantasy/Miqo_te",
+        "illustXL/creator/body/race/final_fantasy/viera",
+        "illustXL/creator/body/race/final_fantasy/au_ra",
+        "illustXL/creator/body/race/final_fantasy/lalafell",
+        "illustXL/creator/body/race/granblue_fantasy/erune",
+        "illustXL/creator/body/race/granblue_fantasy/draph",
+        "illustXL/creator/body/race/granblue_fantasy/harvin",
+        "illustXL/creator/body/race/warcraft/blood_elf",
+        "illustXL/creator/body/race/warcraft/orc",
+        "illustXL/creator/body/race/warcraft/draenei",
+        "illustXL/creator/body/race/warcraft/troll",
+        "illustXL/creator/body/race/warcraft/night_elf",
+        "illustXL/creator/body/race/other/yorha",
+        "illustXL/creator/body/race/other/abyssal_ship",
+        "illustXL/creator/body/race/other/dunmer",
+        "illustXL/creator/body/race/other/gerudo",
+        "illustXL/creator/body/race/other/xenomorph",
+        "illustXL/creator/body/race/other/houseki",
+        "illustXL/creator/body/race/other/inkling",
+        "illustXL/creator/body/race/other/omnic",
+        "illustXL/creator/body/race/other/symbiote_host",
+        "illustXL/creator/body/race/other/autobot",
+        "illustXL/creator/body/race/other/cyberpsycho",
+        "illustXL/creator/body/race/other/sheikah",
+        "illustXL/creator/body/race/other/machine_lifeform",
+        "illustXL/creator/body/race/other/lyn"
+    ],
+    "body": [
+        "illustXL/creator/body/race/dragon_ball/super_saiyan",
+        "illustXL/creator/body/race/dragon_ball/saiyan",
+        "illustXL/creator/body/race/dragon_ball/majin",
+        "illustXL/creator/body/race/final_fantasy/Miqo_te",
+        "illustXL/creator/body/race/final_fantasy/viera",
+        "illustXL/creator/body/race/final_fantasy/au_ra",
+        "illustXL/creator/body/race/final_fantasy/lalafell",
+        "illustXL/creator/body/race/granblue_fantasy/erune",
+        "illustXL/creator/body/race/granblue_fantasy/draph",
+        "illustXL/creator/body/race/granblue_fantasy/harvin",
+        "illustXL/creator/body/race/warcraft/blood_elf",
+        "illustXL/creator/body/race/warcraft/orc",
+        "illustXL/creator/body/race/warcraft/draenei",
+        "illustXL/creator/body/race/warcraft/troll",
+        "illustXL/creator/body/race/warcraft/night_elf",
+        "illustXL/creator/body/race/other/yorha",
+        "illustXL/creator/body/race/other/abyssal_ship",
+        "illustXL/creator/body/race/other/dunmer",
+        "illustXL/creator/body/race/other/gerudo",
+        "illustXL/creator/body/race/other/xenomorph",
+        "illustXL/creator/body/race/other/houseki",
+        "illustXL/creator/body/race/other/inkling",
+        "illustXL/creator/body/race/other/omnic",
+        "illustXL/creator/body/race/other/symbiote_host",
+        "illustXL/creator/body/race/other/autobot",
+        "illustXL/creator/body/race/other/cyberpsycho",
+        "illustXL/creator/body/race/other/sheikah",
+        "illustXL/creator/body/race/other/machine_lifeform",
+        "illustXL/creator/body/race/other/lyn"
+    ],
+    "hybrids": [
+        "illustXL/creator/body/race/final_fantasy/Miqo_te",
+        "illustXL/creator/body/race/final_fantasy/viera",
+        "illustXL/creator/body/race/final_fantasy/au_ra",
+        "illustXL/creator/body/race/other/inkling",
+        "illustXL/creator/body/race/other/lyn"
+    ],
+    "pale": [
+        "illustXL/creator/body/race/other/abyssal_ship"
+    ],
+    "monsters": [
+        "illustXL/creator/body/race/other/xenomorph",
+        "illustXL/creator/body/race/other/symbiote_host"
+    ],
+    "mechs": [
+        "illustXL/creator/body/race/other/omnic",
+        "illustXL/creator/body/race/other/autobot",
+        "illustXL/creator/body/race/other/cyberpsycho",
+        "illustXL/creator/body/race/other/machine_lifeform"
+    ],
+    "fem_locked": [
+        "illustXL/creator/body/race/other/autobot"
+    ]
+}
