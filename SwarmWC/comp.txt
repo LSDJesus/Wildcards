@@ -1,7 +1,0 @@
-<wildcard:SwarmWC/composition/art_genre>
-<wildcard:SwarmWC/composition/camera_angle>
-<wildcard:SwarmWC/composition/framing>
-<wildcard:SwarmWC/composition/lens>
-<wildcard:SwarmWC/composition/photoshoot-type>
-<wildcard:SwarmWC/composition/trippy>
-<wildcard:SwarmWC/composition/vision>

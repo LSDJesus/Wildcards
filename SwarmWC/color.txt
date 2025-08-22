@@ -1,1 +1,0 @@
-<wildcard:SwarmWC/colors/color> colored

@@ -1,4 +1,0 @@
-diesel
-electric
-gasoline
-hybrid

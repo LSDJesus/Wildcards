@@ -1,1 +1,0 @@
-<macro:n>boys, <random: <wildcard:fantasy_girls/fantasy_girls/boy_types/little_boy> | <wildcard:fantasy_girls/fantasy_girls/boy_types/mature_boy> >

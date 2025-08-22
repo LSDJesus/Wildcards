@@ -1,1 +1,0 @@
-{0.3::__costumes__|0.7::__tops__, __bottoms__}{0.3::|0.2::, __accessories__|0.2::, __accessories__, __accessories__|0.2::, __accessories__, __shoes__|0.1::, __shoes__}

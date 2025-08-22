@@ -1,9 +1,0 @@
-(realistic:1.2), 3d
-(ultra realistic:1.2), 3d
-(source filmmaker:1.1), 3d
-(blender:1.2), 3d
-(ps5 screenshot:1.1), 3d
-\(disney\), 3d
-\(pixar\), 3d
-\(illumination entertainment\), 3d
-\(dreamworks\), 3d

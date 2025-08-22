@@ -1,6 +1,0 @@
-{athletic, |}{fit, |}{tall woman, }Samus Aran
-Palutena
-{colored skin, white skin, empty eyes, ||} Wii Fit Trainer
-{\(Arms\) |||}(Min Min:0.{8|9|99})
-{\(Arms\) |||}(Twintelle:0.{8|9|99})
-short hair, Bayonetta

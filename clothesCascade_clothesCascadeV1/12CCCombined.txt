@@ -1,4 +1,0 @@
-__14Jacket__, __14Shirt__
-__14Jacket__, __14Dress__ 
-__14Jacket__, __14Shirt__, __14Pants__
-__14Jacket__, __14Shirt__, __14Skirts__

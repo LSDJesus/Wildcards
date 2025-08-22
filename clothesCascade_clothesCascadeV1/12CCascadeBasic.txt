@@ -1,4 +1,0 @@
-__13ClothesTop__
-__13ClothesFull__
-__13ClothesBottom__
-__13ClothesTop__ , __13ClothesBottom__

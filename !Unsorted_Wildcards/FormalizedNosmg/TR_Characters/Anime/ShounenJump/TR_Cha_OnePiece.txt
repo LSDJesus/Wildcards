@@ -1,8 +1,0 @@
-{short hair, ||}{\(one piece\) Nami|(Nami:1.{0|1|2})}
-{dark-skinned female, blunt bangs,{, [[[medium hair]]],||}{, blunt ends,|}|, thin glasses, ponytail||}, (Nico Robin:{0.8|0.85|0.9|0.95|1})
-(\(one piece\):0.9) Nefertari Vivi
-blunt bangs, pink hair, black eyes, eyeliner, twin drills, solid circle pupils, lipstick, {large|medium} breasts, {||, knees together feet apart, }\(One Piece\) (Perona)
-black hair, Boa Hancock
-horns, white hair, \(one piece\) Yamato
-long hair, pink mask, two-tone hair, blue hair, purple hair, white horns, \(one piece\) Ulti
-(hair over shoulder:-0.7), sidelocks, swept bangs, pink hair, single braid, \(one piece\) Rebecca

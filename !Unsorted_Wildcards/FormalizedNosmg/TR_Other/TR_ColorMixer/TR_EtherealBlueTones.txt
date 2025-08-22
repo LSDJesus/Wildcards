@@ -1,6 +1,0 @@
-Blue
-[Blue|Green]
-[Blue|Aqua]
-[Blue|Silver]
-[Blue|Silver|Aqua|Green]
-[Blue|Purple]

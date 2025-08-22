@@ -1,6 +1,0 @@
-biting lip{, heavy breathing||}{, heart-shaped pupils||}{, floating hearts||}{, blush||||||||}{, wink|, half-closed eyes|||||}
-parted lips{, heavy breathing||}{, heart-shaped pupils||}{, floating hearts||}{, blush||||||||}{, wink|, half-closed eyes|||||}
-licking lips{, heavy breathing||}{, heart-shaped pupils||}{, floating hearts||}{, blush||||||||}{, wink|, half-closed eyes|||||}
-smile{, heavy breathing||}{, heart-shaped pupils||}{, floating hearts||}{, blush||||||||}{, wink|, half-closed eyes|||||}
-seductive smile{, heavy breathing||}{, heart-shaped pupils||}{, floating hearts||}{, blush||||||||}{, wink|, half-closed eyes|||||}
-grin{, heavy breathing||}{, heart-shaped pupils||}{, floating hearts||}{, blush||||||||}{, wink|, half-closed eyes|||||}

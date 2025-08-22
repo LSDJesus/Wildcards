@@ -1,5 +1,0 @@
-<wildcard:SwarmWC/clothing/footwear-boots>
-<wildcard:SwarmWC/clothing/footwear-heels>
-<wildcard:SwarmWC/clothing/footwear-sandals>
-<wildcard:SwarmWC/clothing/footwear-shoes>
-<wildcard:SwarmWC/clothing/footwear-slippers>

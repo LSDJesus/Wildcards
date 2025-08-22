@@ -1,5 +1,0 @@
-Green
-[Green|Yellow]
-[Green|Blue]
-[Green|Aqua]
-[Green|White|Green|Silver]

@@ -1,1 +1,0 @@
-, {(moth girl:1.{1|2}), fur collar|(arthropod girl:1.{1|2|3})}, antennae{, white pupils|||}, (compound eyes:1.{1|2|3}){, (colored skin:1.1), {black|red|pink|orange|purple|yellow|} skin|||}, carapace, (insect:0.7) wings, reflective skin

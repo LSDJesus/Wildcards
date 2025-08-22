@@ -1,7 +1,0 @@
-__composition/art_genre__
-__composition/camera_angle__
-__composition/framing__
-__composition/lens__
-__composition/photoshoot-type__
-__composition/trippy__
-__composition/vision__

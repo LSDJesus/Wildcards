@@ -1,7 +1,0 @@
-[purple|orange|red|yellow] theme, limited palette, [vaporwave:5]
-[purple|orange|red|yellow] theme, [limited palette, vaporwave:5]
-[pink|light blue|violet|yellow] theme, limited palette, [vaporwave:5]
-[pink|light blue|red|yellow] theme, [limited palette, vaporwave:5]
-[red|orange|yellow|pink] theme, limited palette, [vaporwave:5]
-[red|orange|yellow|purple] theme, [limited palette, vaporwave:5]
-green theme, [[green|blue|yellow|orange] theme:2], limited palette, [vaporwave:5]

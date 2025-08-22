@@ -1,3 +1,0 @@
-from_side,, narrow_waist,, legs
-from_behind, facing_away, legs
-, narrow_waist, , legs

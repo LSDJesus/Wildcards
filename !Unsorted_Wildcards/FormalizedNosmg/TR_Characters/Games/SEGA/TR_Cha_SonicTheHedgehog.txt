@@ -1,5 +1,0 @@
-source_furry,{ (shortstack:0.6),|} rouge the bat
-source_furry,{ (shortstack:0.6),|} amy rose
-source_furry,{ (shortstack:0.6),|} vanilla the rabbit
-source_furry,{ (shortstack:0.6),|} sally acorn
-source_furry,{ (shortstack:0.6),|} blaze the cat

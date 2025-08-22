@@ -1,1 +1,0 @@
-{, purple|, brown|, black} lipstick, {black|dark|red|purple|brown} (eyeshadow:{0.9|1|1.1}), {black|purple} eyeliner{, thick eyeliner|||}{, long eyelashes||}, goth{, colored tips||}

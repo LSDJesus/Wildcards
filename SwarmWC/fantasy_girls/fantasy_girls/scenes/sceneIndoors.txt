@@ -1,6 +1,0 @@
-library Unique Artistic buckground, lighting melow
-washitsu, tatami, syouji, kakejiku, warmlight
-curtains, indoors, window, sofa, table, pictue, Vases, houseplants
-school, tables, chairs
-living room, sofa, Dining table, chairs, carpet, fireplace, ornamental foliage
-Aristocratic mansion <random: entrance chandelier, Portrait-on-wall | red carpet, corridors Statue Vase of roses | red carpet, stairwell, stairs chandelier >

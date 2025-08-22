@@ -1,5 +1,0 @@
-source_anime, (Commander Shepard:0.9)
-source_anime, blue skin, (Liara:0.7)
-source_anime, Tali'Zorah
-source_anime, Miranda Lawson
-source_anime, tattoos, (full-body:0.9) tattoo, ponytail, shaved head, (\(mass effect\) Jack:1.1)

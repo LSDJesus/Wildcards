@@ -1,1 +1,0 @@
-(Cinematic Shot:1.3) Tower13_Tammy (skinny, slim, slender, narrow waist:1.3) ((Photo Focus, DOF, Aperture, insanely detailed and intricate, character, hypermaximalist, hyper realistic, super detailed, (lens flare))) (Jeans and tank top:1.3) (at times square:1.3) (smile:1.3) <lora:exposure_control_v10:-0.2> <lora:more_details:0.3>

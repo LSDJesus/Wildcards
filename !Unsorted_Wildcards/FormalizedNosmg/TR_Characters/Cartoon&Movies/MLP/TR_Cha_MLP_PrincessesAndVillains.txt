@@ -1,7 +1,0 @@
-source_furry, anthro pony girl, \(mlp\), {cutie mark|} Princess Celestia
-source_furry, anthro pony girl, \(mlp\), {cutie mark|} Princess Luna
-source_furry, anthro pony girl, \(mlp\), {cutie mark|} Princess Cadance
-source_furry, anthro pony girl, \(mlp\), {cutie mark|} Daybreaker
-source_furry, anthro pony girl, \(mlp\), {cutie mark|} Nightmare Moon
-source_furry, anthro pony girl, \(mlp\), Queen Chrysalis
-source_furry, anthro pony girl, \(mlp\), {cutie mark|} Tempest Shadow

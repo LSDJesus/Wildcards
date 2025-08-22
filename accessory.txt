@@ -1,5 +1,0 @@
-__accessory/arm__
-__accessory/choker__
-__accessory/earrings__
-__accessory/head__
-__accessory/tattoo__

@@ -1,7 +1,0 @@
-source_anime, twintails,  (\(sailor moon\):0.9) (tsukino usagi:0.9)
-source_anime, short hair, blue hair, blue bishoujo senshi (sailor:0.8) mercury mizuno ami 
-source_anime, anime, tsurime, black hair, very long hair, bishou senshi (\(sailor moon\):0.7), mars, (hino rei:1.{3|35|4})
-source_anime, brown hair, high ponytail, green bishoujo senshi (sailor:0.8) jupiter (kino makoto:1.2)
-source_anime, wavy hair, green hair, bishoujo senshi (sailor:0.8) neptune kaiou michiru
-source_anime, anime, tsurime, short hair, light brown hair, bishou senshi (\(sailor moon\):0.7), uranus, ten'ou haruka
-source_anime, anime, mature female, purple eyes, very long hair, green hair, single hair bun{, staff|||} bishou senshi (\(sailor moon\):0.{8|9}) sailor pluto, meiou setsuna

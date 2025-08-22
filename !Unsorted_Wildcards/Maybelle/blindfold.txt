@@ -1,4 +1,0 @@
-__Maybelle/eyecolor__ black eyeshadow, eyeliner
-__Maybelle/eyecolor__ black eyeshadow, eyeliner
-__Maybelle/eyecolor__ black eyeshadow, eyeliner
-(blindfold, covered_eyes:1.3)

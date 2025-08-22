@@ -1,4 +1,0 @@
-(looking_down, looking_at_floor:1.2)
-(looking_ahead:1.1)
-looking_at_viewer
-(looking_up, head_back:1.1)

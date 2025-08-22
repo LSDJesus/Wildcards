@@ -1,1 +1,0 @@
-__Vision/Camera/Settings__, A __VC-Age__  __Vision/Female-Appearance/Nationality__ Woman , __VC-Face__, __VC-Body__, Dressed in __VC-Appearance-Clothing__ __VC-Clothing__{, __VC-Pose__|}, __VC-Background__

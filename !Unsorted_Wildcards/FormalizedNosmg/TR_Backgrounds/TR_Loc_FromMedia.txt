@@ -1,4 +1,0 @@
-in {Ponyville|Canterlot}
-in Hogwarts
-(in silent hill:1.{1|2|3}), street, city, (fog:1.2), {|dutch angle}, horror \(theme\)
-in Gotham City, noir, night, black sky{,  {alley, graffiti|rooftop|pier}||} 

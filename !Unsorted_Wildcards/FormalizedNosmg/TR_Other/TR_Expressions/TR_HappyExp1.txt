@@ -1,7 +1,0 @@
-parted lips{, blush||||||||}{, wink|, half-closed eyes|||||}
-smile{, blush||||||||}{, wink|, half-closed eyes|||||}{, closed mouth||}
-confident smile{, blush||||||||}{, wink|, half-closed eyes|||||}{, frown|}
-seductive smile{, blush||||||||}{, wink|, half-closed eyes|||||}
-grin{, blush||||||||}{, wink|, half-closed eyes|||||}
-smirk{, blush||||||||}{, wink|, half-closed eyes|||||}
-shy smile{, avoiding gaze, looking away||}{, blush||||||||}{, half-closed eyes|||||}

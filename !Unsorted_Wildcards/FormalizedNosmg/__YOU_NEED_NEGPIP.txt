@@ -1,5 +1,0 @@
-A lot of these prompts are meant to be used with the NegPip extension
-
-https://github.com/hako-mikan/sd-webui-negpip
-
-If you don't get it, some prompts will work, but others will look very weird.

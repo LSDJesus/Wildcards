@@ -1,7 +1,0 @@
-__13ClothesTop__
-__13ClothesBottom__
-__13ClothesFull__
-__13Bras__
-__13Panties__
-__13Swimsuit__
-{negligee|harem outfit|lingerie|playboy bunny}

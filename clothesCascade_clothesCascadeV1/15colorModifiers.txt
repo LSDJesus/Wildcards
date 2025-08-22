@@ -1,5 +1,0 @@
-bright
-dark
-natural
-neon
-soft

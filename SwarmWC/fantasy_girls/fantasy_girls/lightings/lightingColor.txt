@@ -1,7 +1,0 @@
-Warm Light
-Cool Light
-Daylight
-Tungsten Light
-Candlelight
-Mixed Lighting
-Neon Light

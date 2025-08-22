@@ -1,1 +1,0 @@
-Some of these still output women, but with the features of the male char. Add "1boy" or "femboy" or "trap" etc to fix it

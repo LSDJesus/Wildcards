@@ -1,8 +1,0 @@
-{source_anime, ||}{dark-skinned female, black hair, 2p, |||||}(Yorha 2b:{1|0.9})
-(dark purple hair:0.75), black hair, {very ||}long hair, high ponytail, swept bangs, \(dragon quest xi\) \(dq11\) (Jade Martina:1.3)
-athletic, cavewoman, monkey tail, long hair, blonde, wavy hair, \(dragon ball\) \(chrono trigger\) (Ayla:1.3)
-source_anime, {\(life is strange\) ||||||}Max Caulfield
-source_anime, {\(life is strange\) ||||||}Chloe Price
-\((Parasite:0.01) Eve\), Aya Brea
-Lara Croft
-single braid, \(dragon quest III\), Bianca Whitaker

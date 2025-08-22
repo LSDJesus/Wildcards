@@ -1,7 +1,0 @@
-(Chun Li:0.{8|9})
-(Cammy White:0.{9|85|8})
-(Han Juri:0.{8|9})
-{brown hair, |}{tomboy, |}{tan, red eyes, |||} \(street fighter\) (Kasugano Sakura:1.2)
-(\(street fighter\) Rainbow Mika:0.9)
-{dark-skinned female, ||} (Laura Matsuda:0.9)
-1girl, tomboy, black hair, (short hair:0.5), (yellow scarf:0.3), (yellow ribbon choker:0.8), (\(street fighter\):0.9) (Makoto:1.3)

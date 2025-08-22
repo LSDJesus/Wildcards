@@ -1,6 +1,0 @@
-zipper
-small buttons
-large buttons
-fabric buttons
-drawstring
-snaps

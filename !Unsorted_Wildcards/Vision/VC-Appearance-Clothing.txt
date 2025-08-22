@@ -1,4 +1,0 @@
-# Remove or Set a # in front of a line to Activate or Deactivate the Option
-# Simple add your Own Wildcards just in a new Line 
-#-----------------------------------------------------------------------------------------------
-__Vision/Clothing-Appearance/Color__ {__Vision/Clothing-Appearance/Pattern__|__Vision/Clothing-Appearance/Prints-Animal__|__Vision/Clothing-Appearance/Prints-Childish__|||},
