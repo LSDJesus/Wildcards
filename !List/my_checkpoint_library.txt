@@ -4,9 +4,7 @@ D:.
 ¦   bigaspV25_v25.safetensors
 ¦   illustriousXLV20_v20Stable.safetensors
 ¦   IlustRealdollij.safetensors
-¦   IlustRealdollij.sha256
 ¦   my_checkpoint_library.txt
-¦   Put Stable Diffusion checkpoints here.txt
 ¦   
 +---AceStep
 ¦       ace_step_v1_3.5b.safetensors
@@ -18,20 +16,10 @@ D:.
 +---Illustrious
 ¦   +---3DCG
 ¦   ¦       dixar_2DoubleTheDix.safetensors
-¦   ¦       dixar_2DoubleTheDix.sha256
-¦   ¦       dixar_2DoubleTheDix_$dyn-b-1-4-2-h-512-1536-1024-w-512-1536-1024_00001_.engine
 ¦   ¦       dollij_v10.safetensors
-¦   ¦       dollij_v10.sha256
-¦   ¦       dollij_v10_$dyn-b-1-8-1-h-512-1536-1024-w-512-1536-1024_00001_.engine
-¦   ¦       ilijelle_v30.civitai.info
 ¦   ¦       ilijelle_v30.safetensors
-¦   ¦       ilijelle_v30.sha256
-¦   ¦       ilijelle_v30_$dyn-b-1-8-1-h-512-1536-1024-w-512-1536-1024_00001_.engine
 ¦   ¦       miaomiao3DHarem_nbxl10.safetensors
-¦   ¦       miaomiao3DHarem_nbxl10.sha256
-¦   ¦       nova3DCGXL_illustriousV40.civitai.info
 ¦   ¦       nova3DCGXL_illustriousV40.safetensors
-¦   ¦       nova3DCGXL_illustriousV40.sha256
 ¦   ¦       
 ¦   +---Anime
 ¦   ¦       anicomeij_v30.civitai.info
